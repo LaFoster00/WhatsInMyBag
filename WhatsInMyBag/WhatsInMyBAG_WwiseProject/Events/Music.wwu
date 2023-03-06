@@ -1,0 +1,362 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{E1AA69A5-532D-4B23-BEDA-7D665B445951}" SchemaVersion="103">
+	<Events>
+		<WorkUnit Name="Music" ID="{E1AA69A5-532D-4B23-BEDA-7D665B445951}" PersistMode="Standalone">
+			<ChildrenList>
+				<Event Name="Play_Gameplay_Music" ID="{715F6C6A-D913-4B39-9606-1ADE0FBDC5C6}">
+					<PropertyList>
+						<Property Name="Color" Type="int16" Value="20"/>
+						<Property Name="OverrideColor" Type="bool" Value="True"/>
+					</PropertyList>
+					<ChildrenList>
+						<Action Name="" ID="{B441C999-FFD6-4D79-81A9-796E7A4B2E3A}" ShortID="781314395">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Game_Music_Switch" ID="{0A61C51E-5264-4D47-AD3E-EABB49EFAD81}" WorkUnitID="{82D8643B-54EE-46D7-89A5-A2DA58A7A50D}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Stop_Gameplay_Music" ID="{84FBDAB0-4F16-40B0-ABC8-762F8D76E031}">
+					<PropertyList>
+						<Property Name="Color" Type="int16" Value="20"/>
+						<Property Name="OverrideColor" Type="bool" Value="True"/>
+					</PropertyList>
+					<ChildrenList>
+						<Action Name="" ID="{01494668-9B78-490C-AFA4-38F65639FD23}" ShortID="182766851">
+							<PropertyList>
+								<Property Name="ActionType" Type="int16" Value="2"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Game_Music_Switch" ID="{0A61C51E-5264-4D47-AD3E-EABB49EFAD81}" WorkUnitID="{82D8643B-54EE-46D7-89A5-A2DA58A7A50D}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Play_Menu_Soundtrack" ID="{D54FF96E-789D-45CE-BEA8-8DF7CB0091FF}">
+					<PropertyList>
+						<Property Name="Color" Type="int16" Value="3"/>
+						<Property Name="OverrideColor" Type="bool" Value="True"/>
+					</PropertyList>
+					<ChildrenList>
+						<Action Name="" ID="{C5B34666-AD4B-40A8-85C9-9860DC91AA37}" ShortID="940660706">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Menu_Soundtrack" ID="{6750F0BC-A741-4CCD-AF0C-F809A14BF2E2}" WorkUnitID="{82D8643B-54EE-46D7-89A5-A2DA58A7A50D}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Stop_Menu_Soundtrack" ID="{21884AB6-4036-4C84-B249-8B3E6A361777}">
+					<PropertyList>
+						<Property Name="Color" Type="int16" Value="3"/>
+						<Property Name="OverrideColor" Type="bool" Value="True"/>
+					</PropertyList>
+					<ChildrenList>
+						<Action Name="" ID="{54442ABE-EAE6-4CD5-B0FE-3827F52B49AA}" ShortID="617126828">
+							<PropertyList>
+								<Property Name="ActionType" Type="int16" Value="2"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Menu_Soundtrack" ID="{6750F0BC-A741-4CCD-AF0C-F809A14BF2E2}" WorkUnitID="{82D8643B-54EE-46D7-89A5-A2DA58A7A50D}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Play_Intro_Sequence" ID="{A6319163-7F0F-4470-8D3D-29A57DD0691B}">
+					<PropertyList>
+						<Property Name="Color" Type="int16" Value="8"/>
+						<Property Name="OverrideColor" Type="bool" Value="True"/>
+					</PropertyList>
+					<ChildrenList>
+						<Action Name="" ID="{84935873-6A77-43A6-869E-18E9EAE7101D}" ShortID="637947803">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Intro_Sequence" ID="{A461B67C-2B79-4A51-BF7A-1D740F3CD10A}" WorkUnitID="{82D8643B-54EE-46D7-89A5-A2DA58A7A50D}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Stop_Intro_Sequence" ID="{09783FCF-7479-4615-83E7-8AF48A0D13B8}">
+					<PropertyList>
+						<Property Name="Color" Type="int16" Value="8"/>
+						<Property Name="OverrideColor" Type="bool" Value="True"/>
+					</PropertyList>
+					<ChildrenList>
+						<Action Name="" ID="{5D01F7CA-D777-4D8D-9A9D-A0D5AFF34DDF}" ShortID="42576967">
+							<PropertyList>
+								<Property Name="ActionType" Type="int16" Value="2"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Intro_Sequence" ID="{A461B67C-2B79-4A51-BF7A-1D740F3CD10A}" WorkUnitID="{82D8643B-54EE-46D7-89A5-A2DA58A7A50D}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Play_Outro_Sequence" ID="{AA8DC3DD-E72E-4E32-A2C0-5711EBA073BC}">
+					<PropertyList>
+						<Property Name="Color" Type="int16" Value="8"/>
+						<Property Name="OverrideColor" Type="bool" Value="True"/>
+					</PropertyList>
+					<ChildrenList>
+						<Action Name="" ID="{C50DB83D-E1DC-4CDC-B079-76E72CE43728}" ShortID="184023351">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Outro_Sequence" ID="{21172BAB-6798-4516-A106-983BF7BBF860}" WorkUnitID="{82D8643B-54EE-46D7-89A5-A2DA58A7A50D}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Stop_Outro_Sequence" ID="{6AF12A2E-A9B2-4E0F-9D6F-170ABECC8BE1}">
+					<PropertyList>
+						<Property Name="Color" Type="int16" Value="8"/>
+						<Property Name="OverrideColor" Type="bool" Value="True"/>
+					</PropertyList>
+					<ChildrenList>
+						<Action Name="" ID="{ED13C093-14E6-42CE-B678-F9825F512064}" ShortID="65011415">
+							<PropertyList>
+								<Property Name="ActionType" Type="int16" Value="2"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Outro_Sequence" ID="{21172BAB-6798-4516-A106-983BF7BBF860}" WorkUnitID="{82D8643B-54EE-46D7-89A5-A2DA58A7A50D}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Play_Ingame_Intro_Sequence" ID="{4F47C48A-1372-4C47-A77E-3A4AEC451198}">
+					<PropertyList>
+						<Property Name="Color" Type="int16" Value="24"/>
+						<Property Name="OverrideColor" Type="bool" Value="True"/>
+					</PropertyList>
+					<ChildrenList>
+						<Action Name="" ID="{2B9303A0-26DF-457F-AC79-335CDF513BED}" ShortID="139615106">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Ingame_Intro_Sequence" ID="{E83F1A6F-F373-413A-B513-BF49BF1FF7E6}" WorkUnitID="{82D8643B-54EE-46D7-89A5-A2DA58A7A50D}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Stop_Ingame_Intro_Sequence" ID="{4249D83B-687E-45FB-A73E-D3C135CE231D}">
+					<PropertyList>
+						<Property Name="Color" Type="int16" Value="24"/>
+						<Property Name="OverrideColor" Type="bool" Value="True"/>
+					</PropertyList>
+					<ChildrenList>
+						<Action Name="" ID="{69A277E0-7DB6-4C5E-A75D-5B31A6D31A6A}" ShortID="278153000">
+							<PropertyList>
+								<Property Name="ActionType" Type="int16" Value="2"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Ingame_Intro_Sequence" ID="{E83F1A6F-F373-413A-B513-BF49BF1FF7E6}" WorkUnitID="{82D8643B-54EE-46D7-89A5-A2DA58A7A50D}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Play_Coffee_Guy_Intro_Stinger" ID="{7BA6FB4E-11B4-45CF-8BB4-0B89CD2297D4}">
+					<PropertyList>
+						<Property Name="Color" Type="int16" Value="10"/>
+						<Property Name="OverrideColor" Type="bool" Value="True"/>
+					</PropertyList>
+					<ChildrenList>
+						<Action Name="" ID="{619A9F08-AAFD-4600-BFDA-54C87C048DB5}" ShortID="350362947">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Coffee_Boy_Intro_Stinger" ID="{970F3CEE-8940-4B8B-B55B-5A34EC7D0F31}" WorkUnitID="{82D8643B-54EE-46D7-89A5-A2DA58A7A50D}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Stop_Coffee_Guy_Intro_Stinger" ID="{A29902DD-DE4F-4F05-9EB8-4DF8262360BA}">
+					<PropertyList>
+						<Property Name="Color" Type="int16" Value="10"/>
+						<Property Name="OverrideColor" Type="bool" Value="True"/>
+					</PropertyList>
+					<ChildrenList>
+						<Action Name="" ID="{5D981491-3DDA-4D58-8C9B-E428B3823368}" ShortID="764659668">
+							<PropertyList>
+								<Property Name="ActionType" Type="int16" Value="2"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Coffee_Boy_Intro_Stinger" ID="{970F3CEE-8940-4B8B-B55B-5A34EC7D0F31}" WorkUnitID="{82D8643B-54EE-46D7-89A5-A2DA58A7A50D}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Play_Verka_Intro_Stinger" ID="{B0F3F6E9-CFE2-45BE-8F73-35BE345472C2}">
+					<PropertyList>
+						<Property Name="Color" Type="int16" Value="5"/>
+						<Property Name="OverrideColor" Type="bool" Value="True"/>
+					</PropertyList>
+					<ChildrenList>
+						<Action Name="" ID="{7F81532D-0B1E-476D-A687-BD9CC6C8BF02}" ShortID="586912454">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Verka_Intro_Stinger" ID="{1D5AFA82-E4B8-4E58-82BA-AC5DC0D2FC2C}" WorkUnitID="{82D8643B-54EE-46D7-89A5-A2DA58A7A50D}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Stop_Verka_Intro_Stinger" ID="{1135E5BA-586C-4832-ACEC-3AB4B49E44F4}">
+					<PropertyList>
+						<Property Name="Color" Type="int16" Value="5"/>
+						<Property Name="OverrideColor" Type="bool" Value="True"/>
+					</PropertyList>
+					<ChildrenList>
+						<Action Name="" ID="{990E9ED9-57A4-4B26-985B-1928C4AD9280}" ShortID="786878796">
+							<PropertyList>
+								<Property Name="ActionType" Type="int16" Value="2"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Verka_Intro_Stinger" ID="{1D5AFA82-E4B8-4E58-82BA-AC5DC0D2FC2C}" WorkUnitID="{82D8643B-54EE-46D7-89A5-A2DA58A7A50D}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Play_Security_Intro_Stinger" ID="{D5AD51D0-F769-4C22-AA2E-63E247CBAA96}">
+					<PropertyList>
+						<Property Name="Color" Type="int16" Value="1"/>
+						<Property Name="OverrideColor" Type="bool" Value="True"/>
+					</PropertyList>
+					<ChildrenList>
+						<Action Name="" ID="{88E58DC6-76AD-4C0D-BABA-63EF3F4B7DB6}" ShortID="394841991">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Security_Intro_Stinger" ID="{117CAEBE-3AD2-4E49-A1A5-AABF1B16C19A}" WorkUnitID="{82D8643B-54EE-46D7-89A5-A2DA58A7A50D}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Stop_Security_Intro_Stinger" ID="{29350D5D-F352-4505-AF58-03DC3D63FA8C}">
+					<PropertyList>
+						<Property Name="Color" Type="int16" Value="1"/>
+						<Property Name="OverrideColor" Type="bool" Value="True"/>
+					</PropertyList>
+					<ChildrenList>
+						<Action Name="" ID="{184C6E56-3F47-4CB5-AE3A-E24CF36E0603}" ShortID="103971020">
+							<PropertyList>
+								<Property Name="ActionType" Type="int16" Value="2"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Security_Intro_Stinger" ID="{117CAEBE-3AD2-4E49-A1A5-AABF1B16C19A}" WorkUnitID="{82D8643B-54EE-46D7-89A5-A2DA58A7A50D}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Play_Garbage_Intro_Stinger" ID="{F9140FD7-B799-470D-AE2B-647BEBEAAD19}">
+					<PropertyList>
+						<Property Name="Color" Type="int16" Value="2"/>
+						<Property Name="OverrideColor" Type="bool" Value="True"/>
+					</PropertyList>
+					<ChildrenList>
+						<Action Name="" ID="{38999A06-EBD6-428D-8A56-C338C73EC28C}" ShortID="1006615802">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Garbage_Intro_Stinger" ID="{9F5B7BF7-9C29-4E61-8AC9-4D4B4052ECDF}" WorkUnitID="{82D8643B-54EE-46D7-89A5-A2DA58A7A50D}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Stop_Garbage_Intro_Stinger" ID="{05B6462A-4B93-4BCB-87F1-4877950DC092}">
+					<PropertyList>
+						<Property Name="Color" Type="int16" Value="2"/>
+						<Property Name="OverrideColor" Type="bool" Value="True"/>
+					</PropertyList>
+					<ChildrenList>
+						<Action Name="" ID="{232D67CE-9374-4E51-BE28-61863BC050B1}" ShortID="989760932">
+							<PropertyList>
+								<Property Name="ActionType" Type="int16" Value="2"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Garbage_Intro_Stinger" ID="{9F5B7BF7-9C29-4E61-8AC9-4D4B4052ECDF}" WorkUnitID="{82D8643B-54EE-46D7-89A5-A2DA58A7A50D}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Play_Coffee_Machine_Intro_Stinger" ID="{98A12B3F-0455-4D8C-9CA3-F3443D1E2BAF}">
+					<PropertyList>
+						<Property Name="OverrideColor" Type="bool" Value="True"/>
+					</PropertyList>
+					<ChildrenList>
+						<Action Name="" ID="{4BD0241F-815A-4811-85F0-BB53829820B3}" ShortID="527869949">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Coffee_Machine_Intro_Stinger" ID="{B92C7992-2BB0-4A75-9606-3AC23E3305F0}" WorkUnitID="{82D8643B-54EE-46D7-89A5-A2DA58A7A50D}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Stop_Coffee_Machine_Intro_Stinger" ID="{87482810-3E0B-4D9A-802A-1264BC81B698}">
+					<PropertyList>
+						<Property Name="OverrideColor" Type="bool" Value="True"/>
+					</PropertyList>
+					<ChildrenList>
+						<Action Name="" ID="{A2AF9AA0-14AF-4BF0-BE86-9D3320788BE1}" ShortID="440718446">
+							<PropertyList>
+								<Property Name="ActionType" Type="int16" Value="2"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Coffee_Machine_Intro_Stinger" ID="{B92C7992-2BB0-4A75-9606-3AC23E3305F0}" WorkUnitID="{82D8643B-54EE-46D7-89A5-A2DA58A7A50D}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Play_IT_Girl_Intro_Stinger" ID="{039ADA35-DC17-429F-8A4D-97618D1A7EC2}">
+					<ChildrenList>
+						<Action Name="" ID="{D4AA770F-EC67-493E-97B8-7EF4F4AB2140}" ShortID="131544107">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="IT_Girl_Intro_Stinger" ID="{00E383DA-68AB-45B2-927E-1772FB02994C}" WorkUnitID="{82D8643B-54EE-46D7-89A5-A2DA58A7A50D}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Stop_IT_Girl_Intro_Stinger" ID="{FE47E9CF-CF3C-4BAE-946A-7E2A1D4D9927}">
+					<ChildrenList>
+						<Action Name="" ID="{C22C1D65-ED9F-43ED-A13A-D656C88ADBE0}" ShortID="76680011">
+							<PropertyList>
+								<Property Name="ActionType" Type="int16" Value="2"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="IT_Girl_Intro_Stinger" ID="{00E383DA-68AB-45B2-927E-1772FB02994C}" WorkUnitID="{82D8643B-54EE-46D7-89A5-A2DA58A7A50D}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+			</ChildrenList>
+		</WorkUnit>
+	</Events>
+</WwiseDocument>

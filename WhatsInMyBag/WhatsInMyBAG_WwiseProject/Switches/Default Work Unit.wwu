@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{B7E56F79-9A07-4F1A-BE71-BE89867CC6E4}" SchemaVersion="103">
+	<Switches>
+		<WorkUnit Name="Default Work Unit" ID="{B7E56F79-9A07-4F1A-BE71-BE89867CC6E4}" PersistMode="Standalone">
+			<ChildrenList>
+				<SwitchGroup Name="Door" ID="{F7F99112-399E-4480-B01C-E01FE0948416}">
+					<ChildrenList>
+						<Switch Name="Open" ID="{76937B90-EF38-454F-B4DA-FDB473E1A4DE}"/>
+						<Switch Name="Close" ID="{64DCF726-95CE-4B9D-A7A4-039A2A75E1C0}"/>
+					</ChildrenList>
+				</SwitchGroup>
+				<SwitchGroup Name="Material" ID="{3B233EE1-9340-417A-AD85-DD20034BA7C9}">
+					<ChildrenList>
+						<Switch Name="Carpet" ID="{6F046033-6D1C-48E4-A9F2-E93D2BDA4966}"/>
+						<Switch Name="Concrete" ID="{08207DFC-8DF6-4CC8-8D50-C77F88DAAC2B}"/>
+						<Switch Name="Wood" ID="{AA49937A-4085-43E0-A420-711F4762912A}"/>
+						<Switch Name="Tile" ID="{384D5625-DFD7-4771-9B79-C24EBEAC0F15}"/>
+						<Switch Name="Liquid" ID="{3C32979C-CD74-45D1-BF0D-5D41C7343963}"/>
+					</ChildrenList>
+				</SwitchGroup>
+			</ChildrenList>
+		</WorkUnit>
+	</Switches>
+</WwiseDocument>

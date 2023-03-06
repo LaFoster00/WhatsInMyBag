@@ -1,0 +1,243 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!319 &31900000
+AvatarMask:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: AvatarMask_mahlee_hands
+  m_Mask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+  m_Elements:
+  - m_Path: 
+    m_Weight: 1
+  - m_Path: mahlee_v4:Geometry
+    m_Weight: 0
+  - m_Path: mahlee_v4:Geometry/mahlee_v4:model:geo
+    m_Weight: 0
+  - m_Path: mahlee_v4:Geometry/mahlee_v4:model:geo/mahlee_v4:model:C_ear_PLY
+    m_Weight: 0
+  - m_Path: mahlee_v4:Geometry/mahlee_v4:model:geo/mahlee_v4:model:C_earring_PLY
+    m_Weight: 0
+  - m_Path: mahlee_v4:Geometry/mahlee_v4:model:geo/mahlee_v4:model:C_face_PLY
+    m_Weight: 0
+  - m_Path: mahlee_v4:Geometry/mahlee_v4:model:geo/mahlee_v4:model:C_hair0001_PLY
+    m_Weight: 0
+  - m_Path: mahlee_v4:Geometry/mahlee_v4:model:geo/mahlee_v4:model:C_hair0002_PLY
+    m_Weight: 0
+  - m_Path: mahlee_v4:Geometry/mahlee_v4:model:geo/mahlee_v4:model:C_hair003_PLY
+    m_Weight: 0
+  - m_Path: mahlee_v4:Geometry/mahlee_v4:model:geo/mahlee_v4:model:C_hair0004_PLY
+    m_Weight: 0
+  - m_Path: mahlee_v4:Geometry/mahlee_v4:model:geo/mahlee_v4:model:C_hair0005_PLY
+    m_Weight: 0
+  - m_Path: mahlee_v4:Geometry/mahlee_v4:model:geo/mahlee_v4:model:C_hair0006_PLY
+    m_Weight: 0
+  - m_Path: mahlee_v4:Geometry/mahlee_v4:model:geo/mahlee_v4:model:C_hair0007_PLY
+    m_Weight: 0
+  - m_Path: mahlee_v4:Geometry/mahlee_v4:model:geo/mahlee_v4:model:C_hair0008_PLY
+    m_Weight: 0
+  - m_Path: mahlee_v4:Geometry/mahlee_v4:model:geo/mahlee_v4:model:C_hand_PLY
+    m_Weight: 0
+  - m_Path: mahlee_v4:Geometry/mahlee_v4:model:geo/mahlee_v4:model:C_head_PLY
+    m_Weight: 0
+  - m_Path: mahlee_v4:Geometry/mahlee_v4:model:geo/mahlee_v4:model:C_headband_PLY
+    m_Weight: 0
+  - m_Path: mahlee_v4:Geometry/mahlee_v4:model:geo/mahlee_v4:model:C_helix_PLY
+    m_Weight: 0
+  - m_Path: mahlee_v4:Geometry/mahlee_v4:model:geo/mahlee_v4:model:C_pants_PLY
+    m_Weight: 0
+  - m_Path: mahlee_v4:Geometry/mahlee_v4:model:geo/mahlee_v4:model:C_pullover_PLY
+    m_Weight: 0
+  - m_Path: mahlee_v4:Geometry/mahlee_v4:model:geo/mahlee_v4:model:C_shoes_PLY
+    m_Weight: 0
+  - m_Path: mahlee_v4:Geometry/mahlee_v4:model:geo/mahlee_v4:model:C_string_PLY
+    m_Weight: 0
+  - m_Path: mahlee_v4:Main
+    m_Weight: 0
+  - m_Path: mahlee_v4:Main/mahlee_v4:DeformationSystem
+    m_Weight: 0
+  - m_Path: mahlee_v4:Main/mahlee_v4:DeformationSystem/mahlee_v4:Root_M
+    m_Weight: 0
+  - m_Path: mahlee_v4:Main/mahlee_v4:DeformationSystem/mahlee_v4:Root_M/mahlee_v4:Hip_L
+    m_Weight: 0
+  - m_Path: mahlee_v4:Main/mahlee_v4:DeformationSystem/mahlee_v4:Root_M/mahlee_v4:Hip_L/mahlee_v4:HipPart1_L
+    m_Weight: 0
+  - m_Path: mahlee_v4:Main/mahlee_v4:DeformationSystem/mahlee_v4:Root_M/mahlee_v4:Hip_L/mahlee_v4:HipPart1_L/mahlee_v4:HipPart2_L
+    m_Weight: 0
+  - m_Path: mahlee_v4:Main/mahlee_v4:DeformationSystem/mahlee_v4:Root_M/mahlee_v4:Hip_L/mahlee_v4:HipPart1_L/mahlee_v4:HipPart2_L/mahlee_v4:Knee_L
+    m_Weight: 0
+  - m_Path: mahlee_v4:Main/mahlee_v4:DeformationSystem/mahlee_v4:Root_M/mahlee_v4:Hip_L/mahlee_v4:HipPart1_L/mahlee_v4:HipPart2_L/mahlee_v4:Knee_L/mahlee_v4:Ankle_L
+    m_Weight: 0
+  - m_Path: mahlee_v4:Main/mahlee_v4:DeformationSystem/mahlee_v4:Root_M/mahlee_v4:Hip_L/mahlee_v4:HipPart1_L/mahlee_v4:HipPart2_L/mahlee_v4:Knee_L/mahlee_v4:Ankle_L/mahlee_v4:Toes_L
+    m_Weight: 0
+  - m_Path: mahlee_v4:Main/mahlee_v4:DeformationSystem/mahlee_v4:Root_M/mahlee_v4:Hip_R
+    m_Weight: 0
+  - m_Path: mahlee_v4:Main/mahlee_v4:DeformationSystem/mahlee_v4:Root_M/mahlee_v4:Hip_R/mahlee_v4:HipPart1_R
+    m_Weight: 0
+  - m_Path: mahlee_v4:Main/mahlee_v4:DeformationSystem/mahlee_v4:Root_M/mahlee_v4:Hip_R/mahlee_v4:HipPart1_R/mahlee_v4:HipPart2_R
+    m_Weight: 0
+  - m_Path: mahlee_v4:Main/mahlee_v4:DeformationSystem/mahlee_v4:Root_M/mahlee_v4:Hip_R/mahlee_v4:HipPart1_R/mahlee_v4:HipPart2_R/mahlee_v4:Knee_R
+    m_Weight: 0
+  - m_Path: mahlee_v4:Main/mahlee_v4:DeformationSystem/mahlee_v4:Root_M/mahlee_v4:Hip_R/mahlee_v4:HipPart1_R/mahlee_v4:HipPart2_R/mahlee_v4:Knee_R/mahlee_v4:Ankle_R
+    m_Weight: 0
+  - m_Path: mahlee_v4:Main/mahlee_v4:DeformationSystem/mahlee_v4:Root_M/mahlee_v4:Hip_R/mahlee_v4:HipPart1_R/mahlee_v4:HipPart2_R/mahlee_v4:Knee_R/mahlee_v4:Ankle_R/mahlee_v4:Toes_R
+    m_Weight: 0
+  - m_Path: mahlee_v4:Main/mahlee_v4:DeformationSystem/mahlee_v4:Root_M/mahlee_v4:RootPart1_M
+    m_Weight: 0
+  - m_Path: mahlee_v4:Main/mahlee_v4:DeformationSystem/mahlee_v4:Root_M/mahlee_v4:RootPart1_M/mahlee_v4:RootPart2_M
+    m_Weight: 0
+  - m_Path: mahlee_v4:Main/mahlee_v4:DeformationSystem/mahlee_v4:Root_M/mahlee_v4:RootPart1_M/mahlee_v4:RootPart2_M/mahlee_v4:Spine1_M
+    m_Weight: 0
+  - m_Path: mahlee_v4:Main/mahlee_v4:DeformationSystem/mahlee_v4:Root_M/mahlee_v4:RootPart1_M/mahlee_v4:RootPart2_M/mahlee_v4:Spine1_M/mahlee_v4:Spine1Part1_M
+    m_Weight: 0
+  - m_Path: mahlee_v4:Main/mahlee_v4:DeformationSystem/mahlee_v4:Root_M/mahlee_v4:RootPart1_M/mahlee_v4:RootPart2_M/mahlee_v4:Spine1_M/mahlee_v4:Spine1Part1_M/mahlee_v4:Spine1Part2_M
+    m_Weight: 0
+  - m_Path: mahlee_v4:Main/mahlee_v4:DeformationSystem/mahlee_v4:Root_M/mahlee_v4:RootPart1_M/mahlee_v4:RootPart2_M/mahlee_v4:Spine1_M/mahlee_v4:Spine1Part1_M/mahlee_v4:Spine1Part2_M/mahlee_v4:Chest_M
+    m_Weight: 0
+  - m_Path: mahlee_v4:Main/mahlee_v4:DeformationSystem/mahlee_v4:Root_M/mahlee_v4:RootPart1_M/mahlee_v4:RootPart2_M/mahlee_v4:Spine1_M/mahlee_v4:Spine1Part1_M/mahlee_v4:Spine1Part2_M/mahlee_v4:Chest_M/mahlee_v4:Neck_M
+    m_Weight: 0
+  - m_Path: mahlee_v4:Main/mahlee_v4:DeformationSystem/mahlee_v4:Root_M/mahlee_v4:RootPart1_M/mahlee_v4:RootPart2_M/mahlee_v4:Spine1_M/mahlee_v4:Spine1Part1_M/mahlee_v4:Spine1Part2_M/mahlee_v4:Chest_M/mahlee_v4:Neck_M/mahlee_v4:NeckPart1_M
+    m_Weight: 0
+  - m_Path: mahlee_v4:Main/mahlee_v4:DeformationSystem/mahlee_v4:Root_M/mahlee_v4:RootPart1_M/mahlee_v4:RootPart2_M/mahlee_v4:Spine1_M/mahlee_v4:Spine1Part1_M/mahlee_v4:Spine1Part2_M/mahlee_v4:Chest_M/mahlee_v4:Neck_M/mahlee_v4:NeckPart1_M/mahlee_v4:NeckPart2_M
+    m_Weight: 0
+  - m_Path: mahlee_v4:Main/mahlee_v4:DeformationSystem/mahlee_v4:Root_M/mahlee_v4:RootPart1_M/mahlee_v4:RootPart2_M/mahlee_v4:Spine1_M/mahlee_v4:Spine1Part1_M/mahlee_v4:Spine1Part2_M/mahlee_v4:Chest_M/mahlee_v4:Neck_M/mahlee_v4:NeckPart1_M/mahlee_v4:NeckPart2_M/mahlee_v4:Head_M
+    m_Weight: 0
+  - m_Path: mahlee_v4:Main/mahlee_v4:DeformationSystem/mahlee_v4:Root_M/mahlee_v4:RootPart1_M/mahlee_v4:RootPart2_M/mahlee_v4:Spine1_M/mahlee_v4:Spine1Part1_M/mahlee_v4:Spine1Part2_M/mahlee_v4:Chest_M/mahlee_v4:Neck_M/mahlee_v4:NeckPart1_M/mahlee_v4:NeckPart2_M/mahlee_v4:Head_M/mahlee_v4:Ear1_L
+    m_Weight: 0
+  - m_Path: mahlee_v4:Main/mahlee_v4:DeformationSystem/mahlee_v4:Root_M/mahlee_v4:RootPart1_M/mahlee_v4:RootPart2_M/mahlee_v4:Spine1_M/mahlee_v4:Spine1Part1_M/mahlee_v4:Spine1Part2_M/mahlee_v4:Chest_M/mahlee_v4:Neck_M/mahlee_v4:NeckPart1_M/mahlee_v4:NeckPart2_M/mahlee_v4:Head_M/mahlee_v4:Ear1_L/mahlee_v4:Ear1Part1_L
+    m_Weight: 0
+  - m_Path: mahlee_v4:Main/mahlee_v4:DeformationSystem/mahlee_v4:Root_M/mahlee_v4:RootPart1_M/mahlee_v4:RootPart2_M/mahlee_v4:Spine1_M/mahlee_v4:Spine1Part1_M/mahlee_v4:Spine1Part2_M/mahlee_v4:Chest_M/mahlee_v4:Neck_M/mahlee_v4:NeckPart1_M/mahlee_v4:NeckPart2_M/mahlee_v4:Head_M/mahlee_v4:Ear1_L/mahlee_v4:Ear1Part1_L/mahlee_v4:Ear1Part2_L
+    m_Weight: 0
+  - m_Path: mahlee_v4:Main/mahlee_v4:DeformationSystem/mahlee_v4:Root_M/mahlee_v4:RootPart1_M/mahlee_v4:RootPart2_M/mahlee_v4:Spine1_M/mahlee_v4:Spine1Part1_M/mahlee_v4:Spine1Part2_M/mahlee_v4:Chest_M/mahlee_v4:Neck_M/mahlee_v4:NeckPart1_M/mahlee_v4:NeckPart2_M/mahlee_v4:Head_M/mahlee_v4:Ear1_R
+    m_Weight: 0
+  - m_Path: mahlee_v4:Main/mahlee_v4:DeformationSystem/mahlee_v4:Root_M/mahlee_v4:RootPart1_M/mahlee_v4:RootPart2_M/mahlee_v4:Spine1_M/mahlee_v4:Spine1Part1_M/mahlee_v4:Spine1Part2_M/mahlee_v4:Chest_M/mahlee_v4:Neck_M/mahlee_v4:NeckPart1_M/mahlee_v4:NeckPart2_M/mahlee_v4:Head_M/mahlee_v4:Ear1_R/mahlee_v4:Ear1Part1_R
+    m_Weight: 0
+  - m_Path: mahlee_v4:Main/mahlee_v4:DeformationSystem/mahlee_v4:Root_M/mahlee_v4:RootPart1_M/mahlee_v4:RootPart2_M/mahlee_v4:Spine1_M/mahlee_v4:Spine1Part1_M/mahlee_v4:Spine1Part2_M/mahlee_v4:Chest_M/mahlee_v4:Neck_M/mahlee_v4:NeckPart1_M/mahlee_v4:NeckPart2_M/mahlee_v4:Head_M/mahlee_v4:Ear1_R/mahlee_v4:Ear1Part1_R/mahlee_v4:Ear1Part2_R
+    m_Weight: 0
+  - m_Path: mahlee_v4:Main/mahlee_v4:DeformationSystem/mahlee_v4:Root_M/mahlee_v4:RootPart1_M/mahlee_v4:RootPart2_M/mahlee_v4:Spine1_M/mahlee_v4:Spine1Part1_M/mahlee_v4:Spine1Part2_M/mahlee_v4:Chest_M/mahlee_v4:Neck_M/mahlee_v4:NeckPart1_M/mahlee_v4:NeckPart2_M/mahlee_v4:Head_M/mahlee_v4:HairStrand1_01_R
+    m_Weight: 0
+  - m_Path: mahlee_v4:Main/mahlee_v4:DeformationSystem/mahlee_v4:Root_M/mahlee_v4:RootPart1_M/mahlee_v4:RootPart2_M/mahlee_v4:Spine1_M/mahlee_v4:Spine1Part1_M/mahlee_v4:Spine1Part2_M/mahlee_v4:Chest_M/mahlee_v4:Neck_M/mahlee_v4:NeckPart1_M/mahlee_v4:NeckPart2_M/mahlee_v4:Head_M/mahlee_v4:HairStrand1_01_R/mahlee_v4:HairStrand1_02_R
+    m_Weight: 0
+  - m_Path: mahlee_v4:Main/mahlee_v4:DeformationSystem/mahlee_v4:Root_M/mahlee_v4:RootPart1_M/mahlee_v4:RootPart2_M/mahlee_v4:Spine1_M/mahlee_v4:Spine1Part1_M/mahlee_v4:Spine1Part2_M/mahlee_v4:Chest_M/mahlee_v4:Neck_M/mahlee_v4:NeckPart1_M/mahlee_v4:NeckPart2_M/mahlee_v4:Head_M/mahlee_v4:HairStrand1_01_R/mahlee_v4:HairStrand1_02_R/mahlee_v4:HairStrand1_03_R
+    m_Weight: 0
+  - m_Path: mahlee_v4:Main/mahlee_v4:DeformationSystem/mahlee_v4:Root_M/mahlee_v4:RootPart1_M/mahlee_v4:RootPart2_M/mahlee_v4:Spine1_M/mahlee_v4:Spine1Part1_M/mahlee_v4:Spine1Part2_M/mahlee_v4:Chest_M/mahlee_v4:Neck_M/mahlee_v4:NeckPart1_M/mahlee_v4:NeckPart2_M/mahlee_v4:Head_M/mahlee_v4:HairStrand1_01_R/mahlee_v4:HairStrand1_02_R/mahlee_v4:HairStrand1_03_R/mahlee_v4:HairStrand1_04_R
+    m_Weight: 0
+  - m_Path: mahlee_v4:Main/mahlee_v4:DeformationSystem/mahlee_v4:Root_M/mahlee_v4:RootPart1_M/mahlee_v4:RootPart2_M/mahlee_v4:Spine1_M/mahlee_v4:Spine1Part1_M/mahlee_v4:Spine1Part2_M/mahlee_v4:Chest_M/mahlee_v4:Neck_M/mahlee_v4:NeckPart1_M/mahlee_v4:NeckPart2_M/mahlee_v4:Head_M/mahlee_v4:HairStrand1_01_R/mahlee_v4:HairStrand1_02_R/mahlee_v4:HairStrand1_03_R/mahlee_v4:HairStrand1_04_R/mahlee_v4:HairStrand1_05_R
+    m_Weight: 0
+  - m_Path: mahlee_v4:Main/mahlee_v4:DeformationSystem/mahlee_v4:Root_M/mahlee_v4:RootPart1_M/mahlee_v4:RootPart2_M/mahlee_v4:Spine1_M/mahlee_v4:Spine1Part1_M/mahlee_v4:Spine1Part2_M/mahlee_v4:Chest_M/mahlee_v4:Neck_M/mahlee_v4:NeckPart1_M/mahlee_v4:NeckPart2_M/mahlee_v4:Head_M/mahlee_v4:HairStrand2_01_L
+    m_Weight: 0
+  - m_Path: mahlee_v4:Main/mahlee_v4:DeformationSystem/mahlee_v4:Root_M/mahlee_v4:RootPart1_M/mahlee_v4:RootPart2_M/mahlee_v4:Spine1_M/mahlee_v4:Spine1Part1_M/mahlee_v4:Spine1Part2_M/mahlee_v4:Chest_M/mahlee_v4:Neck_M/mahlee_v4:NeckPart1_M/mahlee_v4:NeckPart2_M/mahlee_v4:Head_M/mahlee_v4:HairStrand2_01_L/mahlee_v4:HairStrand2_02_L
+    m_Weight: 0
+  - m_Path: mahlee_v4:Main/mahlee_v4:DeformationSystem/mahlee_v4:Root_M/mahlee_v4:RootPart1_M/mahlee_v4:RootPart2_M/mahlee_v4:Spine1_M/mahlee_v4:Spine1Part1_M/mahlee_v4:Spine1Part2_M/mahlee_v4:Chest_M/mahlee_v4:Neck_M/mahlee_v4:NeckPart1_M/mahlee_v4:NeckPart2_M/mahlee_v4:Head_M/mahlee_v4:HairStrand2_01_L/mahlee_v4:HairStrand2_02_L/mahlee_v4:HairStrand2_03_L
+    m_Weight: 0
+  - m_Path: mahlee_v4:Main/mahlee_v4:DeformationSystem/mahlee_v4:Root_M/mahlee_v4:RootPart1_M/mahlee_v4:RootPart2_M/mahlee_v4:Spine1_M/mahlee_v4:Spine1Part1_M/mahlee_v4:Spine1Part2_M/mahlee_v4:Chest_M/mahlee_v4:Neck_M/mahlee_v4:NeckPart1_M/mahlee_v4:NeckPart2_M/mahlee_v4:Head_M/mahlee_v4:HairStrand2_01_L/mahlee_v4:HairStrand2_02_L/mahlee_v4:HairStrand2_03_L/mahlee_v4:HairStrand2_04_L
+    m_Weight: 0
+  - m_Path: mahlee_v4:Main/mahlee_v4:DeformationSystem/mahlee_v4:Root_M/mahlee_v4:RootPart1_M/mahlee_v4:RootPart2_M/mahlee_v4:Spine1_M/mahlee_v4:Spine1Part1_M/mahlee_v4:Spine1Part2_M/mahlee_v4:Chest_M/mahlee_v4:Neck_M/mahlee_v4:NeckPart1_M/mahlee_v4:NeckPart2_M/mahlee_v4:Head_M/mahlee_v4:HairStrand2_01_L/mahlee_v4:HairStrand2_02_L/mahlee_v4:HairStrand2_03_L/mahlee_v4:HairStrand2_04_L/mahlee_v4:HairStrand2_05_L
+    m_Weight: 0
+  - m_Path: mahlee_v4:Main/mahlee_v4:DeformationSystem/mahlee_v4:Root_M/mahlee_v4:RootPart1_M/mahlee_v4:RootPart2_M/mahlee_v4:Spine1_M/mahlee_v4:Spine1Part1_M/mahlee_v4:Spine1Part2_M/mahlee_v4:Chest_M/mahlee_v4:Neck_M/mahlee_v4:NeckPart1_M/mahlee_v4:NeckPart2_M/mahlee_v4:Head_M/mahlee_v4:HairStrand3_01_R
+    m_Weight: 0
+  - m_Path: mahlee_v4:Main/mahlee_v4:DeformationSystem/mahlee_v4:Root_M/mahlee_v4:RootPart1_M/mahlee_v4:RootPart2_M/mahlee_v4:Spine1_M/mahlee_v4:Spine1Part1_M/mahlee_v4:Spine1Part2_M/mahlee_v4:Chest_M/mahlee_v4:Neck_M/mahlee_v4:NeckPart1_M/mahlee_v4:NeckPart2_M/mahlee_v4:Head_M/mahlee_v4:HairStrand3_01_R/mahlee_v4:HairStrand3_02_R
+    m_Weight: 0
+  - m_Path: mahlee_v4:Main/mahlee_v4:DeformationSystem/mahlee_v4:Root_M/mahlee_v4:RootPart1_M/mahlee_v4:RootPart2_M/mahlee_v4:Spine1_M/mahlee_v4:Spine1Part1_M/mahlee_v4:Spine1Part2_M/mahlee_v4:Chest_M/mahlee_v4:Neck_M/mahlee_v4:NeckPart1_M/mahlee_v4:NeckPart2_M/mahlee_v4:Head_M/mahlee_v4:HairStrand3_01_R/mahlee_v4:HairStrand3_02_R/mahlee_v4:HairStrand3_03_R
+    m_Weight: 0
+  - m_Path: mahlee_v4:Main/mahlee_v4:DeformationSystem/mahlee_v4:Root_M/mahlee_v4:RootPart1_M/mahlee_v4:RootPart2_M/mahlee_v4:Spine1_M/mahlee_v4:Spine1Part1_M/mahlee_v4:Spine1Part2_M/mahlee_v4:Chest_M/mahlee_v4:Neck_M/mahlee_v4:NeckPart1_M/mahlee_v4:NeckPart2_M/mahlee_v4:Head_M/mahlee_v4:HairStrand3_01_R/mahlee_v4:HairStrand3_02_R/mahlee_v4:HairStrand3_03_R/mahlee_v4:HairStrand3_04_R
+    m_Weight: 0
+  - m_Path: mahlee_v4:Main/mahlee_v4:DeformationSystem/mahlee_v4:Root_M/mahlee_v4:RootPart1_M/mahlee_v4:RootPart2_M/mahlee_v4:Spine1_M/mahlee_v4:Spine1Part1_M/mahlee_v4:Spine1Part2_M/mahlee_v4:Chest_M/mahlee_v4:Neck_M/mahlee_v4:NeckPart1_M/mahlee_v4:NeckPart2_M/mahlee_v4:Head_M/mahlee_v4:HairStrand3_01_R/mahlee_v4:HairStrand3_02_R/mahlee_v4:HairStrand3_03_R/mahlee_v4:HairStrand3_04_R/mahlee_v4:HairStrand3_05_R
+    m_Weight: 0
+  - m_Path: mahlee_v4:Main/mahlee_v4:DeformationSystem/mahlee_v4:Root_M/mahlee_v4:RootPart1_M/mahlee_v4:RootPart2_M/mahlee_v4:Spine1_M/mahlee_v4:Spine1Part1_M/mahlee_v4:Spine1Part2_M/mahlee_v4:Chest_M/mahlee_v4:Neck_M/mahlee_v4:NeckPart1_M/mahlee_v4:NeckPart2_M/mahlee_v4:Head_M/mahlee_v4:HairStrand4_01_L
+    m_Weight: 0
+  - m_Path: mahlee_v4:Main/mahlee_v4:DeformationSystem/mahlee_v4:Root_M/mahlee_v4:RootPart1_M/mahlee_v4:RootPart2_M/mahlee_v4:Spine1_M/mahlee_v4:Spine1Part1_M/mahlee_v4:Spine1Part2_M/mahlee_v4:Chest_M/mahlee_v4:Neck_M/mahlee_v4:NeckPart1_M/mahlee_v4:NeckPart2_M/mahlee_v4:Head_M/mahlee_v4:HairStrand4_01_L/mahlee_v4:HairStrand4_02_L
+    m_Weight: 0
+  - m_Path: mahlee_v4:Main/mahlee_v4:DeformationSystem/mahlee_v4:Root_M/mahlee_v4:RootPart1_M/mahlee_v4:RootPart2_M/mahlee_v4:Spine1_M/mahlee_v4:Spine1Part1_M/mahlee_v4:Spine1Part2_M/mahlee_v4:Chest_M/mahlee_v4:Neck_M/mahlee_v4:NeckPart1_M/mahlee_v4:NeckPart2_M/mahlee_v4:Head_M/mahlee_v4:HairStrand4_01_L/mahlee_v4:HairStrand4_02_L/mahlee_v4:HairStrand4_03_L
+    m_Weight: 0
+  - m_Path: mahlee_v4:Main/mahlee_v4:DeformationSystem/mahlee_v4:Root_M/mahlee_v4:RootPart1_M/mahlee_v4:RootPart2_M/mahlee_v4:Spine1_M/mahlee_v4:Spine1Part1_M/mahlee_v4:Spine1Part2_M/mahlee_v4:Chest_M/mahlee_v4:Neck_M/mahlee_v4:NeckPart1_M/mahlee_v4:NeckPart2_M/mahlee_v4:Head_M/mahlee_v4:HairStrand5_01_L
+    m_Weight: 0
+  - m_Path: mahlee_v4:Main/mahlee_v4:DeformationSystem/mahlee_v4:Root_M/mahlee_v4:RootPart1_M/mahlee_v4:RootPart2_M/mahlee_v4:Spine1_M/mahlee_v4:Spine1Part1_M/mahlee_v4:Spine1Part2_M/mahlee_v4:Chest_M/mahlee_v4:Neck_M/mahlee_v4:NeckPart1_M/mahlee_v4:NeckPart2_M/mahlee_v4:Head_M/mahlee_v4:HairStrand5_01_L/mahlee_v4:HairStrand5_02_L
+    m_Weight: 0
+  - m_Path: mahlee_v4:Main/mahlee_v4:DeformationSystem/mahlee_v4:Root_M/mahlee_v4:RootPart1_M/mahlee_v4:RootPart2_M/mahlee_v4:Spine1_M/mahlee_v4:Spine1Part1_M/mahlee_v4:Spine1Part2_M/mahlee_v4:Chest_M/mahlee_v4:Neck_M/mahlee_v4:NeckPart1_M/mahlee_v4:NeckPart2_M/mahlee_v4:Head_M/mahlee_v4:HairStrand5_01_L/mahlee_v4:HairStrand5_02_L/mahlee_v4:HairStrand5_03_L
+    m_Weight: 0
+  - m_Path: mahlee_v4:Main/mahlee_v4:DeformationSystem/mahlee_v4:Root_M/mahlee_v4:RootPart1_M/mahlee_v4:RootPart2_M/mahlee_v4:Spine1_M/mahlee_v4:Spine1Part1_M/mahlee_v4:Spine1Part2_M/mahlee_v4:Chest_M/mahlee_v4:Neck_M/mahlee_v4:NeckPart1_M/mahlee_v4:NeckPart2_M/mahlee_v4:Head_M/mahlee_v4:HairStrand5_01_R
+    m_Weight: 0
+  - m_Path: mahlee_v4:Main/mahlee_v4:DeformationSystem/mahlee_v4:Root_M/mahlee_v4:RootPart1_M/mahlee_v4:RootPart2_M/mahlee_v4:Spine1_M/mahlee_v4:Spine1Part1_M/mahlee_v4:Spine1Part2_M/mahlee_v4:Chest_M/mahlee_v4:Neck_M/mahlee_v4:NeckPart1_M/mahlee_v4:NeckPart2_M/mahlee_v4:Head_M/mahlee_v4:HairStrand5_01_R/mahlee_v4:HairStrand5_02_R
+    m_Weight: 0
+  - m_Path: mahlee_v4:Main/mahlee_v4:DeformationSystem/mahlee_v4:Root_M/mahlee_v4:RootPart1_M/mahlee_v4:RootPart2_M/mahlee_v4:Spine1_M/mahlee_v4:Spine1Part1_M/mahlee_v4:Spine1Part2_M/mahlee_v4:Chest_M/mahlee_v4:Neck_M/mahlee_v4:NeckPart1_M/mahlee_v4:NeckPart2_M/mahlee_v4:Head_M/mahlee_v4:HairStrand5_01_R/mahlee_v4:HairStrand5_02_R/mahlee_v4:HairStrand5_03_R
+    m_Weight: 0
+  - m_Path: mahlee_v4:Main/mahlee_v4:DeformationSystem/mahlee_v4:Root_M/mahlee_v4:RootPart1_M/mahlee_v4:RootPart2_M/mahlee_v4:Spine1_M/mahlee_v4:Spine1Part1_M/mahlee_v4:Spine1Part2_M/mahlee_v4:Chest_M/mahlee_v4:Neck_M/mahlee_v4:NeckPart1_M/mahlee_v4:NeckPart2_M/mahlee_v4:Head_M/mahlee_v4:HairStrand6_01_L
+    m_Weight: 0
+  - m_Path: mahlee_v4:Main/mahlee_v4:DeformationSystem/mahlee_v4:Root_M/mahlee_v4:RootPart1_M/mahlee_v4:RootPart2_M/mahlee_v4:Spine1_M/mahlee_v4:Spine1Part1_M/mahlee_v4:Spine1Part2_M/mahlee_v4:Chest_M/mahlee_v4:Neck_M/mahlee_v4:NeckPart1_M/mahlee_v4:NeckPart2_M/mahlee_v4:Head_M/mahlee_v4:HairStrand6_01_L/mahlee_v4:HairStrand6_02_L
+    m_Weight: 0
+  - m_Path: mahlee_v4:Main/mahlee_v4:DeformationSystem/mahlee_v4:Root_M/mahlee_v4:RootPart1_M/mahlee_v4:RootPart2_M/mahlee_v4:Spine1_M/mahlee_v4:Spine1Part1_M/mahlee_v4:Spine1Part2_M/mahlee_v4:Chest_M/mahlee_v4:Neck_M/mahlee_v4:NeckPart1_M/mahlee_v4:NeckPart2_M/mahlee_v4:Head_M/mahlee_v4:HairStrand6_01_L/mahlee_v4:HairStrand6_02_L/mahlee_v4:HairStrand6_03_L
+    m_Weight: 0
+  - m_Path: mahlee_v4:Main/mahlee_v4:DeformationSystem/mahlee_v4:Root_M/mahlee_v4:RootPart1_M/mahlee_v4:RootPart2_M/mahlee_v4:Spine1_M/mahlee_v4:Spine1Part1_M/mahlee_v4:Spine1Part2_M/mahlee_v4:Chest_M/mahlee_v4:Neck_M/mahlee_v4:NeckPart1_M/mahlee_v4:NeckPart2_M/mahlee_v4:Head_M/mahlee_v4:HairStrand6_01_L/mahlee_v4:HairStrand6_02_L/mahlee_v4:HairStrand6_03_L/mahlee_v4:HairStrand6_04_L
+    m_Weight: 0
+  - m_Path: mahlee_v4:Main/mahlee_v4:DeformationSystem/mahlee_v4:Root_M/mahlee_v4:RootPart1_M/mahlee_v4:RootPart2_M/mahlee_v4:Spine1_M/mahlee_v4:Spine1Part1_M/mahlee_v4:Spine1Part2_M/mahlee_v4:Chest_M/mahlee_v4:Neck_M/mahlee_v4:NeckPart1_M/mahlee_v4:NeckPart2_M/mahlee_v4:Head_M/mahlee_v4:HairStrand6_01_R
+    m_Weight: 0
+  - m_Path: mahlee_v4:Main/mahlee_v4:DeformationSystem/mahlee_v4:Root_M/mahlee_v4:RootPart1_M/mahlee_v4:RootPart2_M/mahlee_v4:Spine1_M/mahlee_v4:Spine1Part1_M/mahlee_v4:Spine1Part2_M/mahlee_v4:Chest_M/mahlee_v4:Neck_M/mahlee_v4:NeckPart1_M/mahlee_v4:NeckPart2_M/mahlee_v4:Head_M/mahlee_v4:HairStrand6_01_R/mahlee_v4:HairStrand6_02_R
+    m_Weight: 0
+  - m_Path: mahlee_v4:Main/mahlee_v4:DeformationSystem/mahlee_v4:Root_M/mahlee_v4:RootPart1_M/mahlee_v4:RootPart2_M/mahlee_v4:Spine1_M/mahlee_v4:Spine1Part1_M/mahlee_v4:Spine1Part2_M/mahlee_v4:Chest_M/mahlee_v4:Neck_M/mahlee_v4:NeckPart1_M/mahlee_v4:NeckPart2_M/mahlee_v4:Head_M/mahlee_v4:HairStrand6_01_R/mahlee_v4:HairStrand6_02_R/mahlee_v4:HairStrand6_03_R
+    m_Weight: 0
+  - m_Path: mahlee_v4:Main/mahlee_v4:DeformationSystem/mahlee_v4:Root_M/mahlee_v4:RootPart1_M/mahlee_v4:RootPart2_M/mahlee_v4:Spine1_M/mahlee_v4:Spine1Part1_M/mahlee_v4:Spine1Part2_M/mahlee_v4:Chest_M/mahlee_v4:Neck_M/mahlee_v4:NeckPart1_M/mahlee_v4:NeckPart2_M/mahlee_v4:Head_M/mahlee_v4:HairStrand6_01_R/mahlee_v4:HairStrand6_02_R/mahlee_v4:HairStrand6_03_R/mahlee_v4:HairStrand6_04_R
+    m_Weight: 0
+  - m_Path: mahlee_v4:Main/mahlee_v4:DeformationSystem/mahlee_v4:Root_M/mahlee_v4:RootPart1_M/mahlee_v4:RootPart2_M/mahlee_v4:Spine1_M/mahlee_v4:Spine1Part1_M/mahlee_v4:Spine1Part2_M/mahlee_v4:Chest_M/mahlee_v4:Neck_M/mahlee_v4:NeckPart1_M/mahlee_v4:NeckPart2_M/mahlee_v4:Head_M/mahlee_v4:HairStrand7_01_L
+    m_Weight: 0
+  - m_Path: mahlee_v4:Main/mahlee_v4:DeformationSystem/mahlee_v4:Root_M/mahlee_v4:RootPart1_M/mahlee_v4:RootPart2_M/mahlee_v4:Spine1_M/mahlee_v4:Spine1Part1_M/mahlee_v4:Spine1Part2_M/mahlee_v4:Chest_M/mahlee_v4:Neck_M/mahlee_v4:NeckPart1_M/mahlee_v4:NeckPart2_M/mahlee_v4:Head_M/mahlee_v4:HairStrand7_01_L/mahlee_v4:HairStrand7_02_L
+    m_Weight: 0
+  - m_Path: mahlee_v4:Main/mahlee_v4:DeformationSystem/mahlee_v4:Root_M/mahlee_v4:RootPart1_M/mahlee_v4:RootPart2_M/mahlee_v4:Spine1_M/mahlee_v4:Spine1Part1_M/mahlee_v4:Spine1Part2_M/mahlee_v4:Chest_M/mahlee_v4:Neck_M/mahlee_v4:NeckPart1_M/mahlee_v4:NeckPart2_M/mahlee_v4:Head_M/mahlee_v4:HairStrand7_01_L/mahlee_v4:HairStrand7_02_L/mahlee_v4:HairStrand7_03_L
+    m_Weight: 0
+  - m_Path: mahlee_v4:Main/mahlee_v4:DeformationSystem/mahlee_v4:Root_M/mahlee_v4:RootPart1_M/mahlee_v4:RootPart2_M/mahlee_v4:Spine1_M/mahlee_v4:Spine1Part1_M/mahlee_v4:Spine1Part2_M/mahlee_v4:Chest_M/mahlee_v4:Scapula_L
+    m_Weight: 1
+  - m_Path: mahlee_v4:Main/mahlee_v4:DeformationSystem/mahlee_v4:Root_M/mahlee_v4:RootPart1_M/mahlee_v4:RootPart2_M/mahlee_v4:Spine1_M/mahlee_v4:Spine1Part1_M/mahlee_v4:Spine1Part2_M/mahlee_v4:Chest_M/mahlee_v4:Scapula_L/mahlee_v4:Shoulder_L
+    m_Weight: 1
+  - m_Path: mahlee_v4:Main/mahlee_v4:DeformationSystem/mahlee_v4:Root_M/mahlee_v4:RootPart1_M/mahlee_v4:RootPart2_M/mahlee_v4:Spine1_M/mahlee_v4:Spine1Part1_M/mahlee_v4:Spine1Part2_M/mahlee_v4:Chest_M/mahlee_v4:Scapula_L/mahlee_v4:Shoulder_L/mahlee_v4:ShoulderPart1_L
+    m_Weight: 1
+  - m_Path: mahlee_v4:Main/mahlee_v4:DeformationSystem/mahlee_v4:Root_M/mahlee_v4:RootPart1_M/mahlee_v4:RootPart2_M/mahlee_v4:Spine1_M/mahlee_v4:Spine1Part1_M/mahlee_v4:Spine1Part2_M/mahlee_v4:Chest_M/mahlee_v4:Scapula_L/mahlee_v4:Shoulder_L/mahlee_v4:ShoulderPart1_L/mahlee_v4:ShoulderPart2_L
+    m_Weight: 1
+  - m_Path: mahlee_v4:Main/mahlee_v4:DeformationSystem/mahlee_v4:Root_M/mahlee_v4:RootPart1_M/mahlee_v4:RootPart2_M/mahlee_v4:Spine1_M/mahlee_v4:Spine1Part1_M/mahlee_v4:Spine1Part2_M/mahlee_v4:Chest_M/mahlee_v4:Scapula_L/mahlee_v4:Shoulder_L/mahlee_v4:ShoulderPart1_L/mahlee_v4:ShoulderPart2_L/mahlee_v4:Elbow_L
+    m_Weight: 1
+  - m_Path: mahlee_v4:Main/mahlee_v4:DeformationSystem/mahlee_v4:Root_M/mahlee_v4:RootPart1_M/mahlee_v4:RootPart2_M/mahlee_v4:Spine1_M/mahlee_v4:Spine1Part1_M/mahlee_v4:Spine1Part2_M/mahlee_v4:Chest_M/mahlee_v4:Scapula_L/mahlee_v4:Shoulder_L/mahlee_v4:ShoulderPart1_L/mahlee_v4:ShoulderPart2_L/mahlee_v4:Elbow_L/mahlee_v4:ElbowPart1_L
+    m_Weight: 1
+  - m_Path: mahlee_v4:Main/mahlee_v4:DeformationSystem/mahlee_v4:Root_M/mahlee_v4:RootPart1_M/mahlee_v4:RootPart2_M/mahlee_v4:Spine1_M/mahlee_v4:Spine1Part1_M/mahlee_v4:Spine1Part2_M/mahlee_v4:Chest_M/mahlee_v4:Scapula_L/mahlee_v4:Shoulder_L/mahlee_v4:ShoulderPart1_L/mahlee_v4:ShoulderPart2_L/mahlee_v4:Elbow_L/mahlee_v4:ElbowPart1_L/mahlee_v4:ElbowPart2_L
+    m_Weight: 1
+  - m_Path: mahlee_v4:Main/mahlee_v4:DeformationSystem/mahlee_v4:Root_M/mahlee_v4:RootPart1_M/mahlee_v4:RootPart2_M/mahlee_v4:Spine1_M/mahlee_v4:Spine1Part1_M/mahlee_v4:Spine1Part2_M/mahlee_v4:Chest_M/mahlee_v4:Scapula_L/mahlee_v4:Shoulder_L/mahlee_v4:ShoulderPart1_L/mahlee_v4:ShoulderPart2_L/mahlee_v4:Elbow_L/mahlee_v4:ElbowPart1_L/mahlee_v4:ElbowPart2_L/mahlee_v4:Wrist_L
+    m_Weight: 1
+  - m_Path: mahlee_v4:Main/mahlee_v4:DeformationSystem/mahlee_v4:Root_M/mahlee_v4:RootPart1_M/mahlee_v4:RootPart2_M/mahlee_v4:Spine1_M/mahlee_v4:Spine1Part1_M/mahlee_v4:Spine1Part2_M/mahlee_v4:Chest_M/mahlee_v4:Scapula_L/mahlee_v4:Shoulder_L/mahlee_v4:ShoulderPart1_L/mahlee_v4:ShoulderPart2_L/mahlee_v4:Elbow_L/mahlee_v4:ElbowPart1_L/mahlee_v4:ElbowPart2_L/mahlee_v4:Wrist_L/mahlee_v4:IndexFinger1_L
+    m_Weight: 1
+  - m_Path: mahlee_v4:Main/mahlee_v4:DeformationSystem/mahlee_v4:Root_M/mahlee_v4:RootPart1_M/mahlee_v4:RootPart2_M/mahlee_v4:Spine1_M/mahlee_v4:Spine1Part1_M/mahlee_v4:Spine1Part2_M/mahlee_v4:Chest_M/mahlee_v4:Scapula_L/mahlee_v4:Shoulder_L/mahlee_v4:ShoulderPart1_L/mahlee_v4:ShoulderPart2_L/mahlee_v4:Elbow_L/mahlee_v4:ElbowPart1_L/mahlee_v4:ElbowPart2_L/mahlee_v4:Wrist_L/mahlee_v4:IndexFinger1_L/mahlee_v4:IndexFinger2_L
+    m_Weight: 1
+  - m_Path: mahlee_v4:Main/mahlee_v4:DeformationSystem/mahlee_v4:Root_M/mahlee_v4:RootPart1_M/mahlee_v4:RootPart2_M/mahlee_v4:Spine1_M/mahlee_v4:Spine1Part1_M/mahlee_v4:Spine1Part2_M/mahlee_v4:Chest_M/mahlee_v4:Scapula_L/mahlee_v4:Shoulder_L/mahlee_v4:ShoulderPart1_L/mahlee_v4:ShoulderPart2_L/mahlee_v4:Elbow_L/mahlee_v4:ElbowPart1_L/mahlee_v4:ElbowPart2_L/mahlee_v4:Wrist_L/mahlee_v4:IndexFinger1_L/mahlee_v4:IndexFinger2_L/mahlee_v4:IndexFinger3_L
+    m_Weight: 1
+  - m_Path: mahlee_v4:Main/mahlee_v4:DeformationSystem/mahlee_v4:Root_M/mahlee_v4:RootPart1_M/mahlee_v4:RootPart2_M/mahlee_v4:Spine1_M/mahlee_v4:Spine1Part1_M/mahlee_v4:Spine1Part2_M/mahlee_v4:Chest_M/mahlee_v4:Scapula_L/mahlee_v4:Shoulder_L/mahlee_v4:ShoulderPart1_L/mahlee_v4:ShoulderPart2_L/mahlee_v4:Elbow_L/mahlee_v4:ElbowPart1_L/mahlee_v4:ElbowPart2_L/mahlee_v4:Wrist_L/mahlee_v4:ThumbFinger1_L
+    m_Weight: 1
+  - m_Path: mahlee_v4:Main/mahlee_v4:DeformationSystem/mahlee_v4:Root_M/mahlee_v4:RootPart1_M/mahlee_v4:RootPart2_M/mahlee_v4:Spine1_M/mahlee_v4:Spine1Part1_M/mahlee_v4:Spine1Part2_M/mahlee_v4:Chest_M/mahlee_v4:Scapula_L/mahlee_v4:Shoulder_L/mahlee_v4:ShoulderPart1_L/mahlee_v4:ShoulderPart2_L/mahlee_v4:Elbow_L/mahlee_v4:ElbowPart1_L/mahlee_v4:ElbowPart2_L/mahlee_v4:Wrist_L/mahlee_v4:ThumbFinger1_L/mahlee_v4:ThumbFinger2_L
+    m_Weight: 1
+  - m_Path: mahlee_v4:Main/mahlee_v4:DeformationSystem/mahlee_v4:Root_M/mahlee_v4:RootPart1_M/mahlee_v4:RootPart2_M/mahlee_v4:Spine1_M/mahlee_v4:Spine1Part1_M/mahlee_v4:Spine1Part2_M/mahlee_v4:Chest_M/mahlee_v4:Scapula_L/mahlee_v4:Shoulder_L/mahlee_v4:ShoulderPart1_L/mahlee_v4:ShoulderPart2_L/mahlee_v4:Elbow_L/mahlee_v4:ElbowPart1_L/mahlee_v4:ElbowPart2_L/mahlee_v4:Wrist_L/mahlee_v4:ThumbFinger1_L/mahlee_v4:ThumbFinger2_L/mahlee_v4:ThumbFinger3_L
+    m_Weight: 1
+  - m_Path: mahlee_v4:Main/mahlee_v4:DeformationSystem/mahlee_v4:Root_M/mahlee_v4:RootPart1_M/mahlee_v4:RootPart2_M/mahlee_v4:Spine1_M/mahlee_v4:Spine1Part1_M/mahlee_v4:Spine1Part2_M/mahlee_v4:Chest_M/mahlee_v4:Scapula_R
+    m_Weight: 1
+  - m_Path: mahlee_v4:Main/mahlee_v4:DeformationSystem/mahlee_v4:Root_M/mahlee_v4:RootPart1_M/mahlee_v4:RootPart2_M/mahlee_v4:Spine1_M/mahlee_v4:Spine1Part1_M/mahlee_v4:Spine1Part2_M/mahlee_v4:Chest_M/mahlee_v4:Scapula_R/mahlee_v4:Shoulder_R
+    m_Weight: 1
+  - m_Path: mahlee_v4:Main/mahlee_v4:DeformationSystem/mahlee_v4:Root_M/mahlee_v4:RootPart1_M/mahlee_v4:RootPart2_M/mahlee_v4:Spine1_M/mahlee_v4:Spine1Part1_M/mahlee_v4:Spine1Part2_M/mahlee_v4:Chest_M/mahlee_v4:Scapula_R/mahlee_v4:Shoulder_R/mahlee_v4:ShoulderPart1_R
+    m_Weight: 1
+  - m_Path: mahlee_v4:Main/mahlee_v4:DeformationSystem/mahlee_v4:Root_M/mahlee_v4:RootPart1_M/mahlee_v4:RootPart2_M/mahlee_v4:Spine1_M/mahlee_v4:Spine1Part1_M/mahlee_v4:Spine1Part2_M/mahlee_v4:Chest_M/mahlee_v4:Scapula_R/mahlee_v4:Shoulder_R/mahlee_v4:ShoulderPart1_R/mahlee_v4:ShoulderPart2_R
+    m_Weight: 1
+  - m_Path: mahlee_v4:Main/mahlee_v4:DeformationSystem/mahlee_v4:Root_M/mahlee_v4:RootPart1_M/mahlee_v4:RootPart2_M/mahlee_v4:Spine1_M/mahlee_v4:Spine1Part1_M/mahlee_v4:Spine1Part2_M/mahlee_v4:Chest_M/mahlee_v4:Scapula_R/mahlee_v4:Shoulder_R/mahlee_v4:ShoulderPart1_R/mahlee_v4:ShoulderPart2_R/mahlee_v4:Elbow_R
+    m_Weight: 1
+  - m_Path: mahlee_v4:Main/mahlee_v4:DeformationSystem/mahlee_v4:Root_M/mahlee_v4:RootPart1_M/mahlee_v4:RootPart2_M/mahlee_v4:Spine1_M/mahlee_v4:Spine1Part1_M/mahlee_v4:Spine1Part2_M/mahlee_v4:Chest_M/mahlee_v4:Scapula_R/mahlee_v4:Shoulder_R/mahlee_v4:ShoulderPart1_R/mahlee_v4:ShoulderPart2_R/mahlee_v4:Elbow_R/mahlee_v4:ElbowPart1_R
+    m_Weight: 1
+  - m_Path: mahlee_v4:Main/mahlee_v4:DeformationSystem/mahlee_v4:Root_M/mahlee_v4:RootPart1_M/mahlee_v4:RootPart2_M/mahlee_v4:Spine1_M/mahlee_v4:Spine1Part1_M/mahlee_v4:Spine1Part2_M/mahlee_v4:Chest_M/mahlee_v4:Scapula_R/mahlee_v4:Shoulder_R/mahlee_v4:ShoulderPart1_R/mahlee_v4:ShoulderPart2_R/mahlee_v4:Elbow_R/mahlee_v4:ElbowPart1_R/mahlee_v4:ElbowPart2_R
+    m_Weight: 1
+  - m_Path: mahlee_v4:Main/mahlee_v4:DeformationSystem/mahlee_v4:Root_M/mahlee_v4:RootPart1_M/mahlee_v4:RootPart2_M/mahlee_v4:Spine1_M/mahlee_v4:Spine1Part1_M/mahlee_v4:Spine1Part2_M/mahlee_v4:Chest_M/mahlee_v4:Scapula_R/mahlee_v4:Shoulder_R/mahlee_v4:ShoulderPart1_R/mahlee_v4:ShoulderPart2_R/mahlee_v4:Elbow_R/mahlee_v4:ElbowPart1_R/mahlee_v4:ElbowPart2_R/mahlee_v4:Wrist_R
+    m_Weight: 1
+  - m_Path: mahlee_v4:Main/mahlee_v4:DeformationSystem/mahlee_v4:Root_M/mahlee_v4:RootPart1_M/mahlee_v4:RootPart2_M/mahlee_v4:Spine1_M/mahlee_v4:Spine1Part1_M/mahlee_v4:Spine1Part2_M/mahlee_v4:Chest_M/mahlee_v4:Scapula_R/mahlee_v4:Shoulder_R/mahlee_v4:ShoulderPart1_R/mahlee_v4:ShoulderPart2_R/mahlee_v4:Elbow_R/mahlee_v4:ElbowPart1_R/mahlee_v4:ElbowPart2_R/mahlee_v4:Wrist_R/mahlee_v4:IndexFinger1_R
+    m_Weight: 1
+  - m_Path: mahlee_v4:Main/mahlee_v4:DeformationSystem/mahlee_v4:Root_M/mahlee_v4:RootPart1_M/mahlee_v4:RootPart2_M/mahlee_v4:Spine1_M/mahlee_v4:Spine1Part1_M/mahlee_v4:Spine1Part2_M/mahlee_v4:Chest_M/mahlee_v4:Scapula_R/mahlee_v4:Shoulder_R/mahlee_v4:ShoulderPart1_R/mahlee_v4:ShoulderPart2_R/mahlee_v4:Elbow_R/mahlee_v4:ElbowPart1_R/mahlee_v4:ElbowPart2_R/mahlee_v4:Wrist_R/mahlee_v4:IndexFinger1_R/mahlee_v4:IndexFinger2_R
+    m_Weight: 1
+  - m_Path: mahlee_v4:Main/mahlee_v4:DeformationSystem/mahlee_v4:Root_M/mahlee_v4:RootPart1_M/mahlee_v4:RootPart2_M/mahlee_v4:Spine1_M/mahlee_v4:Spine1Part1_M/mahlee_v4:Spine1Part2_M/mahlee_v4:Chest_M/mahlee_v4:Scapula_R/mahlee_v4:Shoulder_R/mahlee_v4:ShoulderPart1_R/mahlee_v4:ShoulderPart2_R/mahlee_v4:Elbow_R/mahlee_v4:ElbowPart1_R/mahlee_v4:ElbowPart2_R/mahlee_v4:Wrist_R/mahlee_v4:IndexFinger1_R/mahlee_v4:IndexFinger2_R/mahlee_v4:IndexFinger3_R
+    m_Weight: 1
+  - m_Path: mahlee_v4:Main/mahlee_v4:DeformationSystem/mahlee_v4:Root_M/mahlee_v4:RootPart1_M/mahlee_v4:RootPart2_M/mahlee_v4:Spine1_M/mahlee_v4:Spine1Part1_M/mahlee_v4:Spine1Part2_M/mahlee_v4:Chest_M/mahlee_v4:Scapula_R/mahlee_v4:Shoulder_R/mahlee_v4:ShoulderPart1_R/mahlee_v4:ShoulderPart2_R/mahlee_v4:Elbow_R/mahlee_v4:ElbowPart1_R/mahlee_v4:ElbowPart2_R/mahlee_v4:Wrist_R/mahlee_v4:ThumbFinger1_R
+    m_Weight: 0
+  - m_Path: mahlee_v4:Main/mahlee_v4:DeformationSystem/mahlee_v4:Root_M/mahlee_v4:RootPart1_M/mahlee_v4:RootPart2_M/mahlee_v4:Spine1_M/mahlee_v4:Spine1Part1_M/mahlee_v4:Spine1Part2_M/mahlee_v4:Chest_M/mahlee_v4:Scapula_R/mahlee_v4:Shoulder_R/mahlee_v4:ShoulderPart1_R/mahlee_v4:ShoulderPart2_R/mahlee_v4:Elbow_R/mahlee_v4:ElbowPart1_R/mahlee_v4:ElbowPart2_R/mahlee_v4:Wrist_R/mahlee_v4:ThumbFinger1_R/mahlee_v4:ThumbFinger2_R
+    m_Weight: 0
+  - m_Path: mahlee_v4:Main/mahlee_v4:DeformationSystem/mahlee_v4:Root_M/mahlee_v4:RootPart1_M/mahlee_v4:RootPart2_M/mahlee_v4:Spine1_M/mahlee_v4:Spine1Part1_M/mahlee_v4:Spine1Part2_M/mahlee_v4:Chest_M/mahlee_v4:Scapula_R/mahlee_v4:Shoulder_R/mahlee_v4:ShoulderPart1_R/mahlee_v4:ShoulderPart2_R/mahlee_v4:Elbow_R/mahlee_v4:ElbowPart1_R/mahlee_v4:ElbowPart2_R/mahlee_v4:Wrist_R/mahlee_v4:ThumbFinger1_R/mahlee_v4:ThumbFinger2_R/mahlee_v4:ThumbFinger3_R
+    m_Weight: 0

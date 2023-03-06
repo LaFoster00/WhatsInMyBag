@@ -1,0 +1,655 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{371F7846-970D-4EE5-89DC-32921575BCE4}" SchemaVersion="103">
+	<Events>
+		<WorkUnit Name="Default Work Unit" ID="{371F7846-970D-4EE5-89DC-32921575BCE4}" PersistMode="Standalone">
+			<ChildrenList>
+				<Folder Name="Dog" ID="{A079F5C7-E098-480F-903B-50E0DA45D726}" ShortID="328162455">
+					<PropertyList>
+						<Property Name="Color" Type="int16" Value="8"/>
+						<Property Name="OverrideColor" Type="bool" Value="True"/>
+					</PropertyList>
+					<ChildrenList>
+						<Event Name="Play_Dog_Bark" ID="{31718226-B877-4BF0-9D4A-6FC67FF38959}">
+							<PropertyList>
+								<Property Name="Color" Type="int16" Value="8"/>
+								<Property Name="OverrideColor" Type="bool" Value="True"/>
+							</PropertyList>
+							<ChildrenList>
+								<Action Name="" ID="{6E774D8A-8385-4ACA-BDF7-55D022CBDADF}" ShortID="324510834">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="Dog_Bark" ID="{72E5C687-9CE9-43FA-B5B1-BE349F0C1290}" WorkUnitID="{F4EDCB4A-3437-4B5F-9635-0A011CA63209}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="Play_Dog_Pant" ID="{4CE1DC45-3FE2-40E6-87F6-ABCF83013A8E}">
+							<PropertyList>
+								<Property Name="Color" Type="int16" Value="8"/>
+								<Property Name="OverrideColor" Type="bool" Value="True"/>
+							</PropertyList>
+							<ChildrenList>
+								<Action Name="" ID="{458C75E5-1609-446C-9874-47B070EC5BDF}" ShortID="348917600">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="Dog_Pant" ID="{575304FF-AF5B-4305-AF53-740000AF154C}" WorkUnitID="{F4EDCB4A-3437-4B5F-9635-0A011CA63209}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="Stop_Dog_Bark" ID="{6754B293-6F1F-49C9-9BF2-12F55F10D15C}">
+							<ChildrenList>
+								<Action Name="" ID="{132AA877-3FC3-4251-AB53-5BBD3096205C}" ShortID="246390440">
+									<PropertyList>
+										<Property Name="ActionType" Type="int16" Value="2"/>
+									</PropertyList>
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="Dog_Bark" ID="{72E5C687-9CE9-43FA-B5B1-BE349F0C1290}" WorkUnitID="{F4EDCB4A-3437-4B5F-9635-0A011CA63209}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="Stop_Dog_Pant" ID="{6E848ADE-906A-41C8-93F9-18AECC1DFB27}">
+							<ChildrenList>
+								<Action Name="" ID="{2B7E9599-AFA8-4DFC-A373-F89766200B59}" ShortID="616546914">
+									<PropertyList>
+										<Property Name="ActionType" Type="int16" Value="2"/>
+									</PropertyList>
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="Dog_Pant" ID="{575304FF-AF5B-4305-AF53-740000AF154C}" WorkUnitID="{F4EDCB4A-3437-4B5F-9635-0A011CA63209}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+					</ChildrenList>
+				</Folder>
+				<Folder Name="Objects" ID="{EC8F3339-3218-4B2F-B591-7CD9D9DE43B8}" ShortID="282989625">
+					<PropertyList>
+						<Property Name="Color" Type="int16" Value="3"/>
+						<Property Name="OverrideColor" Type="bool" Value="True"/>
+					</PropertyList>
+					<ChildrenList>
+						<Event Name="Play_Bottle_Drop" ID="{0116421A-FAB3-48EF-9E6D-908A9BBBF228}">
+							<PropertyList>
+								<Property Name="Color" Type="int16" Value="3"/>
+								<Property Name="OverrideColor" Type="bool" Value="True"/>
+							</PropertyList>
+							<ChildrenList>
+								<Action Name="" ID="{11B430EC-2ACE-4CCB-8D52-A4D8C0E69E0F}" ShortID="239780741">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="Object_Bottle_Drop" ID="{3AF9549B-637E-491D-868A-3BCEAC0C0998}" WorkUnitID="{F4EDCB4A-3437-4B5F-9635-0A011CA63209}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="Play_Door_Close" ID="{9CDB4965-E52C-4F0A-9D64-3F3A3B3036AF}">
+							<PropertyList>
+								<Property Name="Color" Type="int16" Value="3"/>
+								<Property Name="OverrideColor" Type="bool" Value="True"/>
+							</PropertyList>
+							<ChildrenList>
+								<Action Name="" ID="{8E4FC04A-6932-42B9-A049-249544EFAD6F}" ShortID="325948859">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="Object_Door_Close" ID="{BF8536AD-3C8F-4505-A5B0-CF5435A9814A}" WorkUnitID="{F4EDCB4A-3437-4B5F-9635-0A011CA63209}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="Play_Body_Bag" ID="{7CF242CC-8791-4A2E-AD2C-575503A37477}">
+							<PropertyList>
+								<Property Name="Color" Type="int16" Value="3"/>
+								<Property Name="OverrideColor" Type="bool" Value="True"/>
+							</PropertyList>
+							<ChildrenList>
+								<Action Name="" ID="{3FD68490-83B0-40D4-BED8-C25556733603}" ShortID="219165874">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="Object_Body_Bag" ID="{B71517D0-07C5-41DA-87F6-7CC415C2D672}" WorkUnitID="{F4EDCB4A-3437-4B5F-9635-0A011CA63209}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="Play_Fan" ID="{4AB4B32D-ACF0-46AE-A5AF-986609DD99DB}">
+							<PropertyList>
+								<Property Name="Color" Type="int16" Value="3"/>
+								<Property Name="OverrideColor" Type="bool" Value="True"/>
+							</PropertyList>
+							<ChildrenList>
+								<Action Name="" ID="{2A7ACE6A-AE67-4B14-B7A5-FC1B9937E374}" ShortID="503124832">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="Object_Fan" ID="{7F60EB4E-3969-42AD-8A0E-3B493C42265A}" WorkUnitID="{F4EDCB4A-3437-4B5F-9635-0A011CA63209}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="Play_Cashboard_Box" ID="{B2141B29-E551-4165-B49E-97E56BADE5AC}">
+							<ChildrenList>
+								<Action Name="" ID="{689C3725-560E-44D6-B3BC-D95218912EE5}" ShortID="700328117">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="Object_Cardboard_Box" ID="{D51BC574-005B-4FA7-9E22-2739689D1CA5}" WorkUnitID="{F4EDCB4A-3437-4B5F-9635-0A011CA63209}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="Play_Cleaning_Trolley" ID="{826CBAFD-5F0C-4BC1-8D6E-387EC16C8288}">
+							<ChildrenList>
+								<Action Name="" ID="{2B09356F-6EC2-4679-AA29-A07FB722F194}" ShortID="697874342">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="Object_Cleaning_Trolley" ID="{E39A2A63-A742-4858-BE03-2A1D8149170F}" WorkUnitID="{F4EDCB4A-3437-4B5F-9635-0A011CA63209}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="Play_Office_Chair" ID="{2ED08955-1476-405C-9CB6-B330F98C7132}">
+							<ChildrenList>
+								<Action Name="" ID="{005EE526-EAE9-48DA-AF9F-D10DE26FE282}" ShortID="884879768">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="Object_Office_Chair" ID="{159DA5D5-1B28-4C06-A588-38CFED0F1365}" WorkUnitID="{F4EDCB4A-3437-4B5F-9635-0A011CA63209}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="Play_Plastic_Bucket" ID="{DCAF1422-3A71-4C1E-BD9C-D953D31AECB8}">
+							<ChildrenList>
+								<Action Name="" ID="{825958CD-8F6E-45B1-A60E-23D6C886065B}" ShortID="272458193">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="Object_Plastic_Bucket" ID="{63171166-47F9-4F3A-AB77-6642E94BEE91}" WorkUnitID="{F4EDCB4A-3437-4B5F-9635-0A011CA63209}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="Play_Printer" ID="{FDA4BBF9-0310-4505-9266-EF1DBC1C2CCF}">
+							<ChildrenList>
+								<Action Name="" ID="{22A120B4-ABBB-4BF7-A2DC-AAF544247921}" ShortID="967207347">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="Object_Printer" ID="{7D15138E-EE71-4A6C-A142-66FB80C5103F}" WorkUnitID="{F4EDCB4A-3437-4B5F-9635-0A011CA63209}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="Play_Sheets_Fly" ID="{091168FD-4343-4BDB-98A9-BF0C31068D39}">
+							<ChildrenList>
+								<Action Name="" ID="{92E94503-8FBA-40E7-A18D-EE47CE1DA088}" ShortID="385884305">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="Object_Sheets_Fly" ID="{5471216E-C00C-4FF9-BC07-F3B9D5AEB5CD}" WorkUnitID="{F4EDCB4A-3437-4B5F-9635-0A011CA63209}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="Play_Speaker" ID="{083A559A-4DCF-4B87-B065-78B2AE773097}">
+							<ChildrenList>
+								<Action Name="" ID="{7282B453-A151-4A87-8857-4D4E290219E5}" ShortID="776739213">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="Object_Speaker" ID="{D5A1D9EA-1B56-4952-BC80-AA2EC708F3C7}" WorkUnitID="{F4EDCB4A-3437-4B5F-9635-0A011CA63209}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="Play_Coffee_Machine" ID="{59BC9C2B-5FF8-4ADE-A87A-3B52A0AA9F04}">
+							<ChildrenList>
+								<Action Name="" ID="{A78D1E50-3A31-40AB-9405-F24342254457}" ShortID="706596342">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="Object_Coffee_Machine" ID="{21837D76-1658-4DBB-A6A3-5423EB068FC2}" WorkUnitID="{F4EDCB4A-3437-4B5F-9635-0A011CA63209}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="Stop_Body_Bag" ID="{2360CA45-AB4B-492D-A564-B91016300BA2}">
+							<PropertyList>
+								<Property Name="Color" Type="int16" Value="3"/>
+								<Property Name="OverrideColor" Type="bool" Value="True"/>
+							</PropertyList>
+							<ChildrenList>
+								<Action Name="" ID="{4D941C60-8CC0-4E99-BFA3-49615B97AB42}" ShortID="128479503">
+									<PropertyList>
+										<Property Name="ActionType" Type="int16" Value="2"/>
+									</PropertyList>
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="Object_Body_Bag" ID="{B71517D0-07C5-41DA-87F6-7CC415C2D672}" WorkUnitID="{F4EDCB4A-3437-4B5F-9635-0A011CA63209}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="Stop_Cleaning_Trolley" ID="{DA4F1255-8EA7-4149-9CEE-8E911094FE71}">
+							<ChildrenList>
+								<Action Name="" ID="{92ACB8BA-E4D3-4AE5-A2F5-19FFCCC49E72}" ShortID="997249726">
+									<PropertyList>
+										<Property Name="ActionType" Type="int16" Value="2"/>
+									</PropertyList>
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="Object_Cleaning_Trolley" ID="{E39A2A63-A742-4858-BE03-2A1D8149170F}" WorkUnitID="{F4EDCB4A-3437-4B5F-9635-0A011CA63209}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="Stop_Fan" ID="{DA02C1DC-6248-4C14-A921-EF260F6BCAB6}">
+							<ChildrenList>
+								<Action Name="" ID="{20144134-3E21-4340-9AC5-A9663D5464A3}" ShortID="640896854">
+									<PropertyList>
+										<Property Name="ActionType" Type="int16" Value="2"/>
+									</PropertyList>
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="Object_Fan" ID="{7F60EB4E-3969-42AD-8A0E-3B493C42265A}" WorkUnitID="{F4EDCB4A-3437-4B5F-9635-0A011CA63209}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="Stop_Sheets_Fly" ID="{676641C2-5F4B-4CEB-B3B4-E92182D19131}">
+							<ChildrenList>
+								<Action Name="" ID="{95BC63C9-7904-4358-AFA3-E9A84C260CAF}" ShortID="418052343">
+									<PropertyList>
+										<Property Name="ActionType" Type="int16" Value="2"/>
+									</PropertyList>
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="Object_Sheets_Fly" ID="{5471216E-C00C-4FF9-BC07-F3B9D5AEB5CD}" WorkUnitID="{F4EDCB4A-3437-4B5F-9635-0A011CA63209}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="Stop_Speaker" ID="{D7E53AA5-99C4-467C-82D6-3F5516AE989C}">
+							<ChildrenList>
+								<Action Name="" ID="{A8F01A6A-7ECA-4D54-A6B0-69907F812D03}" ShortID="781775112">
+									<PropertyList>
+										<Property Name="ActionType" Type="int16" Value="2"/>
+									</PropertyList>
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="Object_Speaker" ID="{D5A1D9EA-1B56-4952-BC80-AA2EC708F3C7}" WorkUnitID="{F4EDCB4A-3437-4B5F-9635-0A011CA63209}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="Stop_Coffee_Machine" ID="{1D39805D-1BB3-451F-A705-7C7ECF0C2F4E}">
+							<ChildrenList>
+								<Action Name="" ID="{27645D77-8964-4DA7-909C-4D749BCD6B01}" ShortID="68321375">
+									<PropertyList>
+										<Property Name="ActionType" Type="int16" Value="2"/>
+									</PropertyList>
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="Object_Coffee_Machine" ID="{21837D76-1658-4DBB-A6A3-5423EB068FC2}" WorkUnitID="{F4EDCB4A-3437-4B5F-9635-0A011CA63209}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="Play_Technical_Error" ID="{75FBA762-083F-4983-96E0-7951874F2A2D}">
+							<ChildrenList>
+								<Action Name="" ID="{128E9EF0-D39B-45B2-9BA4-B99F863BB139}" ShortID="501525227">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="Object_Technical_Error" ID="{D03047E0-B421-4BF6-8248-AD7DEA6B75E7}" WorkUnitID="{F4EDCB4A-3437-4B5F-9635-0A011CA63209}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="Stop_Technical_Error" ID="{EF7E9132-5309-498F-AAF7-AAF113E9EDF1}">
+							<ChildrenList>
+								<Action Name="" ID="{421C11F7-A92E-4059-B6C8-0C7E303684D7}" ShortID="1023651978">
+									<PropertyList>
+										<Property Name="ActionType" Type="int16" Value="2"/>
+									</PropertyList>
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="Object_Technical_Error" ID="{D03047E0-B421-4BF6-8248-AD7DEA6B75E7}" WorkUnitID="{F4EDCB4A-3437-4B5F-9635-0A011CA63209}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="Play_Chair_Slide" ID="{83E8163C-2FFC-44F9-8152-F6B20D63D812}">
+							<ChildrenList>
+								<Action Name="" ID="{1CE27EBF-4503-4BB1-B9C6-5490C2864F25}" ShortID="1049650463">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="Object_Chair_Slide" ID="{2231ECC6-FDDA-4806-954B-C1EB44C1DB62}" WorkUnitID="{F4EDCB4A-3437-4B5F-9635-0A011CA63209}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+					</ChildrenList>
+				</Folder>
+				<Folder Name="Mahlee" ID="{9EAEC484-DAC5-4376-AE8A-CC0102B2A64E}" ShortID="422612007">
+					<PropertyList>
+						<Property Name="Color" Type="int16" Value="10"/>
+						<Property Name="OverrideColor" Type="bool" Value="True"/>
+					</PropertyList>
+					<ChildrenList>
+						<Event Name="Play_Drop" ID="{01E98566-6B54-41DB-A9C5-FDDC939ECEF1}">
+							<ChildrenList>
+								<Action Name="" ID="{DFCB57B3-F3C6-409D-8CFC-99C82D4F9861}" ShortID="161123016">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="Mahlee_Drop" ID="{BF7D3276-2A0C-4F25-A007-FE830A7A7C2D}" WorkUnitID="{F4EDCB4A-3437-4B5F-9635-0A011CA63209}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="Play_Grab" ID="{6132CF08-8A32-4232-B892-783BE5DCFB0A}">
+							<ChildrenList>
+								<Action Name="" ID="{F454C35C-3208-4445-99E5-BA6221485435}" ShortID="33367843">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="Mahlee_Grab" ID="{EB1849D7-85B6-4DAC-8148-B427EE94D0C5}" WorkUnitID="{F4EDCB4A-3437-4B5F-9635-0A011CA63209}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="Play_Throw" ID="{E23D6507-649F-4BBA-A992-7EA143ECD55E}">
+							<ChildrenList>
+								<Action Name="" ID="{4D6D5CB2-8A60-421E-9AF1-3EA5986C7354}" ShortID="622773631">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="Mahlee_Throw" ID="{36B18DC8-06B4-4ECF-A3D9-7A5CEF1F82AB}" WorkUnitID="{F4EDCB4A-3437-4B5F-9635-0A011CA63209}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="Play_Foot_Player" ID="{7F044323-8CC8-448A-B0DE-F307C25548B1}">
+							<ChildrenList>
+								<Action Name="" ID="{72AAC40C-ED4F-454F-8E4A-3662BED2773D}" ShortID="524009818">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="Mahlee_Footsteps" ID="{2B99EF0A-149D-4F2A-9846-DCCB24914486}" WorkUnitID="{F4EDCB4A-3437-4B5F-9635-0A011CA63209}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+					</ChildrenList>
+				</Folder>
+				<Folder Name="User_Interface" ID="{05F5EFF9-44B9-4181-968F-A5513B2B5C27}" ShortID="803776927">
+					<PropertyList>
+						<Property Name="Color" Type="int16" Value="4"/>
+						<Property Name="OverrideColor" Type="bool" Value="True"/>
+					</PropertyList>
+					<ChildrenList>
+						<Event Name="Play_Attention_Meter" ID="{31A51340-38A6-468F-A029-B37308AEA7C7}">
+							<ChildrenList>
+								<Action Name="" ID="{BFDEEFC4-054E-4ED9-89A8-31C01BCC360D}" ShortID="113275671">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="UI_Attention_Meter" ID="{5C74D9F6-F981-463C-819D-C51B631E0C11}" WorkUnitID="{F4EDCB4A-3437-4B5F-9635-0A011CA63209}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="Play_Checkpoint" ID="{F60E7903-D7E1-4E27-8CBA-8C23BDC15B8F}">
+							<ChildrenList>
+								<Action Name="" ID="{C7C14D6D-A964-4E23-B10E-C64F99C8C251}" ShortID="969051935">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="Checkpoint" ID="{89B9F0EA-7DDF-470A-B945-21A665F3EB72}" WorkUnitID="{F4EDCB4A-3437-4B5F-9635-0A011CA63209}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="Play_Alert" ID="{A8C30E3F-5CA3-4272-986A-A4055FFBB7C8}">
+							<ChildrenList>
+								<Action Name="" ID="{46FBA6A8-D278-4885-9F60-53518EABBB12}" ShortID="599785895">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="Alert" ID="{B85FABB0-C497-4ED6-8DD4-127B75C99A01}" WorkUnitID="{F4EDCB4A-3437-4B5F-9635-0A011CA63209}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="Stop_Attention_Meter" ID="{D65B4F4A-E7F3-493C-948D-A53DF065BB88}">
+							<ChildrenList>
+								<Action Name="" ID="{65D706C8-2C69-4E54-BF96-ACF7822F6BD3}" ShortID="598465441">
+									<PropertyList>
+										<Property Name="ActionType" Type="int16" Value="2"/>
+									</PropertyList>
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="UI_Attention_Meter" ID="{5C74D9F6-F981-463C-819D-C51B631E0C11}" WorkUnitID="{F4EDCB4A-3437-4B5F-9635-0A011CA63209}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+					</ChildrenList>
+				</Folder>
+				<Folder Name="Security" ID="{4952FD03-41EA-497E-99FC-01CAF3CE7B31}" ShortID="432644820">
+					<PropertyList>
+						<Property Name="Color" Type="int16" Value="1"/>
+						<Property Name="OverrideColor" Type="bool" Value="True"/>
+					</PropertyList>
+					<ChildrenList>
+						<Event Name="Play_Security_Gibberish" ID="{450265E2-92B3-4439-A36F-A42A1B13CF04}">
+							<PropertyList>
+								<Property Name="Color" Type="int16" Value="1"/>
+								<Property Name="OverrideColor" Type="bool" Value="True"/>
+							</PropertyList>
+							<ChildrenList>
+								<Action Name="" ID="{7353C870-C641-4DF9-B2DA-FCC0F5303726}" ShortID="865054936">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="Security_Gibberish" ID="{430409A2-039F-4A96-AEAE-0D16DDF37539}" WorkUnitID="{F4EDCB4A-3437-4B5F-9635-0A011CA63209}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="Stop_Security_Gibberish" ID="{2659236C-2350-4676-8ED8-DB7413969535}">
+							<ChildrenList>
+								<Action Name="" ID="{7E9BEFF1-39AF-4E35-A8DA-8550226430BD}" ShortID="876606328">
+									<PropertyList>
+										<Property Name="ActionType" Type="int16" Value="2"/>
+									</PropertyList>
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="Security_Gibberish" ID="{430409A2-039F-4A96-AEAE-0D16DDF37539}" WorkUnitID="{F4EDCB4A-3437-4B5F-9635-0A011CA63209}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+					</ChildrenList>
+				</Folder>
+				<Folder Name="Verka" ID="{81418DDB-D7A7-4670-9CC5-0F95C469A09E}" ShortID="436013929">
+					<PropertyList>
+						<Property Name="Color" Type="int16" Value="13"/>
+						<Property Name="OverrideColor" Type="bool" Value="True"/>
+					</PropertyList>
+					<ChildrenList>
+						<Event Name="Play_Verka_Gibberish" ID="{1F8F06EB-2759-4F02-A043-5B05EEC45E04}">
+							<PropertyList>
+								<Property Name="Color" Type="int16" Value="13"/>
+								<Property Name="OverrideColor" Type="bool" Value="True"/>
+							</PropertyList>
+							<ChildrenList>
+								<Action Name="" ID="{0955007C-3ED2-4D0D-B646-2D99E23AF3D3}" ShortID="626098274">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="Verka_Gibberish" ID="{5B79B530-920E-4F00-BD66-3D4B2C3F1EBA}" WorkUnitID="{F4EDCB4A-3437-4B5F-9635-0A011CA63209}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="Stop_Verka_Gibberish" ID="{C92526AB-75AB-48A6-A3A8-57022DF5A157}">
+							<ChildrenList>
+								<Action Name="" ID="{FB614577-18C6-4AD4-97D6-268BAA6CAFA0}" ShortID="222392897">
+									<PropertyList>
+										<Property Name="ActionType" Type="int16" Value="2"/>
+									</PropertyList>
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="Verka_Gibberish" ID="{5B79B530-920E-4F00-BD66-3D4B2C3F1EBA}" WorkUnitID="{F4EDCB4A-3437-4B5F-9635-0A011CA63209}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+					</ChildrenList>
+				</Folder>
+				<Folder Name="Coffee_Guy" ID="{585702B6-C0EF-4F38-8E34-4E2BAB0AEBC7}" ShortID="520672121">
+					<PropertyList>
+						<Property Name="Color" Type="int16" Value="25"/>
+						<Property Name="OverrideColor" Type="bool" Value="True"/>
+					</PropertyList>
+					<ChildrenList>
+						<Event Name="Play_Coffee_Guy_Gibberish" ID="{C2BAE609-B3E7-41B7-9283-16693AC736F6}">
+							<PropertyList>
+								<Property Name="Color" Type="int16" Value="25"/>
+								<Property Name="OverrideColor" Type="bool" Value="True"/>
+							</PropertyList>
+							<ChildrenList>
+								<Action Name="" ID="{78F3F39D-7EA5-4028-98F9-9BC5AD055028}" ShortID="600879114">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="Coffee_Guy_Gibberish" ID="{D87FDD36-E78C-4397-9ED2-2CDA496C6B60}" WorkUnitID="{F4EDCB4A-3437-4B5F-9635-0A011CA63209}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="Stop_Coffee_Guy_Gibberish" ID="{1D63F08F-1280-4F11-B9DB-3C2C48E2656F}">
+							<ChildrenList>
+								<Action Name="" ID="{24895282-70C2-4F20-9B23-A9868BCD7938}" ShortID="191670391">
+									<PropertyList>
+										<Property Name="ActionType" Type="int16" Value="2"/>
+									</PropertyList>
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="Coffee_Guy_Gibberish" ID="{D87FDD36-E78C-4397-9ED2-2CDA496C6B60}" WorkUnitID="{F4EDCB4A-3437-4B5F-9635-0A011CA63209}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+					</ChildrenList>
+				</Folder>
+				<Folder Name="Menu" ID="{2F4797E7-C697-4764-9716-A197C0FEE410}" ShortID="704375537">
+					<PropertyList>
+						<Property Name="Color" Type="int16" Value="14"/>
+						<Property Name="OverrideColor" Type="bool" Value="True"/>
+					</PropertyList>
+					<ChildrenList>
+						<Event Name="Menu_Click" ID="{4E5C497B-9C0B-44B7-8C53-83B8C8B21155}">
+							<PropertyList>
+								<Property Name="Color" Type="int16" Value="14"/>
+								<Property Name="OverrideColor" Type="bool" Value="True"/>
+							</PropertyList>
+							<ChildrenList>
+								<Action Name="" ID="{7CFE75AE-D475-4766-8767-FC5459BED0A8}" ShortID="686362073">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="Menu_Click" ID="{D69A329F-E70D-421D-8FA3-ED8E0802E579}" WorkUnitID="{F4EDCB4A-3437-4B5F-9635-0A011CA63209}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="Menu_Slide" ID="{C35BED84-BD15-46A0-8482-61843C36DB04}">
+							<PropertyList>
+								<Property Name="Color" Type="int16" Value="14"/>
+								<Property Name="OverrideColor" Type="bool" Value="True"/>
+							</PropertyList>
+							<ChildrenList>
+								<Action Name="" ID="{7FD08E74-0CFF-4E3C-8AD0-CB52F8A66D45}" ShortID="18064006">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="Menu_Slide" ID="{30A31FB4-4476-4BB0-B309-50623C4CAEBB}" WorkUnitID="{F4EDCB4A-3437-4B5F-9635-0A011CA63209}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="Menu_Backward" ID="{4480B2CC-86B4-47C0-BBAD-1E5695470E4F}">
+							<PropertyList>
+								<Property Name="Color" Type="int16" Value="14"/>
+								<Property Name="OverrideColor" Type="bool" Value="True"/>
+							</PropertyList>
+							<ChildrenList>
+								<Action Name="" ID="{FF635757-0732-427D-9091-022820F69A34}" ShortID="756296175">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="Menu_Backward" ID="{2DD601D5-5E58-46D3-9517-98EDF5643CA1}" WorkUnitID="{F4EDCB4A-3437-4B5F-9635-0A011CA63209}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+					</ChildrenList>
+				</Folder>
+				<Folder Name="IT_Lady" ID="{36C0EEBE-F972-455C-B6A5-312162CBA791}" ShortID="22265804">
+					<ChildrenList>
+						<Event Name="Play_IT_Lady_Gibberish" ID="{288967B7-1F23-46B8-A2E9-2E6A7132EC51}">
+							<ChildrenList>
+								<Action Name="" ID="{9048AD20-3BF1-46AC-BADD-59ED5AE03015}" ShortID="210908063">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="IT_Lady_Gibberish" ID="{CBE6AABE-FD53-41DE-A78F-C5DE02A4A39D}" WorkUnitID="{F4EDCB4A-3437-4B5F-9635-0A011CA63209}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="Stop_IT_Lady_Gibberish" ID="{9FEA524D-28C7-41DA-921F-494813A43716}">
+							<ChildrenList>
+								<Action Name="" ID="{3EA6F4FB-4922-44F0-B61E-11597B06DEE5}" ShortID="1062786286">
+									<PropertyList>
+										<Property Name="ActionType" Type="int16" Value="2"/>
+									</PropertyList>
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="IT_Lady_Gibberish" ID="{CBE6AABE-FD53-41DE-A78F-C5DE02A4A39D}" WorkUnitID="{F4EDCB4A-3437-4B5F-9635-0A011CA63209}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+					</ChildrenList>
+				</Folder>
+			</ChildrenList>
+		</WorkUnit>
+	</Events>
+</WwiseDocument>

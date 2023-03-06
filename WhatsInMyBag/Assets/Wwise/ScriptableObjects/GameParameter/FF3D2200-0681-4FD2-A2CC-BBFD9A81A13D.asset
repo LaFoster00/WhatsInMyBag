@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2dbc2061be7b1c246b159e66ea4b6137, type: 3}
+  m_Name: FF3D2200-0681-4FD2-A2CC-BBFD9A81A13D
+  m_EditorClassIdentifier: 
+  objectName: Body_Bag_Drag_Speed
+  id: 2257529775
+  guid: FF3D2200-0681-4FD2-A2CC-BBFD9A81A13D

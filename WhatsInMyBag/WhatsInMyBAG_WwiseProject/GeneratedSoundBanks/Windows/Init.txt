@@ -1,0 +1,39 @@
+State Group	ID	Name			Wwise Object Path	Notes
+	225972798	Checkpoints			\Default Work Unit\Checkpoints	
+	2403922838	Normal_or_Busted			\Default Work Unit\Normal_or_Busted	
+	4224239945	Game_or_Menu			\Default Work Unit\Game_or_Menu	
+
+State	ID	Name	State Group			Notes
+	748895195	None	Checkpoints			
+	1174696546	Checkpoint_4	Checkpoints			
+	1174696547	Checkpoint_5	Checkpoints			
+	1174696548	Checkpoint_2	Checkpoints			
+	1174696549	Checkpoint_3	Checkpoints			
+	1174696551	Checkpoint_1	Checkpoints			
+	748895195	None	Normal_or_Busted			
+	1160234136	Normal	Normal_or_Busted			
+	2021849752	Busted	Normal_or_Busted			
+	702482391	Game	Game_or_Menu			
+	748895195	None	Game_or_Menu			
+	2607556080	Menu	Game_or_Menu			
+
+Game Parameter	ID	Name			Wwise Object Path	Notes
+	51322976	Game_Volume			\Default Work Unit\Game_Volume	
+	2863554121	Stinger_Sidechain_Trigger			\Default Work Unit\Stinger_Sidechain_Trigger	
+	3726209162	Sidechain_Trigger			\Default Work Unit\Sidechain_Trigger	
+
+Audio Bus	ID	Name			Wwise Object Path	Notes
+	78360149	Stinger			\Default Work Unit\Master Audio Bus\Stinger	
+	2139261269	Character_and_Objects			\Default Work Unit\Master Audio Bus\Character_and_Objects	
+	2680856269	Music_Bus			\Default Work Unit\Master Audio Bus\Music_Bus	
+	3803692087	Master Audio Bus			\Default Work Unit\Master Audio Bus	
+	4210032561	Sidechain_Trigger_Bus			\Default Work Unit\Master Audio Bus\Sidechain_Trigger_Bus	
+
+Effect plug-ins	ID	Name	Type				Notes
+	1992114213	Sidechain_Meter	Wwise Meter			
+	3161107022	Stinger_Sidechain_Meter	Wwise Meter			
+
+Audio Devices	ID	Name	Type				Notes
+	2317455096	No_Output	No Output			
+	3859886410	System	System			
+

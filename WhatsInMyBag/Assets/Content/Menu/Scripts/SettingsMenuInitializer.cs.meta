@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 32f2d261351eb5e42b3485fa377545b4
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - inputSettings: {fileID: 11400000, guid: 4c888a40cbd8a834fbbb3d734d82d9d4, type: 2}
+  - audioSettings: {fileID: 11400000, guid: 393813df97823bc40b787ef2ea442479, type: 2}
+  - volumeSlider: {instanceID: 0}
+  - controllerSensitivitySlider: {instanceID: 0}
+  - mouseSensitivitySlider: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

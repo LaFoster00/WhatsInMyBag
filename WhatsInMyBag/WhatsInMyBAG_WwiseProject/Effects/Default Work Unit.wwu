@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{DAD7D655-5389-4080-B471-755BD905224F}" SchemaVersion="103">
+	<Effects>
+		<WorkUnit Name="Default Work Unit" ID="{DAD7D655-5389-4080-B471-755BD905224F}" PersistMode="Standalone">
+			<ChildrenList>
+				<Effect Name="Sidechain_Meter" ID="{6616386C-5100-4D50-876C-428E8E5D54B3}" PluginName="Wwise Meter" CompanyID="0" PluginID="129" PluginType="3">					<PluginData>
+	<GameParameter Name="Sidechain_Trigger" ID="{8F3092FC-D486-4E70-B663-0756C6068225}"/>
+</PluginData>
+				</Effect>
+				<Effect Name="Stinger_Sidechain_Meter" ID="{7ABC3237-EC07-4084-955B-836856C6DE8D}" PluginName="Wwise Meter" CompanyID="0" PluginID="129" PluginType="3">					<PluginData>
+	<GameParameter Name="Stinger_Sidechain_Trigger" ID="{25B300A6-4A40-417E-BB8C-D46D23D82E94}"/>
+</PluginData>
+				</Effect>
+			</ChildrenList>
+		</WorkUnit>
+	</Effects>
+</WwiseDocument>

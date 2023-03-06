@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{7E4B2138-B1F7-400B-8A7A-B8DC973969AA}" SchemaVersion="103">
+	<States>
+		<WorkUnit Name="Default Work Unit" ID="{7E4B2138-B1F7-400B-8A7A-B8DC973969AA}" PersistMode="Standalone">
+			<ChildrenList>
+				<StateGroup Name="Checkpoints" ID="{5D72BBD8-06DF-4862-BF5F-E31D15EDC3B5}">
+					<ChildrenList>
+						<State Name="None" ID="{B9B8DB73-97A6-407F-B385-F8B1C92B68AE}"/>
+						<State Name="Checkpoint_1" ID="{5FAFD6A7-0277-4D55-BAD7-7696EC13D622}"/>
+						<State Name="Checkpoint_2" ID="{7EEEB8F1-6E8E-4DCB-9088-091689EE3039}"/>
+						<State Name="Checkpoint_3" ID="{B21F4DED-D4E4-479C-A2CE-F11B974F9FDD}"/>
+						<State Name="Checkpoint_4" ID="{2E660106-42FD-44B2-98BD-FB69B4D45ABB}"/>
+						<State Name="Checkpoint_5" ID="{A5404CD4-EB44-445E-8779-9BC62A067AD3}"/>
+					</ChildrenList>
+				</StateGroup>
+				<StateGroup Name="Normal_or_Busted" ID="{710A2D64-982F-42AD-9858-255F0DC67066}">
+					<ChildrenList>
+						<State Name="None" ID="{71C007C4-8847-4DDE-8D1B-57351853ED5C}"/>
+						<State Name="Busted" ID="{F9430FC7-5CDE-49BF-95F1-F42D3D7B3C15}"/>
+						<State Name="Normal" ID="{AE7620E0-C4BB-4486-BFF1-6B949B87E623}"/>
+					</ChildrenList>
+				</StateGroup>
+				<StateGroup Name="Game_or_Menu" ID="{CD3635D7-2F64-4187-A405-9F9628B6DB4A}">
+					<ChildrenList>
+						<State Name="None" ID="{29B378A8-ABB7-4CE4-8803-5FDD6C9D4CEF}"/>
+						<State Name="Game" ID="{2F771E93-B02A-4317-A726-CA884969610B}"/>
+						<State Name="Menu" ID="{8D760646-4C89-485C-843C-211574A5154D}"/>
+					</ChildrenList>
+				</StateGroup>
+			</ChildrenList>
+		</WorkUnit>
+	</States>
+</WwiseDocument>

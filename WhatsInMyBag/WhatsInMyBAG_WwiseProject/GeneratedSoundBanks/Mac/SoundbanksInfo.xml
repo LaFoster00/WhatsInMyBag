@@ -1,0 +1,1522 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SoundBanksInfo Platform="Mac" BasePlatform="Mac" SchemaVersion="12" SoundbankVersion="140">
+	<RootPaths>
+		<ProjectRoot>C:\Users\Lasse\Documents\Perforce\WhatsInMyBag\dev\WhatsInMyBag\WhatsInMyBAG_WwiseProject\</ProjectRoot>
+		<SourceFilesRoot>C:\Users\Lasse\Documents\Perforce\WhatsInMyBag\dev\WhatsInMyBag\WhatsInMyBAG_WwiseProject\.cache\Mac\</SourceFilesRoot>
+		<SoundBanksRoot>C:\Users\Lasse\Documents\Perforce\WhatsInMyBag\dev\WhatsInMyBag\WhatsInMyBAG_WwiseProject\GeneratedSoundBanks\Mac\</SoundBanksRoot>
+		<ExternalSourcesInputFile></ExternalSourcesInputFile>
+		<ExternalSourcesOutputRoot>C:\Users\Lasse\Documents\Perforce\WhatsInMyBag\dev\WhatsInMyBag\WhatsInMyBAG_WwiseProject\GeneratedSoundBanks\Mac</ExternalSourcesOutputRoot>
+	</RootPaths>
+	<DialogueEvents/>
+	<StreamedFiles/>
+	<MediaFilesNotInAnyBank/>
+	<SoundBanks>
+		<SoundBank Id="1355168291" Language="SFX" Hash="3251072412">
+			<ObjectPath>Init</ObjectPath>
+			<ShortName>Init</ShortName>
+			<Path>Init.bnk</Path>
+			<GameParameters>
+				<GameParameter Id="51322976" Name="Game_Volume" ObjectPath="\Game Parameters\Default Work Unit\Game_Volume"/>
+				<GameParameter Id="2863554121" Name="Stinger_Sidechain_Trigger" ObjectPath="\Game Parameters\Default Work Unit\Stinger_Sidechain_Trigger"/>
+				<GameParameter Id="3726209162" Name="Sidechain_Trigger" ObjectPath="\Game Parameters\Default Work Unit\Sidechain_Trigger"/>
+			</GameParameters>
+		</SoundBank>
+		<SoundBank Id="3161908922" Language="SFX" Hash="336582886">
+			<ObjectPath>\SoundBanks\Default Work Unit\Main</ObjectPath>
+			<ShortName>Main</ShortName>
+			<Path>Main.bnk</Path>
+			<IncludedEvents>
+				<Event Id="3697470820" Name="Menu_Backward" ObjectPath="\Events\Default Work Unit\Menu\Menu_Backward" DurationType="OneShot" DurationMin="0.272018" DurationMax="0.272018">
+					<IncludedMemoryFiles>
+						<File Id="954084944" Language="SFX">
+							<ShortName>Menu_Backward.wav</ShortName>
+							<Path>SFX\Menu_Backward_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="760777789" Name="Menu_Click" ObjectPath="\Events\Default Work Unit\Menu\Menu_Click" DurationType="OneShot" DurationMin="0.123628" DurationMax="0.123628">
+					<IncludedMemoryFiles>
+						<File Id="565747256" Language="SFX">
+							<ShortName>Menu_Click 1.wav</ShortName>
+							<Path>SFX\Menu_Click 1_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="2795715930" Name="Menu_Slide" ObjectPath="\Events\Default Work Unit\Menu\Menu_Slide" DurationType="OneShot" DurationMin="0.078367" DurationMax="0.078367">
+					<IncludedMemoryFiles>
+						<File Id="890069007" Language="SFX">
+							<ShortName>Menu_Click.wav</ShortName>
+							<Path>SFX\Menu_Click_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="470304396" Name="Play_Alert" ObjectPath="\Events\Default Work Unit\User_Interface\Play_Alert" MaxAttenuation="30.000000" DurationType="OneShot" DurationMin="1.821134" DurationMax="1.821134">
+					<IncludedMemoryFiles>
+						<File Id="193484536" Language="SFX">
+							<ShortName>Alert_Reverb.wav</ShortName>
+							<Path>SFX\Alert_Reverb_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="2767870562" Name="Play_Attention_Meter" ObjectPath="\Events\Default Work Unit\User_Interface\Play_Attention_Meter" DurationType="Infinite">
+					<IncludedMemoryFiles>
+						<File Id="321956640" Language="SFX">
+							<ShortName>Alarm_Slow.wav</ShortName>
+							<Path>SFX\Alarm_Slow_10C4C929.wem</Path>
+						</File>
+						<File Id="482932965" Language="SFX">
+							<ShortName>Alarm_Fast.wav</ShortName>
+							<Path>SFX\Alarm_Fast_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="2322891237" Name="Play_Body_Bag" ObjectPath="\Events\Default Work Unit\Objects\Play_Body_Bag" DurationType="Infinite">
+					<IncludedMemoryFiles>
+						<File Id="474427182" Language="SFX">
+							<ShortName>Body_Bag 2.wav</ShortName>
+							<Path>SFX\Body_Bag 2_10C4C929.wem</Path>
+						</File>
+						<File Id="971951826" Language="SFX">
+							<ShortName>Body_Bag 1.wav</ShortName>
+							<Path>SFX\Body_Bag 1_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="1242066846" Name="Play_Bottle_Drop" ObjectPath="\Events\Default Work Unit\Objects\Play_Bottle_Drop" MaxAttenuation="30.000000" DurationType="OneShot" DurationMin="2.844830" DurationMax="3.189660">
+					<IncludedMemoryFiles>
+						<File Id="535308979" Language="SFX">
+							<ShortName>Bottle_Liquid 1 .wav</ShortName>
+							<Path>SFX\Bottle_Liquid 1 _10C4C929.wem</Path>
+						</File>
+						<File Id="608073119" Language="SFX">
+							<ShortName>Bottle_Liquid 3 .wav</ShortName>
+							<Path>SFX\Bottle_Liquid 3 _10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="1210500043" Name="Play_Cashboard_Box" ObjectPath="\Events\Default Work Unit\Objects\Play_Cashboard_Box" MaxAttenuation="30.000000" DurationType="OneShot" DurationMin="1.250000" DurationMax="1.523401">
+					<IncludedMemoryFiles>
+						<File Id="205033126" Language="SFX">
+							<ShortName>Cardboard_Box 3.wav</ShortName>
+							<Path>SFX\Cardboard_Box 3_10C4C929.wem</Path>
+						</File>
+						<File Id="249482093" Language="SFX">
+							<ShortName>Cardboard_Box 1.wav</ShortName>
+							<Path>SFX\Cardboard_Box 1_10C4C929.wem</Path>
+						</File>
+						<File Id="714604786" Language="SFX">
+							<ShortName>Cardboard_Box 4.wav</ShortName>
+							<Path>SFX\Cardboard_Box 4_10C4C929.wem</Path>
+						</File>
+						<File Id="866847590" Language="SFX">
+							<ShortName>Cardboard_Box 2.wav</ShortName>
+							<Path>SFX\Cardboard_Box 2_10C4C929.wem</Path>
+						</File>
+						<File Id="870248013" Language="SFX">
+							<ShortName>Cardboard_Box 5.wav</ShortName>
+							<Path>SFX\Cardboard_Box 5_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="3578611119" Name="Play_Chair_Slide" ObjectPath="\Events\Default Work Unit\Objects\Play_Chair_Slide" MaxAttenuation="30.000000" DurationType="OneShot" DurationMin="0.323288" DurationMax="0.431043">
+					<IncludedMemoryFiles>
+						<File Id="310804089" Language="SFX">
+							<ShortName>Chair_Slide 1.wav</ShortName>
+							<Path>SFX\Chair_Slide 1_10C4C929.wem</Path>
+						</File>
+						<File Id="371935779" Language="SFX">
+							<ShortName>Chair_Slide 5.wav</ShortName>
+							<Path>SFX\Chair_Slide 5_10C4C929.wem</Path>
+						</File>
+						<File Id="745118647" Language="SFX">
+							<ShortName>Chair_Slide 4.wav</ShortName>
+							<Path>SFX\Chair_Slide 4_10C4C929.wem</Path>
+						</File>
+						<File Id="889946412" Language="SFX">
+							<ShortName>Chair_Slide 3.wav</ShortName>
+							<Path>SFX\Chair_Slide 3_10C4C929.wem</Path>
+						</File>
+						<File Id="1002098731" Language="SFX">
+							<ShortName>Chair_Slide 2.wav</ShortName>
+							<Path>SFX\Chair_Slide 2_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="2962822744" Name="Play_Checkpoint" ObjectPath="\Events\Default Work Unit\User_Interface\Play_Checkpoint" DurationType="OneShot" DurationMin="1.500000" DurationMax="1.500000">
+					<IncludedMemoryFiles>
+						<File Id="271224707" Language="SFX">
+							<ShortName>Checkpoint_Reached.wav</ShortName>
+							<Path>SFX\Checkpoint_Reached_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="340747253" Name="Play_Cleaning_Trolley" ObjectPath="\Events\Default Work Unit\Objects\Play_Cleaning_Trolley" MaxAttenuation="30.000000" DurationType="Infinite">
+					<IncludedMemoryFiles>
+						<File Id="680767255" Language="SFX">
+							<ShortName>Cleaning_Trolley.wav</ShortName>
+							<Path>SFX\Cleaning_Trolley_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="2332251280" Name="Play_Coffee_Guy_Gibberish" ObjectPath="\Events\Default Work Unit\Coffee_Guy\Play_Coffee_Guy_Gibberish" MaxAttenuation="30.000000" DurationType="Infinite">
+					<IncludedMemoryFiles>
+						<File Id="17145400" Language="SFX">
+							<ShortName>Coffee_Guy_Gibberish 4.wav</ShortName>
+							<Path>SFX\Coffee_Guy_Gibberish 4_10C4C929.wem</Path>
+						</File>
+						<File Id="44968750" Language="SFX">
+							<ShortName>Coffee_Guy_Gibberish 5.wav</ShortName>
+							<Path>SFX\Coffee_Guy_Gibberish 5_10C4C929.wem</Path>
+						</File>
+						<File Id="61746703" Language="SFX">
+							<ShortName>Coffee_Guy_Gibberish 12.wav</ShortName>
+							<Path>SFX\Coffee_Guy_Gibberish 12_10C4C929.wem</Path>
+						</File>
+						<File Id="116919661" Language="SFX">
+							<ShortName>Coffee_Guy_Gibberish 7.wav</ShortName>
+							<Path>SFX\Coffee_Guy_Gibberish 7_10C4C929.wem</Path>
+						</File>
+						<File Id="132867545" Language="SFX">
+							<ShortName>Coffee_Guy_Gibberish 14.wav</ShortName>
+							<Path>SFX\Coffee_Guy_Gibberish 14_10C4C929.wem</Path>
+						</File>
+						<File Id="310148696" Language="SFX">
+							<ShortName>Coffee_Guy_Gibberish 6.wav</ShortName>
+							<Path>SFX\Coffee_Guy_Gibberish 6_10C4C929.wem</Path>
+						</File>
+						<File Id="343409839" Language="SFX">
+							<ShortName>Coffee_Guy_Gibberish 17.wav</ShortName>
+							<Path>SFX\Coffee_Guy_Gibberish 17_10C4C929.wem</Path>
+						</File>
+						<File Id="381683850" Language="SFX">
+							<ShortName>Coffee_Guy_Gibberish 13.wav</ShortName>
+							<Path>SFX\Coffee_Guy_Gibberish 13_10C4C929.wem</Path>
+						</File>
+						<File Id="385153095" Language="SFX">
+							<ShortName>Coffee_Guy_Gibberish 1.wav</ShortName>
+							<Path>SFX\Coffee_Guy_Gibberish 1_10C4C929.wem</Path>
+						</File>
+						<File Id="430418833" Language="SFX">
+							<ShortName>Coffee_Guy_Gibberish 8.wav</ShortName>
+							<Path>SFX\Coffee_Guy_Gibberish 8_10C4C929.wem</Path>
+						</File>
+						<File Id="533148506" Language="SFX">
+							<ShortName>Coffee_Guy_Gibberish 11.wav</ShortName>
+							<Path>SFX\Coffee_Guy_Gibberish 11_10C4C929.wem</Path>
+						</File>
+						<File Id="637978185" Language="SFX">
+							<ShortName>Coffee_Guy_Gibberish 9.wav</ShortName>
+							<Path>SFX\Coffee_Guy_Gibberish 9_10C4C929.wem</Path>
+						</File>
+						<File Id="641354822" Language="SFX">
+							<ShortName>Coffee_Guy_Gibberish 16.wav</ShortName>
+							<Path>SFX\Coffee_Guy_Gibberish 16_10C4C929.wem</Path>
+						</File>
+						<File Id="928815354" Language="SFX">
+							<ShortName>Coffee_Guy_Gibberish 2.wav</ShortName>
+							<Path>SFX\Coffee_Guy_Gibberish 2_10C4C929.wem</Path>
+						</File>
+						<File Id="980686083" Language="SFX">
+							<ShortName>Coffee_Guy_Gibberish 15.wav</ShortName>
+							<Path>SFX\Coffee_Guy_Gibberish 15_10C4C929.wem</Path>
+						</File>
+						<File Id="1020724927" Language="SFX">
+							<ShortName>Coffee_Guy_Gibberish 3.wav</ShortName>
+							<Path>SFX\Coffee_Guy_Gibberish 3_10C4C929.wem</Path>
+						</File>
+						<File Id="1053097451" Language="SFX">
+							<ShortName>Coffee_Guy_Gibberish 10.wav</ShortName>
+							<Path>SFX\Coffee_Guy_Gibberish 10_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="977107306" Name="Play_Coffee_Guy_Intro_Stinger" ObjectPath="\Events\Music\Play_Coffee_Guy_Intro_Stinger" DurationType="OneShot" DurationMin="7.500000" DurationMax="7.500000">
+					<IncludedMemoryFiles>
+						<File Id="913575042" Language="SFX">
+							<ShortName>WIMB Char_Intro_Coffeeguy.wav</ShortName>
+							<Path>SFX\WIMB Char_Intro_Coffeeguy_D79FB2B7.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="3311391268" Name="Play_Coffee_Machine" ObjectPath="\Events\Default Work Unit\Objects\Play_Coffee_Machine" MaxAttenuation="30.000000" DurationType="OneShot" DurationMin="34.482788" DurationMax="34.482788">
+					<IncludedMemoryFiles>
+						<File Id="779189701" Language="SFX">
+							<ShortName>Coffee_Machine.wav</ShortName>
+							<Path>SFX\Coffee_Machine_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="3883431988" Name="Play_Coffee_Machine_Intro_Stinger" ObjectPath="\Events\Music\Play_Coffee_Machine_Intro_Stinger" DurationType="OneShot" DurationMin="5.142875" DurationMax="5.142875">
+					<IncludedMemoryFiles>
+						<File Id="259598939" Language="SFX">
+							<ShortName>WIMB Char_Intro_Coffeemashine.wav</ShortName>
+							<Path>SFX\WIMB Char_Intro_Coffeemashine_D79FB2B7.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="2632436053" Name="Play_Dog_Bark" ObjectPath="\Events\Default Work Unit\Dog\Play_Dog_Bark" MaxAttenuation="30.000000" DurationType="Infinite">
+					<IncludedMemoryFiles>
+						<File Id="322160176" Language="SFX">
+							<ShortName>Dog_Bark 3.wav</ShortName>
+							<Path>SFX\Dog_Bark 3_10C4C929.wem</Path>
+						</File>
+						<File Id="353272732" Language="SFX">
+							<ShortName>Dog_Bark 2.wav</ShortName>
+							<Path>SFX\Dog_Bark 2_10C4C929.wem</Path>
+						</File>
+						<File Id="838363263" Language="SFX">
+							<ShortName>Dog_Bark 4.wav</ShortName>
+							<Path>SFX\Dog_Bark 4_10C4C929.wem</Path>
+						</File>
+						<File Id="1019051001" Language="SFX">
+							<ShortName>Dog_Bark 1.wav</ShortName>
+							<Path>SFX\Dog_Bark 1_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="1118684" Name="Play_Dog_Pant" ObjectPath="\Events\Default Work Unit\Dog\Play_Dog_Pant" MaxAttenuation="30.000000" DurationType="Infinite">
+					<IncludedMemoryFiles>
+						<File Id="10517928" Language="SFX">
+							<ShortName>Dog_Pant 2.wav</ShortName>
+							<Path>SFX\Dog_Pant 2_10C4C929.wem</Path>
+						</File>
+						<File Id="479720344" Language="SFX">
+							<ShortName>Dog_Pant 4.wav</ShortName>
+							<Path>SFX\Dog_Pant 4_10C4C929.wem</Path>
+						</File>
+						<File Id="662042122" Language="SFX">
+							<ShortName>Dog_Pant 3.wav</ShortName>
+							<Path>SFX\Dog_Pant 3_10C4C929.wem</Path>
+						</File>
+						<File Id="894564684" Language="SFX">
+							<ShortName>Dog_Pant 1.wav</ShortName>
+							<Path>SFX\Dog_Pant 1_10C4C929.wem</Path>
+						</File>
+						<File Id="1037586059" Language="SFX">
+							<ShortName>Dog_Pant 5.wav</ShortName>
+							<Path>SFX\Dog_Pant 5_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="2292458263" Name="Play_Door_Close" ObjectPath="\Events\Default Work Unit\Objects\Play_Door_Close" MaxAttenuation="30.000000" DurationType="OneShot" DurationMin="1.266168" DurationMax="1.266168">
+					<IncludedMemoryFiles>
+						<File Id="63280974" Language="SFX">
+							<ShortName>Door_Close 1.wav</ShortName>
+							<Path>SFX\Door_Close 1_10C4C929.wem</Path>
+						</File>
+						<File Id="150380431" Language="SFX">
+							<ShortName>Door_Close 3.wav</ShortName>
+							<Path>SFX\Door_Close 3_10C4C929.wem</Path>
+						</File>
+						<File Id="708282430" Language="SFX">
+							<ShortName>Door_Close 2.wav</ShortName>
+							<Path>SFX\Door_Close 2_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="2007351433" Name="Play_Drop" ObjectPath="\Events\Default Work Unit\Mahlee\Play_Drop" DurationType="OneShot" DurationMin="0.177823" DurationMax="0.177823">
+					<IncludedMemoryFiles>
+						<File Id="438277124" Language="SFX">
+							<ShortName>Drop.wav</ShortName>
+							<Path>SFX\Drop_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="2757069037" Name="Play_Fan" ObjectPath="\Events\Default Work Unit\Objects\Play_Fan" MaxAttenuation="30.000000" DurationType="Infinite">
+					<IncludedMemoryFiles>
+						<File Id="861480684" Language="SFX">
+							<ShortName>Fan.wav</ShortName>
+							<Path>SFX\Fan_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="171995870" Name="Play_Foot_Player" ObjectPath="\Events\Default Work Unit\Mahlee\Play_Foot_Player" DurationType="OneShot" DurationMin="0.294792" DurationMax="1.239229">
+					<IncludedMemoryFiles>
+						<File Id="100086723" Language="SFX">
+							<ShortName>Footsteps_Concrete 4.wav</ShortName>
+							<Path>SFX\Footsteps_Concrete 4_10C4C929.wem</Path>
+						</File>
+						<File Id="118658656" Language="SFX">
+							<ShortName>Footsteps_Tile 2.wav</ShortName>
+							<Path>SFX\Footsteps_Tile 2_10C4C929.wem</Path>
+						</File>
+						<File Id="183662975" Language="SFX">
+							<ShortName>Footsteps_Tile 4.wav</ShortName>
+							<Path>SFX\Footsteps_Tile 4_10C4C929.wem</Path>
+						</File>
+						<File Id="240858981" Language="SFX">
+							<ShortName>Leather Shoes Carpet 4.wav</ShortName>
+							<Path>SFX\Leather Shoes Carpet 4_CD89B4DF.wem</Path>
+						</File>
+						<File Id="334353660" Language="SFX">
+							<ShortName>Footstep_Wood 1 .wav</ShortName>
+							<Path>SFX\Footstep_Wood 1 _10C4C929.wem</Path>
+						</File>
+						<File Id="364956126" Language="SFX">
+							<ShortName>Footsteps_Tile 3.wav</ShortName>
+							<Path>SFX\Footsteps_Tile 3_10C4C929.wem</Path>
+						</File>
+						<File Id="420491157" Language="SFX">
+							<ShortName>Leather Shoes Carpet 1.wav</ShortName>
+							<Path>SFX\Leather Shoes Carpet 1_C12D31A5.wem</Path>
+						</File>
+						<File Id="454407443" Language="SFX">
+							<ShortName>Footstep_Squish 2.wav</ShortName>
+							<Path>SFX\Footstep_Squish 2_10C4C929.wem</Path>
+						</File>
+						<File Id="471505919" Language="SFX">
+							<ShortName>Footstep_Wood 5 .wav</ShortName>
+							<Path>SFX\Footstep_Wood 5 _10C4C929.wem</Path>
+						</File>
+						<File Id="647929511" Language="SFX">
+							<ShortName>Footsteps_Concrete 2.wav</ShortName>
+							<Path>SFX\Footsteps_Concrete 2_10C4C929.wem</Path>
+						</File>
+						<File Id="670457947" Language="SFX">
+							<ShortName>Footsteps_Concrete 5.wav</ShortName>
+							<Path>SFX\Footsteps_Concrete 5_10C4C929.wem</Path>
+						</File>
+						<File Id="677269711" Language="SFX">
+							<ShortName>Footsteps_Concrete 3.wav</ShortName>
+							<Path>SFX\Footsteps_Concrete 3_10C4C929.wem</Path>
+						</File>
+						<File Id="704649773" Language="SFX">
+							<ShortName>Leather Shoes Carpet 5.wav</ShortName>
+							<Path>SFX\Leather Shoes Carpet 5_ABF5CCAD.wem</Path>
+						</File>
+						<File Id="752842726" Language="SFX">
+							<ShortName>Footstep_Squish 3.wav</ShortName>
+							<Path>SFX\Footstep_Squish 3_10C4C929.wem</Path>
+						</File>
+						<File Id="777493352" Language="SFX">
+							<ShortName>Footstep_Wood 2 .wav</ShortName>
+							<Path>SFX\Footstep_Wood 2 _10C4C929.wem</Path>
+						</File>
+						<File Id="867001744" Language="SFX">
+							<ShortName>Footstep_Wood 3 .wav</ShortName>
+							<Path>SFX\Footstep_Wood 3 _10C4C929.wem</Path>
+						</File>
+						<File Id="868620429" Language="SFX">
+							<ShortName>Footsteps_Tile 5.wav</ShortName>
+							<Path>SFX\Footsteps_Tile 5_10C4C929.wem</Path>
+						</File>
+						<File Id="907057816" Language="SFX">
+							<ShortName>Footstep_Wood 4 .wav</ShortName>
+							<Path>SFX\Footstep_Wood 4 _10C4C929.wem</Path>
+						</File>
+						<File Id="1037188629" Language="SFX">
+							<ShortName>Leather Shoes Carpet 2.wav</ShortName>
+							<Path>SFX\Leather Shoes Carpet 2_8072932E.wem</Path>
+						</File>
+						<File Id="1041119817" Language="SFX">
+							<ShortName>Leather Shoes Carpet 3.wav</ShortName>
+							<Path>SFX\Leather Shoes Carpet 3_00D4056F.wem</Path>
+						</File>
+						<File Id="1057878484" Language="SFX">
+							<ShortName>Footsteps_Tile 1.wav</ShortName>
+							<Path>SFX\Footsteps_Tile 1_10C4C929.wem</Path>
+						</File>
+						<File Id="1071239862" Language="SFX">
+							<ShortName>Footsteps_Concrete 1.wav</ShortName>
+							<Path>SFX\Footsteps_Concrete 1_10C4C929.wem</Path>
+						</File>
+						<File Id="1073548065" Language="SFX">
+							<ShortName>Footstep_Squish 1.wav</ShortName>
+							<Path>SFX\Footstep_Squish 1_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+					<DefaultSwitchValue>{6F046033-6D1C-48E4-A9F2-E93D2BDA4966}</DefaultSwitchValue>
+					<SwitchContainers>
+						<SwitchContainer SwitchValue="{6F046033-6D1C-48E4-A9F2-E93D2BDA4966}">
+							<Media>
+								<File Id="240858981"/>
+								<File Id="420491157"/>
+								<File Id="704649773"/>
+								<File Id="1037188629"/>
+								<File Id="1041119817"/>
+							</Media>
+						</SwitchContainer>
+						<SwitchContainer SwitchValue="{3C32979C-CD74-45D1-BF0D-5D41C7343963}">
+							<Media>
+								<File Id="454407443"/>
+								<File Id="752842726"/>
+								<File Id="1073548065"/>
+							</Media>
+						</SwitchContainer>
+						<SwitchContainer SwitchValue="{AA49937A-4085-43E0-A420-711F4762912A}">
+							<Media>
+								<File Id="334353660"/>
+								<File Id="471505919"/>
+								<File Id="777493352"/>
+								<File Id="867001744"/>
+								<File Id="907057816"/>
+							</Media>
+						</SwitchContainer>
+						<SwitchContainer SwitchValue="{384D5625-DFD7-4771-9B79-C24EBEAC0F15}">
+							<Media>
+								<File Id="118658656"/>
+								<File Id="183662975"/>
+								<File Id="364956126"/>
+								<File Id="868620429"/>
+								<File Id="1057878484"/>
+							</Media>
+						</SwitchContainer>
+						<SwitchContainer SwitchValue="{08207DFC-8DF6-4CC8-8D50-C77F88DAAC2B}">
+							<Media>
+								<File Id="100086723"/>
+								<File Id="647929511"/>
+								<File Id="670457947"/>
+								<File Id="677269711"/>
+								<File Id="1071239862"/>
+							</Media>
+						</SwitchContainer>
+					</SwitchContainers>
+				</Event>
+				<Event Id="1231987938" Name="Play_Gameplay_Music" ObjectPath="\Events\Music\Play_Gameplay_Music" DurationType="Infinite">
+					<IncludedMemoryFiles>
+						<File Id="4473348" Language="SFX">
+							<ShortName>WIMB S1_Loop_3.wav</ShortName>
+							<Path>SFX\WIMB S1_Loop_3_D79FB2B7.wem</Path>
+						</File>
+						<File Id="35721449" Language="SFX">
+							<ShortName>WIMB Char_Intro_Security.wav</ShortName>
+							<Path>SFX\WIMB Char_Intro_Security_D79FB2B7.wem</Path>
+						</File>
+						<File Id="62690278" Language="SFX">
+							<ShortName>WIMB S1_Trans_3.wav</ShortName>
+							<Path>SFX\WIMB S1_Trans_3_D79FB2B7.wem</Path>
+						</File>
+						<File Id="70273466" Language="SFX">
+							<ShortName>WIMB S1_Loop_2.wav</ShortName>
+							<Path>SFX\WIMB S1_Loop_2_D79FB2B7.wem</Path>
+						</File>
+						<File Id="190764248" Language="SFX">
+							<ShortName>WIMB S1_Trans_5.wav</ShortName>
+							<Path>SFX\WIMB S1_Trans_5_D79FB2B7.wem</Path>
+						</File>
+						<File Id="259598939" Language="SFX">
+							<ShortName>WIMB Char_Intro_Coffeemashine.wav</ShortName>
+							<Path>SFX\WIMB Char_Intro_Coffeemashine_D79FB2B7.wem</Path>
+						</File>
+						<File Id="480585159" Language="SFX">
+							<ShortName>WIMB S1_Loop_4.wav</ShortName>
+							<Path>SFX\WIMB S1_Loop_4_D79FB2B7.wem</Path>
+						</File>
+						<File Id="492687315" Language="SFX">
+							<ShortName>WIMB Game Over Stinger.wav</ShortName>
+							<Path>SFX\WIMB Game Over Stinger_D79FB2B7.wem</Path>
+						</File>
+						<File Id="517737583" Language="SFX">
+							<ShortName>WIMB Char_Intro_Garbage.wav</ShortName>
+							<Path>SFX\WIMB Char_Intro_Garbage_D79FB2B7.wem</Path>
+						</File>
+						<File Id="569417595" Language="SFX">
+							<ShortName>WIMB Char_Intro_IT_Girl.wav</ShortName>
+							<Path>SFX\WIMB Char_Intro_IT_Girl_D79FB2B7.wem</Path>
+						</File>
+						<File Id="670126748" Language="SFX">
+							<ShortName>WIMB S1_Loop_1.wav</ShortName>
+							<Path>SFX\WIMB S1_Loop_1_D79FB2B7.wem</Path>
+						</File>
+						<File Id="702530557" Language="SFX">
+							<ShortName>WIMB S1_Trans_1.wav</ShortName>
+							<Path>SFX\WIMB S1_Trans_1_D79FB2B7.wem</Path>
+						</File>
+						<File Id="913575042" Language="SFX">
+							<ShortName>WIMB Char_Intro_Coffeeguy.wav</ShortName>
+							<Path>SFX\WIMB Char_Intro_Coffeeguy_D79FB2B7.wem</Path>
+						</File>
+						<File Id="920315838" Language="SFX">
+							<ShortName>WIMB S1_Trans_2.wav</ShortName>
+							<Path>SFX\WIMB S1_Trans_2_D79FB2B7.wem</Path>
+						</File>
+						<File Id="988947744" Language="SFX">
+							<ShortName>WIMB S1_Loop_5.wav</ShortName>
+							<Path>SFX\WIMB S1_Loop_5_D79FB2B7.wem</Path>
+						</File>
+						<File Id="1055071421" Language="SFX">
+							<ShortName>WIMB S1_Trans_4.wav</ShortName>
+							<Path>SFX\WIMB S1_Trans_4_D79FB2B7.wem</Path>
+						</File>
+						<File Id="1064533266" Language="SFX">
+							<ShortName>WIMB Char_Intro_Verka.wav</ShortName>
+							<Path>SFX\WIMB Char_Intro_Verka_D79FB2B7.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+					<SwitchContainers>
+						<SwitchContainer SwitchValue="{F9430FC7-5CDE-49BF-95F1-F42D3D7B3C15}">
+							<Media>
+								<File Id="492687315"/>
+							</Media>
+						</SwitchContainer>
+						<SwitchContainer SwitchValue="{AE7620E0-C4BB-4486-BFF1-6B949B87E623}">
+							<Children>
+								<SwitchContainer SwitchValue="{A5404CD4-EB44-445E-8779-9BC62A067AD3}">
+									<Media>
+										<File Id="988947744"/>
+									</Media>
+								</SwitchContainer>
+								<SwitchContainer SwitchValue="{2E660106-42FD-44B2-98BD-FB69B4D45ABB}">
+									<Media>
+										<File Id="480585159"/>
+									</Media>
+								</SwitchContainer>
+								<SwitchContainer SwitchValue="{B21F4DED-D4E4-479C-A2CE-F11B974F9FDD}">
+									<Media>
+										<File Id="4473348"/>
+									</Media>
+								</SwitchContainer>
+								<SwitchContainer SwitchValue="{7EEEB8F1-6E8E-4DCB-9088-091689EE3039}">
+									<Media>
+										<File Id="70273466"/>
+									</Media>
+								</SwitchContainer>
+								<SwitchContainer SwitchValue="{5FAFD6A7-0277-4D55-BAD7-7696EC13D622}">
+									<Media>
+										<File Id="670126748"/>
+									</Media>
+								</SwitchContainer>
+							</Children>
+						</SwitchContainer>
+					</SwitchContainers>
+				</Event>
+				<Event Id="2278267443" Name="Play_Garbage_Intro_Stinger" ObjectPath="\Events\Music\Play_Garbage_Intro_Stinger" DurationType="OneShot" DurationMin="5.142875" DurationMax="5.142875">
+					<IncludedMemoryFiles>
+						<File Id="517737583" Language="SFX">
+							<ShortName>WIMB Char_Intro_Garbage.wav</ShortName>
+							<Path>SFX\WIMB Char_Intro_Garbage_D79FB2B7.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="17721092" Name="Play_Grab" ObjectPath="\Events\Default Work Unit\Mahlee\Play_Grab" DurationType="OneShot" DurationMin="0.374785" DurationMax="0.374785">
+					<IncludedMemoryFiles>
+						<File Id="912162395" Language="SFX">
+							<ShortName>Grab.wav</ShortName>
+							<Path>SFX\Grab_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="3515362862" Name="Play_Ingame_Intro_Sequence" ObjectPath="\Events\Music\Play_Ingame_Intro_Sequence" DurationType="OneShot" DurationMin="15.500000" DurationMax="15.500000">
+					<IncludedMemoryFiles>
+						<File Id="662662931" Language="SFX">
+							<ShortName>WIMB_Ingame_Introsequence v1.7.wav</ShortName>
+							<Path>SFX\WIMB_Ingame_Introsequence v1.7_D79FB2B7.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="1001222608" Name="Play_Intro_Sequence" ObjectPath="\Events\Music\Play_Intro_Sequence" DurationType="OneShot" DurationMin="45.000000" DurationMax="45.000000">
+					<IncludedMemoryFiles>
+						<File Id="933686040" Language="SFX">
+							<ShortName>Intro_Sequence - Sounddesign.wav</ShortName>
+							<Path>SFX\Intro_Sequence - Sounddesign_D79FB2B7.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="2130072534" Name="Play_IT_Girl_Intro_Stinger" ObjectPath="\Events\Music\Play_IT_Girl_Intro_Stinger" DurationType="OneShot" DurationMin="6.431104" DurationMax="6.431104">
+					<IncludedMemoryFiles>
+						<File Id="569417595" Language="SFX">
+							<ShortName>WIMB Char_Intro_IT_Girl.wav</ShortName>
+							<Path>SFX\WIMB Char_Intro_IT_Girl_D79FB2B7.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="3264218470" Name="Play_IT_Lady_Gibberish" ObjectPath="\Events\Default Work Unit\IT_Lady\Play_IT_Lady_Gibberish" MaxAttenuation="30.000000" DurationType="Infinite">
+					<IncludedMemoryFiles>
+						<File Id="51496499" Language="SFX">
+							<ShortName>IT_Girl_Gibberish 3.wav</ShortName>
+							<Path>SFX\IT_Girl_Gibberish 3_10C4C929.wem</Path>
+						</File>
+						<File Id="162818468" Language="SFX">
+							<ShortName>IT_Girl_Gibberish 4.wav</ShortName>
+							<Path>SFX\IT_Girl_Gibberish 4_10C4C929.wem</Path>
+						</File>
+						<File Id="163542289" Language="SFX">
+							<ShortName>IT_Girl_Gibberish 6.wav</ShortName>
+							<Path>SFX\IT_Girl_Gibberish 6_10C4C929.wem</Path>
+						</File>
+						<File Id="180802704" Language="SFX">
+							<ShortName>IT_Girl_Gibberish 8.wav</ShortName>
+							<Path>SFX\IT_Girl_Gibberish 8_10C4C929.wem</Path>
+						</File>
+						<File Id="466405058" Language="SFX">
+							<ShortName>IT_Girl_Gibberish 2.wav</ShortName>
+							<Path>SFX\IT_Girl_Gibberish 2_10C4C929.wem</Path>
+						</File>
+						<File Id="482644318" Language="SFX">
+							<ShortName>IT_Girl_Gibberish 1.wav</ShortName>
+							<Path>SFX\IT_Girl_Gibberish 1_10C4C929.wem</Path>
+						</File>
+						<File Id="612552133" Language="SFX">
+							<ShortName>IT_Girl_Gibberish 7.wav</ShortName>
+							<Path>SFX\IT_Girl_Gibberish 7_10C4C929.wem</Path>
+						</File>
+						<File Id="768873247" Language="SFX">
+							<ShortName>IT_Girl_Gibberish 5.wav</ShortName>
+							<Path>SFX\IT_Girl_Gibberish 5_10C4C929.wem</Path>
+						</File>
+						<File Id="774535858" Language="SFX">
+							<ShortName>IT_Girl_Gibberish 9.wav</ShortName>
+							<Path>SFX\IT_Girl_Gibberish 9_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="1210694816" Name="Play_Menu_Soundtrack" ObjectPath="\Events\Music\Play_Menu_Soundtrack" DurationType="Infinite">
+					<IncludedMemoryFiles>
+						<File Id="377620824" Language="SFX">
+							<ShortName>WIMB Menu Music.wav</ShortName>
+							<Path>SFX\WIMB Menu Music_D79FB2B7.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="3712229644" Name="Play_Office_Chair" ObjectPath="\Events\Default Work Unit\Objects\Play_Office_Chair" MaxAttenuation="30.000000" DurationType="OneShot" DurationMin="1.534240" DurationMax="2.756168">
+					<IncludedMemoryFiles>
+						<File Id="525710064" Language="SFX">
+							<ShortName>Office_Chair_Roll 5.wav</ShortName>
+							<Path>SFX\Office_Chair_Roll 5_10C4C929.wem</Path>
+						</File>
+						<File Id="960023292" Language="SFX">
+							<ShortName>Office_Chair_Roll 3.wav</ShortName>
+							<Path>SFX\Office_Chair_Roll 3_10C4C929.wem</Path>
+						</File>
+						<File Id="985047731" Language="SFX">
+							<ShortName>Office_Chair_Roll 1.wav</ShortName>
+							<Path>SFX\Office_Chair_Roll 1_10C4C929.wem</Path>
+						</File>
+						<File Id="988094340" Language="SFX">
+							<ShortName>Office_Chair_Roll 4.wav</ShortName>
+							<Path>SFX\Office_Chair_Roll 4_10C4C929.wem</Path>
+						</File>
+						<File Id="1054092159" Language="SFX">
+							<ShortName>Office_Chair_Roll 2.wav</ShortName>
+							<Path>SFX\Office_Chair_Roll 2_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="1479977685" Name="Play_Outro_Sequence" ObjectPath="\Events\Music\Play_Outro_Sequence" DurationType="OneShot" DurationMin="22.000000" DurationMax="22.000000">
+					<IncludedMemoryFiles>
+						<File Id="593608806" Language="SFX">
+							<ShortName>Outro_Sequence - Sounddesign.wav</ShortName>
+							<Path>SFX\Outro_Sequence - Sounddesign_D79FB2B7.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="4083195999" Name="Play_Plastic_Bucket" ObjectPath="\Events\Default Work Unit\Objects\Play_Plastic_Bucket" MaxAttenuation="30.000000" DurationType="OneShot" DurationMin="0.689660" DurationMax="1.034490">
+					<IncludedMemoryFiles>
+						<File Id="210656744" Language="SFX">
+							<ShortName>Plastic_Bucket 5.wav</ShortName>
+							<Path>SFX\Plastic_Bucket 5_10C4C929.wem</Path>
+						</File>
+						<File Id="357879350" Language="SFX">
+							<ShortName>Plastic_Bucket 1.wav</ShortName>
+							<Path>SFX\Plastic_Bucket 1_10C4C929.wem</Path>
+						</File>
+						<File Id="402848694" Language="SFX">
+							<ShortName>Plastic_Bucket 4.wav</ShortName>
+							<Path>SFX\Plastic_Bucket 4_10C4C929.wem</Path>
+						</File>
+						<File Id="644562286" Language="SFX">
+							<ShortName>Plastic_Bucket 2.wav</ShortName>
+							<Path>SFX\Plastic_Bucket 2_10C4C929.wem</Path>
+						</File>
+						<File Id="646238080" Language="SFX">
+							<ShortName>Plastic_Bucket 3.wav</ShortName>
+							<Path>SFX\Plastic_Bucket 3_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="2791703278" Name="Play_Printer" ObjectPath="\Events\Default Work Unit\Objects\Play_Printer" MaxAttenuation="30.000000" DurationType="OneShot" DurationMin="9.946145" DurationMax="9.946145">
+					<IncludedMemoryFiles>
+						<File Id="5148811" Language="SFX">
+							<ShortName>Printer_Clogged.wav</ShortName>
+							<Path>SFX\Printer_Clogged_10C4C929.wem</Path>
+						</File>
+						<File Id="480765513" Language="SFX">
+							<ShortName>Printer_Alarm.wav</ShortName>
+							<Path>SFX\Printer_Alarm_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="3234438362" Name="Play_Security_Gibberish" ObjectPath="\Events\Default Work Unit\Security\Play_Security_Gibberish" MaxAttenuation="30.000000" DurationType="Infinite">
+					<IncludedMemoryFiles>
+						<File Id="201996924" Language="SFX">
+							<ShortName>Security_Gibberish 1.wav</ShortName>
+							<Path>SFX\Security_Gibberish 1_10C4C929.wem</Path>
+						</File>
+						<File Id="273559688" Language="SFX">
+							<ShortName>Security_Gibberish 3.wav</ShortName>
+							<Path>SFX\Security_Gibberish 3_10C4C929.wem</Path>
+						</File>
+						<File Id="565714987" Language="SFX">
+							<ShortName>Security_Gibberish 8.wav</ShortName>
+							<Path>SFX\Security_Gibberish 8_10C4C929.wem</Path>
+						</File>
+						<File Id="607401229" Language="SFX">
+							<ShortName>Security_Gibberish 4.wav</ShortName>
+							<Path>SFX\Security_Gibberish 4_10C4C929.wem</Path>
+						</File>
+						<File Id="732131283" Language="SFX">
+							<ShortName>Security_Gibberish 5.wav</ShortName>
+							<Path>SFX\Security_Gibberish 5_10C4C929.wem</Path>
+						</File>
+						<File Id="898615691" Language="SFX">
+							<ShortName>Security_Gibberish 2.wav</ShortName>
+							<Path>SFX\Security_Gibberish 2_10C4C929.wem</Path>
+						</File>
+						<File Id="962245836" Language="SFX">
+							<ShortName>Security_Gibberish 6.wav</ShortName>
+							<Path>SFX\Security_Gibberish 6_10C4C929.wem</Path>
+						</File>
+						<File Id="1028706834" Language="SFX">
+							<ShortName>Security_Gibberish 7.wav</ShortName>
+							<Path>SFX\Security_Gibberish 7_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="3746250128" Name="Play_Security_Intro_Stinger" ObjectPath="\Events\Music\Play_Security_Intro_Stinger" DurationType="OneShot" DurationMin="7.509542" DurationMax="7.509542">
+					<IncludedMemoryFiles>
+						<File Id="35721449" Language="SFX">
+							<ShortName>WIMB Char_Intro_Security.wav</ShortName>
+							<Path>SFX\WIMB Char_Intro_Security_D79FB2B7.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="4110499416" Name="Play_Sheets_Fly" ObjectPath="\Events\Default Work Unit\Objects\Play_Sheets_Fly" MaxAttenuation="30.000000" DurationType="Infinite">
+					<IncludedMemoryFiles>
+						<File Id="531310999" Language="SFX">
+							<ShortName>Sheets_Fly.wav</ShortName>
+							<Path>SFX\Sheets_Fly_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="2929277165" Name="Play_Speaker" ObjectPath="\Events\Default Work Unit\Objects\Play_Speaker" MaxAttenuation="30.000000" DurationType="Infinite">
+					<IncludedMemoryFiles>
+						<File Id="361815549" Language="SFX">
+							<ShortName>Rick Astley - Never Gonna Give You Up.wav</ShortName>
+							<Path>SFX\Rick Astley - Never Gonna Give You Up_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="631281908" Name="Play_Technical_Error" ObjectPath="\Events\Default Work Unit\Objects\Play_Technical_Error" MaxAttenuation="30.000000" DurationType="Infinite">
+					<IncludedMemoryFiles>
+						<File Id="63240444" Language="SFX">
+							<ShortName>Technical_Error.wav</ShortName>
+							<Path>SFX\Technical_Error_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="1977644338" Name="Play_Throw" ObjectPath="\Events\Default Work Unit\Mahlee\Play_Throw" DurationType="OneShot" DurationMin="0.127914" DurationMax="0.127914">
+					<IncludedMemoryFiles>
+						<File Id="1001649125" Language="SFX">
+							<ShortName>Throw.wav</ShortName>
+							<Path>SFX\Throw_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="1116522243" Name="Play_Verka_Gibberish" ObjectPath="\Events\Default Work Unit\Verka\Play_Verka_Gibberish" MaxAttenuation="30.000000" DurationType="Infinite">
+					<IncludedMemoryFiles>
+						<File Id="44018595" Language="SFX">
+							<ShortName>Verka_Gibberish 6.wav</ShortName>
+							<Path>SFX\Verka_Gibberish 6_10C4C929.wem</Path>
+						</File>
+						<File Id="114454336" Language="SFX">
+							<ShortName>Verka_Gibberish 1.wav</ShortName>
+							<Path>SFX\Verka_Gibberish 1_10C4C929.wem</Path>
+						</File>
+						<File Id="230801674" Language="SFX">
+							<ShortName>Verka_Gibberish 3.wav</ShortName>
+							<Path>SFX\Verka_Gibberish 3_10C4C929.wem</Path>
+						</File>
+						<File Id="671761861" Language="SFX">
+							<ShortName>Verka_Gibberish 5.wav</ShortName>
+							<Path>SFX\Verka_Gibberish 5_10C4C929.wem</Path>
+						</File>
+						<File Id="778329193" Language="SFX">
+							<ShortName>Verka_Gibberish 2.wav</ShortName>
+							<Path>SFX\Verka_Gibberish 2_10C4C929.wem</Path>
+						</File>
+						<File Id="1009956689" Language="SFX">
+							<ShortName>Verka_Gibberish 4.wav</ShortName>
+							<Path>SFX\Verka_Gibberish 4_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="4154413325" Name="Play_Verka_Intro_Stinger" ObjectPath="\Events\Music\Play_Verka_Intro_Stinger" DurationType="OneShot" DurationMin="7.509542" DurationMax="7.509542">
+					<IncludedMemoryFiles>
+						<File Id="1064533266" Language="SFX">
+							<ShortName>WIMB Char_Intro_Verka.wav</ShortName>
+							<Path>SFX\WIMB Char_Intro_Verka_D79FB2B7.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="3477185672" Name="Stop_Attention_Meter" ObjectPath="\Events\Default Work Unit\User_Interface\Stop_Attention_Meter" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="1627982687" Name="Stop_Body_Bag" ObjectPath="\Events\Default Work Unit\Objects\Stop_Body_Bag" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="2587229223" Name="Stop_Cleaning_Trolley" ObjectPath="\Events\Default Work Unit\Objects\Stop_Cleaning_Trolley" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="4076508694" Name="Stop_Coffee_Guy_Gibberish" ObjectPath="\Events\Default Work Unit\Coffee_Guy\Stop_Coffee_Guy_Gibberish" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="3380661500" Name="Stop_Coffee_Guy_Intro_Stinger" ObjectPath="\Events\Music\Stop_Coffee_Guy_Intro_Stinger" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="2371255630" Name="Stop_Coffee_Machine" ObjectPath="\Events\Default Work Unit\Objects\Stop_Coffee_Machine" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="1004456698" Name="Stop_Coffee_Machine_Intro_Stinger" ObjectPath="\Events\Music\Stop_Coffee_Machine_Intro_Stinger" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="1683706515" Name="Stop_Dog_Bark" ObjectPath="\Events\Default Work Unit\Dog\Stop_Dog_Bark" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="381142818" Name="Stop_Dog_Pant" ObjectPath="\Events\Default Work Unit\Dog\Stop_Dog_Pant" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="503719263" Name="Stop_Fan" ObjectPath="\Events\Default Work Unit\Objects\Stop_Fan" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="3536547992" Name="Stop_Gameplay_Music" ObjectPath="\Events\Music\Stop_Gameplay_Music" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="2937357081" Name="Stop_Garbage_Intro_Stinger" ObjectPath="\Events\Music\Stop_Garbage_Intro_Stinger" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="1415252624" Name="Stop_Ingame_Intro_Sequence" ObjectPath="\Events\Music\Stop_Ingame_Intro_Sequence" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="1869827378" Name="Stop_Intro_Sequence" ObjectPath="\Events\Music\Stop_Intro_Sequence" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="4115179096" Name="Stop_IT_Girl_Intro_Stinger" ObjectPath="\Events\Music\Stop_IT_Girl_Intro_Stinger" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="1261588676" Name="Stop_IT_Lady_Gibberish" ObjectPath="\Events\Default Work Unit\IT_Lady\Stop_IT_Lady_Gibberish" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="3123505338" Name="Stop_Menu_Soundtrack" ObjectPath="\Events\Music\Stop_Menu_Soundtrack" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="1944588127" Name="Stop_Outro_Sequence" ObjectPath="\Events\Music\Stop_Outro_Sequence" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="1335484676" Name="Stop_Security_Gibberish" ObjectPath="\Events\Default Work Unit\Security\Stop_Security_Gibberish" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="3209021742" Name="Stop_Security_Intro_Stinger" ObjectPath="\Events\Music\Stop_Security_Intro_Stinger" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="4128357766" Name="Stop_Sheets_Fly" ObjectPath="\Events\Default Work Unit\Objects\Stop_Sheets_Fly" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="2402117579" Name="Stop_Speaker" ObjectPath="\Events\Default Work Unit\Objects\Stop_Speaker" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="240289854" Name="Stop_Technical_Error" ObjectPath="\Events\Default Work Unit\Objects\Stop_Technical_Error" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="2824533513" Name="Stop_Verka_Gibberish" ObjectPath="\Events\Default Work Unit\Verka\Stop_Verka_Gibberish" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="2390828279" Name="Stop_Verka_Intro_Stinger" ObjectPath="\Events\Music\Stop_Verka_Intro_Stinger" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+			</IncludedEvents>
+			<IncludedMemoryFiles>
+				<File Id="5061991" Language="SFX">
+					<ShortName>Coffee_Guy_Footsteps_Tile 5.wav</ShortName>
+					<Path>SFX\Coffee_Guy_Footsteps_Tile 5_10C4C929.wem</Path>
+				</File>
+				<File Id="5148811" Language="SFX">
+					<ShortName>Printer_Clogged.wav</ShortName>
+					<Path>SFX\Printer_Clogged_10C4C929.wem</Path>
+				</File>
+				<File Id="10517928" Language="SFX">
+					<ShortName>Dog_Pant 2.wav</ShortName>
+					<Path>SFX\Dog_Pant 2_10C4C929.wem</Path>
+				</File>
+				<File Id="13630314" Language="SFX">
+					<ShortName>Security_Man_Footsteps_Carpet 3.wav</ShortName>
+					<Path>SFX\Security_Man_Footsteps_Carpet 3_10C4C929.wem</Path>
+				</File>
+				<File Id="17145400" Language="SFX">
+					<ShortName>Coffee_Guy_Gibberish 4.wav</ShortName>
+					<Path>SFX\Coffee_Guy_Gibberish 4_10C4C929.wem</Path>
+				</File>
+				<File Id="44018595" Language="SFX">
+					<ShortName>Verka_Gibberish 6.wav</ShortName>
+					<Path>SFX\Verka_Gibberish 6_10C4C929.wem</Path>
+				</File>
+				<File Id="44968750" Language="SFX">
+					<ShortName>Coffee_Guy_Gibberish 5.wav</ShortName>
+					<Path>SFX\Coffee_Guy_Gibberish 5_10C4C929.wem</Path>
+				</File>
+				<File Id="61746703" Language="SFX">
+					<ShortName>Coffee_Guy_Gibberish 12.wav</ShortName>
+					<Path>SFX\Coffee_Guy_Gibberish 12_10C4C929.wem</Path>
+				</File>
+				<File Id="63280974" Language="SFX">
+					<ShortName>Door_Close 1.wav</ShortName>
+					<Path>SFX\Door_Close 1_10C4C929.wem</Path>
+				</File>
+				<File Id="100086723" Language="SFX">
+					<ShortName>Footsteps_Concrete 4.wav</ShortName>
+					<Path>SFX\Footsteps_Concrete 4_10C4C929.wem</Path>
+				</File>
+				<File Id="108311789" Language="SFX">
+					<ShortName>Coffee_Guy_Footsteps_Tile 1.wav</ShortName>
+					<Path>SFX\Coffee_Guy_Footsteps_Tile 1_10C4C929.wem</Path>
+				</File>
+				<File Id="114454336" Language="SFX">
+					<ShortName>Verka_Gibberish 1.wav</ShortName>
+					<Path>SFX\Verka_Gibberish 1_10C4C929.wem</Path>
+				</File>
+				<File Id="116919661" Language="SFX">
+					<ShortName>Coffee_Guy_Gibberish 7.wav</ShortName>
+					<Path>SFX\Coffee_Guy_Gibberish 7_10C4C929.wem</Path>
+				</File>
+				<File Id="118658656" Language="SFX">
+					<ShortName>Footsteps_Tile 2.wav</ShortName>
+					<Path>SFX\Footsteps_Tile 2_10C4C929.wem</Path>
+				</File>
+				<File Id="132867545" Language="SFX">
+					<ShortName>Coffee_Guy_Gibberish 14.wav</ShortName>
+					<Path>SFX\Coffee_Guy_Gibberish 14_10C4C929.wem</Path>
+				</File>
+				<File Id="150380431" Language="SFX">
+					<ShortName>Door_Close 3.wav</ShortName>
+					<Path>SFX\Door_Close 3_10C4C929.wem</Path>
+				</File>
+				<File Id="152590169" Language="SFX">
+					<ShortName>Coffee_Guy_Footsteps_Carpet 5.wav</ShortName>
+					<Path>SFX\Coffee_Guy_Footsteps_Carpet 5_10C4C929.wem</Path>
+				</File>
+				<File Id="183662975" Language="SFX">
+					<ShortName>Footsteps_Tile 4.wav</ShortName>
+					<Path>SFX\Footsteps_Tile 4_10C4C929.wem</Path>
+				</File>
+				<File Id="192605810" Language="SFX">
+					<ShortName>Security_Man_Footsteps_Wood 1.wav</ShortName>
+					<Path>SFX\Security_Man_Footsteps_Wood 1_10C4C929.wem</Path>
+				</File>
+				<File Id="201996924" Language="SFX">
+					<ShortName>Security_Gibberish 1.wav</ShortName>
+					<Path>SFX\Security_Gibberish 1_10C4C929.wem</Path>
+				</File>
+				<File Id="205033126" Language="SFX">
+					<ShortName>Cardboard_Box 3.wav</ShortName>
+					<Path>SFX\Cardboard_Box 3_10C4C929.wem</Path>
+				</File>
+				<File Id="210656744" Language="SFX">
+					<ShortName>Plastic_Bucket 5.wav</ShortName>
+					<Path>SFX\Plastic_Bucket 5_10C4C929.wem</Path>
+				</File>
+				<File Id="215842889" Language="SFX">
+					<ShortName>IT_Lady_Footsteps_Tile 3.wav</ShortName>
+					<Path>SFX\IT_Lady_Footsteps_Tile 3_10C4C929.wem</Path>
+				</File>
+				<File Id="221366282" Language="SFX">
+					<ShortName>Coffee_Guy_Footsteps_Carpet 4.wav</ShortName>
+					<Path>SFX\Coffee_Guy_Footsteps_Carpet 4_10C4C929.wem</Path>
+				</File>
+				<File Id="230801674" Language="SFX">
+					<ShortName>Verka_Gibberish 3.wav</ShortName>
+					<Path>SFX\Verka_Gibberish 3_10C4C929.wem</Path>
+				</File>
+				<File Id="240858981" Language="SFX">
+					<ShortName>Leather Shoes Carpet 4.wav</ShortName>
+					<Path>SFX\Leather Shoes Carpet 4_CD89B4DF.wem</Path>
+				</File>
+				<File Id="248155423" Language="SFX">
+					<ShortName>Dog_Footsteps_Wood 3.wav</ShortName>
+					<Path>SFX\Dog_Footsteps_Wood 3_10C4C929.wem</Path>
+				</File>
+				<File Id="249482093" Language="SFX">
+					<ShortName>Cardboard_Box 1.wav</ShortName>
+					<Path>SFX\Cardboard_Box 1_10C4C929.wem</Path>
+				</File>
+				<File Id="253438750" Language="SFX">
+					<ShortName>Coffee_Guy_Footsteps_Tile 2.wav</ShortName>
+					<Path>SFX\Coffee_Guy_Footsteps_Tile 2_10C4C929.wem</Path>
+				</File>
+				<File Id="254490192" Language="SFX">
+					<ShortName>Security_Man_Footsteps_Carpet 2.wav</ShortName>
+					<Path>SFX\Security_Man_Footsteps_Carpet 2_10C4C929.wem</Path>
+				</File>
+				<File Id="273559688" Language="SFX">
+					<ShortName>Security_Gibberish 3.wav</ShortName>
+					<Path>SFX\Security_Gibberish 3_10C4C929.wem</Path>
+				</File>
+				<File Id="276077769" Language="SFX">
+					<ShortName>IT_Lady_Footsteps_Wood 3.wav</ShortName>
+					<Path>SFX\IT_Lady_Footsteps_Wood 3_10C4C929.wem</Path>
+				</File>
+				<File Id="278736829" Language="SFX">
+					<ShortName>IT_Lady_Footsteps_Tile 1.wav</ShortName>
+					<Path>SFX\IT_Lady_Footsteps_Tile 1_10C4C929.wem</Path>
+				</File>
+				<File Id="310148696" Language="SFX">
+					<ShortName>Coffee_Guy_Gibberish 6.wav</ShortName>
+					<Path>SFX\Coffee_Guy_Gibberish 6_10C4C929.wem</Path>
+				</File>
+				<File Id="313851767" Language="SFX">
+					<ShortName>Security_Man_Footsteps_Tile 4.wav</ShortName>
+					<Path>SFX\Security_Man_Footsteps_Tile 4_10C4C929.wem</Path>
+				</File>
+				<File Id="321287603" Language="SFX">
+					<ShortName>IT_Lady_Footsteps_Carpet 1.wav</ShortName>
+					<Path>SFX\IT_Lady_Footsteps_Carpet 1_10C4C929.wem</Path>
+				</File>
+				<File Id="322160176" Language="SFX">
+					<ShortName>Dog_Bark 3.wav</ShortName>
+					<Path>SFX\Dog_Bark 3_10C4C929.wem</Path>
+				</File>
+				<File Id="323797414" Language="SFX">
+					<ShortName>IT_Lady_Footsteps_Tile 4.wav</ShortName>
+					<Path>SFX\IT_Lady_Footsteps_Tile 4_10C4C929.wem</Path>
+				</File>
+				<File Id="325191278" Language="SFX">
+					<ShortName>Security_Man_Footsteps_Wood 5.wav</ShortName>
+					<Path>SFX\Security_Man_Footsteps_Wood 5_10C4C929.wem</Path>
+				</File>
+				<File Id="332857050" Language="SFX">
+					<ShortName>Dog_Footsteps_Wood 1.wav</ShortName>
+					<Path>SFX\Dog_Footsteps_Wood 1_10C4C929.wem</Path>
+				</File>
+				<File Id="334353660" Language="SFX">
+					<ShortName>Footstep_Wood 1 .wav</ShortName>
+					<Path>SFX\Footstep_Wood 1 _10C4C929.wem</Path>
+				</File>
+				<File Id="343409839" Language="SFX">
+					<ShortName>Coffee_Guy_Gibberish 17.wav</ShortName>
+					<Path>SFX\Coffee_Guy_Gibberish 17_10C4C929.wem</Path>
+				</File>
+				<File Id="353272732" Language="SFX">
+					<ShortName>Dog_Bark 2.wav</ShortName>
+					<Path>SFX\Dog_Bark 2_10C4C929.wem</Path>
+				</File>
+				<File Id="357879350" Language="SFX">
+					<ShortName>Plastic_Bucket 1.wav</ShortName>
+					<Path>SFX\Plastic_Bucket 1_10C4C929.wem</Path>
+				</File>
+				<File Id="361815549" Language="SFX">
+					<ShortName>Rick Astley - Never Gonna Give You Up.wav</ShortName>
+					<Path>SFX\Rick Astley - Never Gonna Give You Up_10C4C929.wem</Path>
+				</File>
+				<File Id="364956126" Language="SFX">
+					<ShortName>Footsteps_Tile 3.wav</ShortName>
+					<Path>SFX\Footsteps_Tile 3_10C4C929.wem</Path>
+				</File>
+				<File Id="369719057" Language="SFX">
+					<ShortName>Coffee_Guy_Footsteps_Wood 1.wav</ShortName>
+					<Path>SFX\Coffee_Guy_Footsteps_Wood 1_10C4C929.wem</Path>
+				</File>
+				<File Id="379873499" Language="SFX">
+					<ShortName>Coffee_Guy_Footsteps_Tile 4.wav</ShortName>
+					<Path>SFX\Coffee_Guy_Footsteps_Tile 4_10C4C929.wem</Path>
+				</File>
+				<File Id="381683850" Language="SFX">
+					<ShortName>Coffee_Guy_Gibberish 13.wav</ShortName>
+					<Path>SFX\Coffee_Guy_Gibberish 13_10C4C929.wem</Path>
+				</File>
+				<File Id="384576734" Language="SFX">
+					<ShortName>Security_Man_Footsteps_Tile 3.wav</ShortName>
+					<Path>SFX\Security_Man_Footsteps_Tile 3_10C4C929.wem</Path>
+				</File>
+				<File Id="385153095" Language="SFX">
+					<ShortName>Coffee_Guy_Gibberish 1.wav</ShortName>
+					<Path>SFX\Coffee_Guy_Gibberish 1_10C4C929.wem</Path>
+				</File>
+				<File Id="402848694" Language="SFX">
+					<ShortName>Plastic_Bucket 4.wav</ShortName>
+					<Path>SFX\Plastic_Bucket 4_10C4C929.wem</Path>
+				</File>
+				<File Id="420491157" Language="SFX">
+					<ShortName>Leather Shoes Carpet 1.wav</ShortName>
+					<Path>SFX\Leather Shoes Carpet 1_C12D31A5.wem</Path>
+				</File>
+				<File Id="430418833" Language="SFX">
+					<ShortName>Coffee_Guy_Gibberish 8.wav</ShortName>
+					<Path>SFX\Coffee_Guy_Gibberish 8_10C4C929.wem</Path>
+				</File>
+				<File Id="454407443" Language="SFX">
+					<ShortName>Footstep_Squish 2.wav</ShortName>
+					<Path>SFX\Footstep_Squish 2_10C4C929.wem</Path>
+				</File>
+				<File Id="458220555" Language="SFX">
+					<ShortName>Coffee_Guy_Footsteps_Wood 5.wav</ShortName>
+					<Path>SFX\Coffee_Guy_Footsteps_Wood 5_10C4C929.wem</Path>
+				</File>
+				<File Id="464782571" Language="SFX">
+					<ShortName>Dog_Footsteps_Carpet 2.wav</ShortName>
+					<Path>SFX\Dog_Footsteps_Carpet 2_10C4C929.wem</Path>
+				</File>
+				<File Id="468507565" Language="SFX">
+					<ShortName>Coffee_Guy_Footsteps_Tile 3.wav</ShortName>
+					<Path>SFX\Coffee_Guy_Footsteps_Tile 3_10C4C929.wem</Path>
+				</File>
+				<File Id="471505919" Language="SFX">
+					<ShortName>Footstep_Wood 5 .wav</ShortName>
+					<Path>SFX\Footstep_Wood 5 _10C4C929.wem</Path>
+				</File>
+				<File Id="474427182" Language="SFX">
+					<ShortName>Body_Bag 2.wav</ShortName>
+					<Path>SFX\Body_Bag 2_10C4C929.wem</Path>
+				</File>
+				<File Id="479720344" Language="SFX">
+					<ShortName>Dog_Pant 4.wav</ShortName>
+					<Path>SFX\Dog_Pant 4_10C4C929.wem</Path>
+				</File>
+				<File Id="480765513" Language="SFX">
+					<ShortName>Printer_Alarm.wav</ShortName>
+					<Path>SFX\Printer_Alarm_10C4C929.wem</Path>
+				</File>
+				<File Id="502001125" Language="SFX">
+					<ShortName>IT_Lady_Footsteps_Tile 5.wav</ShortName>
+					<Path>SFX\IT_Lady_Footsteps_Tile 5_10C4C929.wem</Path>
+				</File>
+				<File Id="517456099" Language="SFX">
+					<ShortName>Security_Man_Footsteps_Wood 3.wav</ShortName>
+					<Path>SFX\Security_Man_Footsteps_Wood 3_10C4C929.wem</Path>
+				</File>
+				<File Id="525710064" Language="SFX">
+					<ShortName>Office_Chair_Roll 5.wav</ShortName>
+					<Path>SFX\Office_Chair_Roll 5_10C4C929.wem</Path>
+				</File>
+				<File Id="531310999" Language="SFX">
+					<ShortName>Sheets_Fly.wav</ShortName>
+					<Path>SFX\Sheets_Fly_10C4C929.wem</Path>
+				</File>
+				<File Id="533148506" Language="SFX">
+					<ShortName>Coffee_Guy_Gibberish 11.wav</ShortName>
+					<Path>SFX\Coffee_Guy_Gibberish 11_10C4C929.wem</Path>
+				</File>
+				<File Id="535308979" Language="SFX">
+					<ShortName>Bottle_Liquid 1 .wav</ShortName>
+					<Path>SFX\Bottle_Liquid 1 _10C4C929.wem</Path>
+				</File>
+				<File Id="548283256" Language="SFX">
+					<ShortName>IT_Lady_Footsteps_Carpet 3.wav</ShortName>
+					<Path>SFX\IT_Lady_Footsteps_Carpet 3_10C4C929.wem</Path>
+				</File>
+				<File Id="565714987" Language="SFX">
+					<ShortName>Security_Gibberish 8.wav</ShortName>
+					<Path>SFX\Security_Gibberish 8_10C4C929.wem</Path>
+				</File>
+				<File Id="587112001" Language="SFX">
+					<ShortName>Coffee_Guy_Footsteps_Wood 4.wav</ShortName>
+					<Path>SFX\Coffee_Guy_Footsteps_Wood 4_10C4C929.wem</Path>
+				</File>
+				<File Id="607034323" Language="SFX">
+					<ShortName>Security_Man_Footsteps_Tile 2.wav</ShortName>
+					<Path>SFX\Security_Man_Footsteps_Tile 2_10C4C929.wem</Path>
+				</File>
+				<File Id="607401229" Language="SFX">
+					<ShortName>Security_Gibberish 4.wav</ShortName>
+					<Path>SFX\Security_Gibberish 4_10C4C929.wem</Path>
+				</File>
+				<File Id="608073119" Language="SFX">
+					<ShortName>Bottle_Liquid 3 .wav</ShortName>
+					<Path>SFX\Bottle_Liquid 3 _10C4C929.wem</Path>
+				</File>
+				<File Id="622877632" Language="SFX">
+					<ShortName>Dog_Footsteps_Carpet 3.wav</ShortName>
+					<Path>SFX\Dog_Footsteps_Carpet 3_10C4C929.wem</Path>
+				</File>
+				<File Id="625689546" Language="SFX">
+					<ShortName>Dog_Footsteps_Wood 4.wav</ShortName>
+					<Path>SFX\Dog_Footsteps_Wood 4_10C4C929.wem</Path>
+				</File>
+				<File Id="633483429" Language="SFX">
+					<ShortName>Dog_Footsteps_Carpet 1.wav</ShortName>
+					<Path>SFX\Dog_Footsteps_Carpet 1_10C4C929.wem</Path>
+				</File>
+				<File Id="637913362" Language="SFX">
+					<ShortName>Dog_Footsteps_Tile 3.wav</ShortName>
+					<Path>SFX\Dog_Footsteps_Tile 3_10C4C929.wem</Path>
+				</File>
+				<File Id="637978185" Language="SFX">
+					<ShortName>Coffee_Guy_Gibberish 9.wav</ShortName>
+					<Path>SFX\Coffee_Guy_Gibberish 9_10C4C929.wem</Path>
+				</File>
+				<File Id="641354822" Language="SFX">
+					<ShortName>Coffee_Guy_Gibberish 16.wav</ShortName>
+					<Path>SFX\Coffee_Guy_Gibberish 16_10C4C929.wem</Path>
+				</File>
+				<File Id="644562286" Language="SFX">
+					<ShortName>Plastic_Bucket 2.wav</ShortName>
+					<Path>SFX\Plastic_Bucket 2_10C4C929.wem</Path>
+				</File>
+				<File Id="646238080" Language="SFX">
+					<ShortName>Plastic_Bucket 3.wav</ShortName>
+					<Path>SFX\Plastic_Bucket 3_10C4C929.wem</Path>
+				</File>
+				<File Id="647929511" Language="SFX">
+					<ShortName>Footsteps_Concrete 2.wav</ShortName>
+					<Path>SFX\Footsteps_Concrete 2_10C4C929.wem</Path>
+				</File>
+				<File Id="662042122" Language="SFX">
+					<ShortName>Dog_Pant 3.wav</ShortName>
+					<Path>SFX\Dog_Pant 3_10C4C929.wem</Path>
+				</File>
+				<File Id="670457947" Language="SFX">
+					<ShortName>Footsteps_Concrete 5.wav</ShortName>
+					<Path>SFX\Footsteps_Concrete 5_10C4C929.wem</Path>
+				</File>
+				<File Id="671761861" Language="SFX">
+					<ShortName>Verka_Gibberish 5.wav</ShortName>
+					<Path>SFX\Verka_Gibberish 5_10C4C929.wem</Path>
+				</File>
+				<File Id="677269711" Language="SFX">
+					<ShortName>Footsteps_Concrete 3.wav</ShortName>
+					<Path>SFX\Footsteps_Concrete 3_10C4C929.wem</Path>
+				</File>
+				<File Id="680767255" Language="SFX">
+					<ShortName>Cleaning_Trolley.wav</ShortName>
+					<Path>SFX\Cleaning_Trolley_10C4C929.wem</Path>
+				</File>
+				<File Id="688447515" Language="SFX">
+					<ShortName>Coffee_Guy_Footsteps_Wood 2.wav</ShortName>
+					<Path>SFX\Coffee_Guy_Footsteps_Wood 2_10C4C929.wem</Path>
+				</File>
+				<File Id="689975551" Language="SFX">
+					<ShortName>Coffee_Guy_Footsteps_Carpet 3.wav</ShortName>
+					<Path>SFX\Coffee_Guy_Footsteps_Carpet 3_10C4C929.wem</Path>
+				</File>
+				<File Id="703367642" Language="SFX">
+					<ShortName>Coffee_Guy_Footsteps_Wood 3.wav</ShortName>
+					<Path>SFX\Coffee_Guy_Footsteps_Wood 3_10C4C929.wem</Path>
+				</File>
+				<File Id="704649773" Language="SFX">
+					<ShortName>Leather Shoes Carpet 5.wav</ShortName>
+					<Path>SFX\Leather Shoes Carpet 5_ABF5CCAD.wem</Path>
+				</File>
+				<File Id="708282430" Language="SFX">
+					<ShortName>Door_Close 2.wav</ShortName>
+					<Path>SFX\Door_Close 2_10C4C929.wem</Path>
+				</File>
+				<File Id="714604786" Language="SFX">
+					<ShortName>Cardboard_Box 4.wav</ShortName>
+					<Path>SFX\Cardboard_Box 4_10C4C929.wem</Path>
+				</File>
+				<File Id="732131283" Language="SFX">
+					<ShortName>Security_Gibberish 5.wav</ShortName>
+					<Path>SFX\Security_Gibberish 5_10C4C929.wem</Path>
+				</File>
+				<File Id="752842726" Language="SFX">
+					<ShortName>Footstep_Squish 3.wav</ShortName>
+					<Path>SFX\Footstep_Squish 3_10C4C929.wem</Path>
+				</File>
+				<File Id="772945584" Language="SFX">
+					<ShortName>Dog_Footsteps_Tile 4.wav</ShortName>
+					<Path>SFX\Dog_Footsteps_Tile 4_10C4C929.wem</Path>
+				</File>
+				<File Id="777493352" Language="SFX">
+					<ShortName>Footstep_Wood 2 .wav</ShortName>
+					<Path>SFX\Footstep_Wood 2 _10C4C929.wem</Path>
+				</File>
+				<File Id="778329193" Language="SFX">
+					<ShortName>Verka_Gibberish 2.wav</ShortName>
+					<Path>SFX\Verka_Gibberish 2_10C4C929.wem</Path>
+				</File>
+				<File Id="800272121" Language="SFX">
+					<ShortName>Dog_Footsteps_Tile 1.wav</ShortName>
+					<Path>SFX\Dog_Footsteps_Tile 1_10C4C929.wem</Path>
+				</File>
+				<File Id="834911581" Language="SFX">
+					<ShortName>Security_Man_Footsteps_Carpet 5.wav</ShortName>
+					<Path>SFX\Security_Man_Footsteps_Carpet 5_10C4C929.wem</Path>
+				</File>
+				<File Id="838363263" Language="SFX">
+					<ShortName>Dog_Bark 4.wav</ShortName>
+					<Path>SFX\Dog_Bark 4_10C4C929.wem</Path>
+				</File>
+				<File Id="840015375" Language="SFX">
+					<ShortName>IT_Lady_Footsteps_Tile 2.wav</ShortName>
+					<Path>SFX\IT_Lady_Footsteps_Tile 2_10C4C929.wem</Path>
+				</File>
+				<File Id="856818365" Language="SFX">
+					<ShortName>Dog_Footsteps_Carpet 4.wav</ShortName>
+					<Path>SFX\Dog_Footsteps_Carpet 4_10C4C929.wem</Path>
+				</File>
+				<File Id="857295990" Language="SFX">
+					<ShortName>IT_Lady_Footsteps_Wood 1.wav</ShortName>
+					<Path>SFX\IT_Lady_Footsteps_Wood 1_10C4C929.wem</Path>
+				</File>
+				<File Id="861480684" Language="SFX">
+					<ShortName>Fan.wav</ShortName>
+					<Path>SFX\Fan_10C4C929.wem</Path>
+				</File>
+				<File Id="865019586" Language="SFX">
+					<ShortName>Security_Man_Footsteps_Tile 1.wav</ShortName>
+					<Path>SFX\Security_Man_Footsteps_Tile 1_10C4C929.wem</Path>
+				</File>
+				<File Id="866847590" Language="SFX">
+					<ShortName>Cardboard_Box 2.wav</ShortName>
+					<Path>SFX\Cardboard_Box 2_10C4C929.wem</Path>
+				</File>
+				<File Id="867001744" Language="SFX">
+					<ShortName>Footstep_Wood 3 .wav</ShortName>
+					<Path>SFX\Footstep_Wood 3 _10C4C929.wem</Path>
+				</File>
+				<File Id="868620429" Language="SFX">
+					<ShortName>Footsteps_Tile 5.wav</ShortName>
+					<Path>SFX\Footsteps_Tile 5_10C4C929.wem</Path>
+				</File>
+				<File Id="870248013" Language="SFX">
+					<ShortName>Cardboard_Box 5.wav</ShortName>
+					<Path>SFX\Cardboard_Box 5_10C4C929.wem</Path>
+				</File>
+				<File Id="894564684" Language="SFX">
+					<ShortName>Dog_Pant 1.wav</ShortName>
+					<Path>SFX\Dog_Pant 1_10C4C929.wem</Path>
+				</File>
+				<File Id="898615691" Language="SFX">
+					<ShortName>Security_Gibberish 2.wav</ShortName>
+					<Path>SFX\Security_Gibberish 2_10C4C929.wem</Path>
+				</File>
+				<File Id="906118068" Language="SFX">
+					<ShortName>IT_Lady_Footsteps_Wood 4.wav</ShortName>
+					<Path>SFX\IT_Lady_Footsteps_Wood 4_10C4C929.wem</Path>
+				</File>
+				<File Id="907057816" Language="SFX">
+					<ShortName>Footstep_Wood 4 .wav</ShortName>
+					<Path>SFX\Footstep_Wood 4 _10C4C929.wem</Path>
+				</File>
+				<File Id="928815354" Language="SFX">
+					<ShortName>Coffee_Guy_Gibberish 2.wav</ShortName>
+					<Path>SFX\Coffee_Guy_Gibberish 2_10C4C929.wem</Path>
+				</File>
+				<File Id="931271699" Language="SFX">
+					<ShortName>IT_Lady_Footsteps_Carpet 4.wav</ShortName>
+					<Path>SFX\IT_Lady_Footsteps_Carpet 4_10C4C929.wem</Path>
+				</File>
+				<File Id="944380476" Language="SFX">
+					<ShortName>Dog_Footsteps_Tile 2.wav</ShortName>
+					<Path>SFX\Dog_Footsteps_Tile 2_10C4C929.wem</Path>
+				</File>
+				<File Id="960023292" Language="SFX">
+					<ShortName>Office_Chair_Roll 3.wav</ShortName>
+					<Path>SFX\Office_Chair_Roll 3_10C4C929.wem</Path>
+				</File>
+				<File Id="960420525" Language="SFX">
+					<ShortName>IT_Lady_Footsteps_Carpet 5.wav</ShortName>
+					<Path>SFX\IT_Lady_Footsteps_Carpet 5_10C4C929.wem</Path>
+				</File>
+				<File Id="962245836" Language="SFX">
+					<ShortName>Security_Gibberish 6.wav</ShortName>
+					<Path>SFX\Security_Gibberish 6_10C4C929.wem</Path>
+				</File>
+				<File Id="967025071" Language="SFX">
+					<ShortName>IT_Lady_Footsteps_Wood 2.wav</ShortName>
+					<Path>SFX\IT_Lady_Footsteps_Wood 2_10C4C929.wem</Path>
+				</File>
+				<File Id="968343455" Language="SFX">
+					<ShortName>Security_Man_Footsteps_Carpet 4.wav</ShortName>
+					<Path>SFX\Security_Man_Footsteps_Carpet 4_10C4C929.wem</Path>
+				</File>
+				<File Id="971951826" Language="SFX">
+					<ShortName>Body_Bag 1.wav</ShortName>
+					<Path>SFX\Body_Bag 1_10C4C929.wem</Path>
+				</File>
+				<File Id="980686083" Language="SFX">
+					<ShortName>Coffee_Guy_Gibberish 15.wav</ShortName>
+					<Path>SFX\Coffee_Guy_Gibberish 15_10C4C929.wem</Path>
+				</File>
+				<File Id="983605874" Language="SFX">
+					<ShortName>Dog_Footsteps_Wood 2.wav</ShortName>
+					<Path>SFX\Dog_Footsteps_Wood 2_10C4C929.wem</Path>
+				</File>
+				<File Id="983664724" Language="SFX">
+					<ShortName>IT_Lady_Footsteps_Wood 5.wav</ShortName>
+					<Path>SFX\IT_Lady_Footsteps_Wood 5_10C4C929.wem</Path>
+				</File>
+				<File Id="985047731" Language="SFX">
+					<ShortName>Office_Chair_Roll 1.wav</ShortName>
+					<Path>SFX\Office_Chair_Roll 1_10C4C929.wem</Path>
+				</File>
+				<File Id="985640098" Language="SFX">
+					<ShortName>Security_Man_Footsteps_Tile 5.wav</ShortName>
+					<Path>SFX\Security_Man_Footsteps_Tile 5_10C4C929.wem</Path>
+				</File>
+				<File Id="988094340" Language="SFX">
+					<ShortName>Office_Chair_Roll 4.wav</ShortName>
+					<Path>SFX\Office_Chair_Roll 4_10C4C929.wem</Path>
+				</File>
+				<File Id="1009633593" Language="SFX">
+					<ShortName>Security_Man_Footsteps_Wood 4.wav</ShortName>
+					<Path>SFX\Security_Man_Footsteps_Wood 4_10C4C929.wem</Path>
+				</File>
+				<File Id="1009956689" Language="SFX">
+					<ShortName>Verka_Gibberish 4.wav</ShortName>
+					<Path>SFX\Verka_Gibberish 4_10C4C929.wem</Path>
+				</File>
+				<File Id="1019051001" Language="SFX">
+					<ShortName>Dog_Bark 1.wav</ShortName>
+					<Path>SFX\Dog_Bark 1_10C4C929.wem</Path>
+				</File>
+				<File Id="1020724927" Language="SFX">
+					<ShortName>Coffee_Guy_Gibberish 3.wav</ShortName>
+					<Path>SFX\Coffee_Guy_Gibberish 3_10C4C929.wem</Path>
+				</File>
+				<File Id="1028706834" Language="SFX">
+					<ShortName>Security_Gibberish 7.wav</ShortName>
+					<Path>SFX\Security_Gibberish 7_10C4C929.wem</Path>
+				</File>
+				<File Id="1035081304" Language="SFX">
+					<ShortName>Coffee_Guy_Footsteps_Carpet 1.wav</ShortName>
+					<Path>SFX\Coffee_Guy_Footsteps_Carpet 1_10C4C929.wem</Path>
+				</File>
+				<File Id="1037188629" Language="SFX">
+					<ShortName>Leather Shoes Carpet 2.wav</ShortName>
+					<Path>SFX\Leather Shoes Carpet 2_8072932E.wem</Path>
+				</File>
+				<File Id="1037586059" Language="SFX">
+					<ShortName>Dog_Pant 5.wav</ShortName>
+					<Path>SFX\Dog_Pant 5_10C4C929.wem</Path>
+				</File>
+				<File Id="1041119817" Language="SFX">
+					<ShortName>Leather Shoes Carpet 3.wav</ShortName>
+					<Path>SFX\Leather Shoes Carpet 3_00D4056F.wem</Path>
+				</File>
+				<File Id="1043025096" Language="SFX">
+					<ShortName>Coffee_Guy_Footsteps_Carpet 2.wav</ShortName>
+					<Path>SFX\Coffee_Guy_Footsteps_Carpet 2_10C4C929.wem</Path>
+				</File>
+				<File Id="1044543596" Language="SFX">
+					<ShortName>Security_Man_Footsteps_Wood 2.wav</ShortName>
+					<Path>SFX\Security_Man_Footsteps_Wood 2_10C4C929.wem</Path>
+				</File>
+				<File Id="1053097451" Language="SFX">
+					<ShortName>Coffee_Guy_Gibberish 10.wav</ShortName>
+					<Path>SFX\Coffee_Guy_Gibberish 10_10C4C929.wem</Path>
+				</File>
+				<File Id="1054092159" Language="SFX">
+					<ShortName>Office_Chair_Roll 2.wav</ShortName>
+					<Path>SFX\Office_Chair_Roll 2_10C4C929.wem</Path>
+				</File>
+				<File Id="1057878484" Language="SFX">
+					<ShortName>Footsteps_Tile 1.wav</ShortName>
+					<Path>SFX\Footsteps_Tile 1_10C4C929.wem</Path>
+				</File>
+				<File Id="1068435855" Language="SFX">
+					<ShortName>Security_Man_Footsteps_Carpet 1.wav</ShortName>
+					<Path>SFX\Security_Man_Footsteps_Carpet 1_10C4C929.wem</Path>
+				</File>
+				<File Id="1071239862" Language="SFX">
+					<ShortName>Footsteps_Concrete 1.wav</ShortName>
+					<Path>SFX\Footsteps_Concrete 1_10C4C929.wem</Path>
+				</File>
+				<File Id="1072968834" Language="SFX">
+					<ShortName>IT_Lady_Footsteps_Carpet 2.wav</ShortName>
+					<Path>SFX\IT_Lady_Footsteps_Carpet 2_10C4C929.wem</Path>
+				</File>
+				<File Id="1073548065" Language="SFX">
+					<ShortName>Footstep_Squish 1.wav</ShortName>
+					<Path>SFX\Footstep_Squish 1_10C4C929.wem</Path>
+				</File>
+			</IncludedMemoryFiles>
+			<GameParameters>
+				<GameParameter Id="2257529775" Name="Body_Bag_Drag_Speed" ObjectPath="\Game Parameters\Default Work Unit\Body_Bag_Drag_Speed"/>
+				<GameParameter Id="3351388191" Name="Attention_Meter" ObjectPath="\Game Parameters\Default Work Unit\Attention_Meter"/>
+			</GameParameters>
+			<StateGroups>
+				<StateGroup Id="225972798" Name="Checkpoints" ObjectPath="\States\Default Work Unit\Checkpoints">
+					<States>
+						<State Id="748895195" Name="None" ObjectPath="\States\Default Work Unit\Checkpoints\None"/>
+						<State Id="1174696551" Name="Checkpoint_1" ObjectPath="\States\Default Work Unit\Checkpoints\Checkpoint_1"/>
+						<State Id="1174696548" Name="Checkpoint_2" ObjectPath="\States\Default Work Unit\Checkpoints\Checkpoint_2"/>
+						<State Id="1174696549" Name="Checkpoint_3" ObjectPath="\States\Default Work Unit\Checkpoints\Checkpoint_3"/>
+						<State Id="1174696546" Name="Checkpoint_4" ObjectPath="\States\Default Work Unit\Checkpoints\Checkpoint_4"/>
+						<State Id="1174696547" Name="Checkpoint_5" ObjectPath="\States\Default Work Unit\Checkpoints\Checkpoint_5"/>
+					</States>
+				</StateGroup>
+				<StateGroup Id="2403922838" Name="Normal_or_Busted" ObjectPath="\States\Default Work Unit\Normal_or_Busted">
+					<States>
+						<State Id="748895195" Name="None" ObjectPath="\States\Default Work Unit\Normal_or_Busted\None"/>
+						<State Id="2021849752" Name="Busted" ObjectPath="\States\Default Work Unit\Normal_or_Busted\Busted"/>
+						<State Id="1160234136" Name="Normal" ObjectPath="\States\Default Work Unit\Normal_or_Busted\Normal"/>
+					</States>
+				</StateGroup>
+				<StateGroup Id="4224239945" Name="Game_or_Menu" ObjectPath="\States\Default Work Unit\Game_or_Menu">
+					<States>
+						<State Id="748895195" Name="None" ObjectPath="\States\Default Work Unit\Game_or_Menu\None"/>
+						<State Id="702482391" Name="Game" ObjectPath="\States\Default Work Unit\Game_or_Menu\Game"/>
+						<State Id="2607556080" Name="Menu" ObjectPath="\States\Default Work Unit\Game_or_Menu\Menu"/>
+					</States>
+				</StateGroup>
+			</StateGroups>
+			<SwitchGroups>
+				<SwitchGroup Id="3865314626" Name="Material" ObjectPath="\Switches\Default Work Unit\Material">
+					<Switches>
+						<Switch Id="2412606308" Name="Carpet" ObjectPath="\Switches\Default Work Unit\Material\Carpet"/>
+						<Switch Id="841620460" Name="Concrete" ObjectPath="\Switches\Default Work Unit\Material\Concrete"/>
+						<Switch Id="2058049674" Name="Wood" ObjectPath="\Switches\Default Work Unit\Material\Wood"/>
+						<Switch Id="2637588553" Name="Tile" ObjectPath="\Switches\Default Work Unit\Material\Tile"/>
+						<Switch Id="4087983317" Name="Liquid" ObjectPath="\Switches\Default Work Unit\Material\Liquid"/>
+					</Switches>
+				</SwitchGroup>
+			</SwitchGroups>
+			<Triggers>
+				<Trigger Id="54113143" Name="Security_Intro_Stinger" ObjectPath="\Triggers\Default Work Unit\Security_Intro_Stinger"/>
+				<Trigger Id="842678266" Name="Garbage_Intro_Stinger" ObjectPath="\Triggers\Default Work Unit\Garbage_Intro_Stinger"/>
+				<Trigger Id="949375347" Name="IT_Girl_Intro_Stinger" ObjectPath="\Triggers\Default Work Unit\IT_Girl_Intro_Stinger"/>
+				<Trigger Id="1263771728" Name="Verka_Intro_Stinger" ObjectPath="\Triggers\Default Work Unit\Verka_Intro_Stinger"/>
+				<Trigger Id="1943861927" Name="Coffee_Machine_Intro_Stinger" ObjectPath="\Triggers\Default Work Unit\Coffee_Machine_Intro_Stinger"/>
+				<Trigger Id="3608007573" Name="Coffee_Guy_Intro_Stinger" ObjectPath="\Triggers\Default Work Unit\Coffee_Guy_Intro_Stinger"/>
+			</Triggers>
+		</SoundBank>
+	</SoundBanks>
+</SoundBanksInfo>

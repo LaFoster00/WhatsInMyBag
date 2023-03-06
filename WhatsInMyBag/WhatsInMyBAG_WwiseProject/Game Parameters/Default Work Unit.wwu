@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{490E74BC-86AE-4E80-844F-CCA8CEF5FB6C}" SchemaVersion="103">
+	<GameParameters>
+		<WorkUnit Name="Default Work Unit" ID="{490E74BC-86AE-4E80-844F-CCA8CEF5FB6C}" PersistMode="Standalone">
+			<ChildrenList>
+				<GameParameter Name="Attention_Meter" ID="{367B99E6-D7C5-48CF-8642-3878F7DE9EB4}">
+					<PropertyList>
+						<Property Name="InitialValue" Type="Real64" Value="0"/>
+					</PropertyList>
+				</GameParameter>
+				<GameParameter Name="Sidechain_Trigger" ID="{8F3092FC-D486-4E70-B663-0756C6068225}">
+					<PropertyList>
+						<Property Name="InitialValue" Type="Real64" Value="-48"/>
+						<Property Name="Max" Type="Real64" Value="0"/>
+						<Property Name="Min" Type="Real64" Value="-48"/>
+					</PropertyList>
+				</GameParameter>
+				<GameParameter Name="Stinger_Sidechain_Trigger" ID="{25B300A6-4A40-417E-BB8C-D46D23D82E94}">
+					<PropertyList>
+						<Property Name="FilterTimeDown" Type="Real64" Value="6"/>
+						<Property Name="InitialValue" Type="Real64" Value="-48"/>
+						<Property Name="Max" Type="Real64" Value="0"/>
+						<Property Name="Min" Type="Real64" Value="-48"/>
+						<Property Name="RTPCRamping" Type="int16" Value="2"/>
+						<Property Name="SlewRateDown" Type="Real64" Value="100"/>
+					</PropertyList>
+				</GameParameter>
+				<GameParameter Name="Body_Bag_Drag_Speed" ID="{FF3D2200-0681-4FD2-A2CC-BBFD9A81A13D}"/>
+				<GameParameter Name="Game_Volume" ID="{1E753164-3E92-4C61-B696-97E12CFB2253}">
+					<PropertyList>
+						<Property Name="Color" Type="int16" Value="2"/>
+						<Property Name="OverrideColor" Type="bool" Value="True"/>
+					</PropertyList>
+				</GameParameter>
+			</ChildrenList>
+		</WorkUnit>
+	</GameParameters>
+</WwiseDocument>

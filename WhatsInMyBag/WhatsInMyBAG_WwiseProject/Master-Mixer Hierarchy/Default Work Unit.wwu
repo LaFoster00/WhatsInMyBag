@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{466A1EC6-708E-47EB-A343-4DAE374B8F71}" SchemaVersion="103">
+	<Busses>
+		<WorkUnit Name="Default Work Unit" ID="{466A1EC6-708E-47EB-A343-4DAE374B8F71}" PersistMode="Standalone">
+			<ChildrenList>
+				<Bus Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}">
+					<PropertyList>
+						<Property Name="Volume" Type="Real64">
+							<RTPCList>
+								<RTPC Name="" ID="{43CEAA35-CA10-4F58-9808-CBBEF8667207}" ShortID="905846404">
+									<ReferenceList>
+										<Reference Name="ControlInput">
+											<ObjectRef Name="Game_Volume" ID="{1E753164-3E92-4C61-B696-97E12CFB2253}" WorkUnitID="{490E74BC-86AE-4E80-844F-CCA8CEF5FB6C}"/>
+										</Reference>
+									</ReferenceList>
+									<Curve Name="" ID="{9CFBD22C-0EF9-4D73-A5FC-FEBC45E43559}">
+										<PropertyList>
+											<Property Name="Flags" Type="int32" Value="3"/>
+										</PropertyList>
+										<PointList>
+											<Point>
+												<XPos>0</XPos>
+												<YPos>-200</YPos>
+												<Flags>5</Flags>
+											</Point>
+											<Point>
+												<XPos>100</XPos>
+												<YPos>0</YPos>
+												<Flags>37</Flags>
+											</Point>
+										</PointList>
+									</Curve>
+								</RTPC>
+							</RTPCList>
+						</Property>
+					</PropertyList>
+					<ReferenceList>
+						<Reference Name="AudioDevice">
+							<ObjectRef Name="System" ID="{476AB2E6-7802-4D49-9558-19B96D1F9827}" WorkUnitID="{D3F07358-9C86-473A-B70E-00EEF2267A5D}"/>
+						</Reference>
+					</ReferenceList>
+					<ChildrenList>
+						<Bus Name="Music_Bus" ID="{EA26571F-B5E2-4BDB-9D7D-54B7CD5BF1D5}">
+							<PropertyList>
+								<Property Name="Volume" Type="Real64">
+									<RTPCList>
+										<RTPC Name="" ID="{D9552F12-0014-4171-AD0F-B3A1D41B07B7}" ShortID="205005445">
+											<ReferenceList>
+												<Reference Name="ControlInput">
+													<ObjectRef Name="Sidechain_Trigger" ID="{8F3092FC-D486-4E70-B663-0756C6068225}" WorkUnitID="{490E74BC-86AE-4E80-844F-CCA8CEF5FB6C}"/>
+												</Reference>
+											</ReferenceList>
+											<Curve Name="" ID="{310316C2-CDA1-443F-8A6B-6B4E2387DD33}">
+												<PropertyList>
+													<Property Name="Flags" Type="int32" Value="3"/>
+												</PropertyList>
+												<PointList>
+													<Point>
+														<XPos>-48</XPos>
+														<YPos>0</YPos>
+														<Flags>5</Flags>
+													</Point>
+													<Point>
+														<XPos>-47.999</XPos>
+														<YPos>0</YPos>
+														<Flags>0</Flags>
+														<SegmentShape>Log3</SegmentShape>
+													</Point>
+													<Point>
+														<XPos>-35.13847</XPos>
+														<YPos>-200</YPos>
+														<Flags>0</Flags>
+														<SegmentShape>Exp1</SegmentShape>
+													</Point>
+													<Point>
+														<XPos>-15</XPos>
+														<YPos>-200</YPos>
+														<Flags>0</Flags>
+														<SegmentShape>Exp1</SegmentShape>
+													</Point>
+													<Point>
+														<XPos>0</XPos>
+														<YPos>-200</YPos>
+														<Flags>37</Flags>
+													</Point>
+												</PointList>
+											</Curve>
+										</RTPC>
+										<RTPC Name="" ID="{50380474-234D-474E-805D-05E0796AC969}" ShortID="721557268">
+											<ReferenceList>
+												<Reference Name="ControlInput">
+													<ObjectRef Name="Stinger_Sidechain_Trigger" ID="{25B300A6-4A40-417E-BB8C-D46D23D82E94}" WorkUnitID="{490E74BC-86AE-4E80-844F-CCA8CEF5FB6C}"/>
+												</Reference>
+											</ReferenceList>
+											<Curve Name="" ID="{2CBAE551-19CC-42C0-957E-F02422CB0842}">
+												<PropertyList>
+													<Property Name="Flags" Type="int32" Value="3"/>
+												</PropertyList>
+												<PointList>
+													<Point>
+														<XPos>-48</XPos>
+														<YPos>0</YPos>
+														<Flags>5</Flags>
+														<SegmentShape>Log1</SegmentShape>
+													</Point>
+													<Point>
+														<XPos>-35</XPos>
+														<YPos>-12</YPos>
+														<Flags>0</Flags>
+													</Point>
+													<Point>
+														<XPos>0</XPos>
+														<YPos>-200</YPos>
+														<Flags>37</Flags>
+													</Point>
+												</PointList>
+											</Curve>
+										</RTPC>
+									</RTPCList>
+								</Property>
+							</PropertyList>
+							<ObjectLists/>
+						</Bus>
+						<Bus Name="Sidechain_Trigger_Bus" ID="{C003D67C-B301-4E03-BB84-1C6830C5E3BC}">
+							<PropertyList>
+								<Property Name="Volume" Type="Real64">
+									<RTPCList>
+										<RTPC Name="" ID="{78FCA9AE-F5C7-4CAE-8BA4-F91DBE6B1A32}" ShortID="354151491">
+											<ReferenceList>
+												<Reference Name="ControlInput">
+													<ObjectRef Name="Stinger_Sidechain_Trigger" ID="{25B300A6-4A40-417E-BB8C-D46D23D82E94}" WorkUnitID="{490E74BC-86AE-4E80-844F-CCA8CEF5FB6C}"/>
+												</Reference>
+											</ReferenceList>
+											<Curve Name="" ID="{9E2554F3-3176-46F8-9DD4-BFEA18019578}">
+												<PropertyList>
+													<Property Name="Flags" Type="int32" Value="3"/>
+												</PropertyList>
+												<PointList>
+													<Point>
+														<XPos>-48</XPos>
+														<YPos>0</YPos>
+														<Flags>5</Flags>
+														<SegmentShape>Log1</SegmentShape>
+													</Point>
+													<Point>
+														<XPos>-35</XPos>
+														<YPos>-12</YPos>
+														<Flags>0</Flags>
+													</Point>
+													<Point>
+														<XPos>0</XPos>
+														<YPos>-200</YPos>
+														<Flags>37</Flags>
+													</Point>
+												</PointList>
+											</Curve>
+										</RTPC>
+									</RTPCList>
+								</Property>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Effect0" PluginName="Wwise Meter" CompanyID="0" PluginID="129" PluginType="3">
+									<ObjectRef Name="Sidechain_Meter" ID="{6616386C-5100-4D50-876C-428E8E5D54B3}" WorkUnitID="{DAD7D655-5389-4080-B471-755BD905224F}"/>
+								</Reference>
+							</ReferenceList>
+							<ObjectLists/>
+							<DuckingList>
+								<DuckItem>
+									<BusRef Name="Stinger" ID="{EF039E51-17E1-4866-81C7-AA4809512D35}"/>
+									<DuckingParam>
+										<Volume>-6</Volume>
+										<FadeInTime>1</FadeInTime>
+										<FadeOutTime>1</FadeOutTime>
+										<FadeCurve>FadeLinear</FadeCurve>
+									</DuckingParam>
+								</DuckItem>
+							</DuckingList>
+						</Bus>
+						<Bus Name="Stinger" ID="{EF039E51-17E1-4866-81C7-AA4809512D35}">
+							<ReferenceList>
+								<Reference Name="Effect0" PluginName="Wwise Meter" CompanyID="0" PluginID="129" PluginType="3">
+									<ObjectRef Name="Stinger_Sidechain_Meter" ID="{7ABC3237-EC07-4084-955B-836856C6DE8D}" WorkUnitID="{DAD7D655-5389-4080-B471-755BD905224F}"/>
+								</Reference>
+							</ReferenceList>
+							<ObjectLists/>
+						</Bus>
+						<Bus Name="Character_and_Objects" ID="{FD5ABB39-4FE0-48A2-A1FB-B4FF51935AD3}">
+							<PropertyList>
+								<Property Name="Volume" Type="Real64">
+									<RTPCList>
+										<RTPC Name="" ID="{1E50E2E8-67F8-4D00-8120-2879C8149941}" ShortID="848975442">
+											<ReferenceList>
+												<Reference Name="ControlInput">
+													<ObjectRef Name="Stinger_Sidechain_Trigger" ID="{25B300A6-4A40-417E-BB8C-D46D23D82E94}" WorkUnitID="{490E74BC-86AE-4E80-844F-CCA8CEF5FB6C}"/>
+												</Reference>
+											</ReferenceList>
+											<Curve Name="" ID="{FBA9D616-8663-472B-9EE9-DBE61382C399}">
+												<PropertyList>
+													<Property Name="Flags" Type="int32" Value="3"/>
+												</PropertyList>
+												<PointList>
+													<Point>
+														<XPos>-48</XPos>
+														<YPos>0</YPos>
+														<Flags>5</Flags>
+														<SegmentShape>Log1</SegmentShape>
+													</Point>
+													<Point>
+														<XPos>-35</XPos>
+														<YPos>-12</YPos>
+														<Flags>0</Flags>
+													</Point>
+													<Point>
+														<XPos>0</XPos>
+														<YPos>-200</YPos>
+														<Flags>37</Flags>
+													</Point>
+												</PointList>
+											</Curve>
+										</RTPC>
+									</RTPCList>
+								</Property>
+							</PropertyList>
+							<ObjectLists/>
+						</Bus>
+					</ChildrenList>
+					<ObjectLists/>
+				</Bus>
+			</ChildrenList>
+		</WorkUnit>
+	</Busses>
+</WwiseDocument>

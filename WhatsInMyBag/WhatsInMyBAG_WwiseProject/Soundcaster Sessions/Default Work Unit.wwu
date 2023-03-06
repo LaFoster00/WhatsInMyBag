@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{199E0A1A-47F6-4F12-AC17-4A7B18D7E7D7}" SchemaVersion="103">
+	<SoundcasterSessions>
+		<WorkUnit Name="Default Work Unit" ID="{199E0A1A-47F6-4F12-AC17-4A7B18D7E7D7}" PersistMode="Standalone">
+			<ChildrenList>
+				<SoundcasterSession Name="New Soundcaster Session" ID="{246B15FE-6645-4B3C-A221-CC13E7B65478}">
+					<ModuleList>
+						<Module>
+							<ObjectRef Name="Game_Music_Switch" ID="{0A61C51E-5264-4D47-AD3E-EABB49EFAD81}" WorkUnitID="{82D8643B-54EE-46D7-89A5-A2DA58A7A50D}"/>
+							<Position X="0" Y="0"/>
+						</Module>
+						<Module>
+							<ObjectRef Name="Object_Speaker" ID="{D5A1D9EA-1B56-4952-BC80-AA2EC708F3C7}" WorkUnitID="{F4EDCB4A-3437-4B5F-9635-0A011CA63209}"/>
+							<Position X="0" Y="1"/>
+						</Module>
+						<Module>
+							<ObjectRef Name="Object_Cardboard_Box" ID="{D51BC574-005B-4FA7-9E22-2739689D1CA5}" WorkUnitID="{F4EDCB4A-3437-4B5F-9635-0A011CA63209}"/>
+							<Position X="0" Y="2"/>
+						</Module>
+						<Module>
+							<ObjectRef Name="Object_Coffee_Machine" ID="{21837D76-1658-4DBB-A6A3-5423EB068FC2}" WorkUnitID="{F4EDCB4A-3437-4B5F-9635-0A011CA63209}"/>
+							<Position X="0" Y="3"/>
+						</Module>
+						<Module>
+							<ObjectRef Name="Object_Office_Chair" ID="{159DA5D5-1B28-4C06-A588-38CFED0F1365}" WorkUnitID="{F4EDCB4A-3437-4B5F-9635-0A011CA63209}"/>
+							<Position X="0" Y="4"/>
+						</Module>
+						<Module>
+							<ObjectRef Name="Object_Cleaning_Trolley" ID="{E39A2A63-A742-4858-BE03-2A1D8149170F}" WorkUnitID="{F4EDCB4A-3437-4B5F-9635-0A011CA63209}"/>
+							<Position X="0" Y="5"/>
+						</Module>
+						<Module>
+							<ObjectRef Name="Alert" ID="{B85FABB0-C497-4ED6-8DD4-127B75C99A01}" WorkUnitID="{F4EDCB4A-3437-4B5F-9635-0A011CA63209}"/>
+							<Position X="1" Y="0"/>
+						</Module>
+						<Module>
+							<ObjectRef Name="Coffee_Boy_Intro_Stinger" ID="{970F3CEE-8940-4B8B-B55B-5A34EC7D0F31}" WorkUnitID="{82D8643B-54EE-46D7-89A5-A2DA58A7A50D}"/>
+							<Position X="1" Y="1"/>
+						</Module>
+						<Module>
+							<ObjectRef Name="Object_Printer" ID="{7D15138E-EE71-4A6C-A142-66FB80C5103F}" WorkUnitID="{F4EDCB4A-3437-4B5F-9635-0A011CA63209}"/>
+							<Position X="1" Y="2"/>
+						</Module>
+						<Module>
+							<ObjectRef Name="Object_Body_Bag" ID="{B71517D0-07C5-41DA-87F6-7CC415C2D672}" WorkUnitID="{F4EDCB4A-3437-4B5F-9635-0A011CA63209}"/>
+							<Position X="1" Y="3"/>
+						</Module>
+						<Module>
+							<ObjectRef Name="Object_Plastic_Bucket" ID="{63171166-47F9-4F3A-AB77-6642E94BEE91}" WorkUnitID="{F4EDCB4A-3437-4B5F-9635-0A011CA63209}"/>
+							<Position X="1" Y="4"/>
+						</Module>
+						<Module>
+							<ObjectRef Name="Object_Door_Close" ID="{BF8536AD-3C8F-4505-A5B0-CF5435A9814A}" WorkUnitID="{F4EDCB4A-3437-4B5F-9635-0A011CA63209}"/>
+							<Position X="1" Y="5"/>
+						</Module>
+						<Module>
+							<ObjectRef Name="Coffee_Machine_Intro_Stinger" ID="{B92C7992-2BB0-4A75-9606-3AC23E3305F0}" WorkUnitID="{82D8643B-54EE-46D7-89A5-A2DA58A7A50D}"/>
+							<Position X="2" Y="0"/>
+						</Module>
+						<Module>
+							<ObjectRef Name="Mahlee_Grab" ID="{EB1849D7-85B6-4DAC-8148-B427EE94D0C5}" WorkUnitID="{F4EDCB4A-3437-4B5F-9635-0A011CA63209}"/>
+							<Position X="2" Y="1"/>
+						</Module>
+						<Module>
+							<ObjectRef Name="Mahlee_Footsteps" ID="{2B99EF0A-149D-4F2A-9846-DCCB24914486}" WorkUnitID="{F4EDCB4A-3437-4B5F-9635-0A011CA63209}"/>
+							<Position X="2" Y="2"/>
+						</Module>
+						<Module>
+							<ObjectRef Name="Security_Footsteps" ID="{54F179F9-3945-480A-BF18-728C13E42457}" WorkUnitID="{F4EDCB4A-3437-4B5F-9635-0A011CA63209}"/>
+							<Position X="2" Y="3"/>
+						</Module>
+						<Module>
+							<ObjectRef Name="Object_Bottle_Drop" ID="{3AF9549B-637E-491D-868A-3BCEAC0C0998}" WorkUnitID="{F4EDCB4A-3437-4B5F-9635-0A011CA63209}"/>
+							<Position X="2" Y="4"/>
+						</Module>
+						<Module>
+							<ObjectRef Name="Object_Body_Bag" ID="{B71517D0-07C5-41DA-87F6-7CC415C2D672}" WorkUnitID="{F4EDCB4A-3437-4B5F-9635-0A011CA63209}"/>
+							<Position X="2" Y="5"/>
+						</Module>
+						<Module>
+							<ObjectRef Name="Menu_Soundtrack" ID="{6750F0BC-A741-4CCD-AF0C-F809A14BF2E2}" WorkUnitID="{82D8643B-54EE-46D7-89A5-A2DA58A7A50D}"/>
+							<Position X="2" Y="6"/>
+						</Module>
+						<Module>
+							<ObjectRef Name="Coffee_Boy_Intro_Stinger" ID="{970F3CEE-8940-4B8B-B55B-5A34EC7D0F31}" WorkUnitID="{82D8643B-54EE-46D7-89A5-A2DA58A7A50D}"/>
+							<Position X="3" Y="0"/>
+						</Module>
+						<Module>
+							<ObjectRef Name="Menu_Click" ID="{D69A329F-E70D-421D-8FA3-ED8E0802E579}" WorkUnitID="{F4EDCB4A-3437-4B5F-9635-0A011CA63209}"/>
+							<Position X="3" Y="1"/>
+						</Module>
+						<Module>
+							<ObjectRef Name="Object_Sheets_Fly" ID="{5471216E-C00C-4FF9-BC07-F3B9D5AEB5CD}" WorkUnitID="{F4EDCB4A-3437-4B5F-9635-0A011CA63209}"/>
+							<Position X="3" Y="2"/>
+						</Module>
+						<Module>
+							<ObjectRef Name="Object_Fan" ID="{7F60EB4E-3969-42AD-8A0E-3B493C42265A}" WorkUnitID="{F4EDCB4A-3437-4B5F-9635-0A011CA63209}"/>
+							<Position X="3" Y="3"/>
+						</Module>
+						<Module>
+							<ObjectRef Name="Menu_Slide" ID="{30A31FB4-4476-4BB0-B309-50623C4CAEBB}" WorkUnitID="{F4EDCB4A-3437-4B5F-9635-0A011CA63209}"/>
+							<Position X="3" Y="4"/>
+						</Module>
+						<Module>
+							<ObjectRef Name="Menu_Soundtrack" ID="{6750F0BC-A741-4CCD-AF0C-F809A14BF2E2}" WorkUnitID="{82D8643B-54EE-46D7-89A5-A2DA58A7A50D}"/>
+							<Position X="3" Y="5"/>
+						</Module>
+						<Module>
+							<ObjectRef Name="Menu_Click" ID="{D69A329F-E70D-421D-8FA3-ED8E0802E579}" WorkUnitID="{F4EDCB4A-3437-4B5F-9635-0A011CA63209}"/>
+							<Position X="4" Y="0"/>
+						</Module>
+						<Module>
+							<ObjectRef Name="Verka_Gibberish" ID="{5B79B530-920E-4F00-BD66-3D4B2C3F1EBA}" WorkUnitID="{F4EDCB4A-3437-4B5F-9635-0A011CA63209}"/>
+							<Position X="4" Y="1"/>
+						</Module>
+						<Module>
+							<ObjectRef Name="Coffee_Guy_Gibberish" ID="{D87FDD36-E78C-4397-9ED2-2CDA496C6B60}" WorkUnitID="{F4EDCB4A-3437-4B5F-9635-0A011CA63209}"/>
+							<Position X="4" Y="2"/>
+						</Module>
+						<Module>
+							<ObjectRef Name="Security_Gibberish" ID="{430409A2-039F-4A96-AEAE-0D16DDF37539}" WorkUnitID="{F4EDCB4A-3437-4B5F-9635-0A011CA63209}"/>
+							<Position X="4" Y="3"/>
+						</Module>
+						<Module>
+							<ObjectRef Name="Dog_Bark" ID="{72E5C687-9CE9-43FA-B5B1-BE349F0C1290}" WorkUnitID="{F4EDCB4A-3437-4B5F-9635-0A011CA63209}"/>
+							<Position X="4" Y="4"/>
+						</Module>
+						<Module>
+							<ObjectRef Name="Menu_Slide" ID="{30A31FB4-4476-4BB0-B309-50623C4CAEBB}" WorkUnitID="{F4EDCB4A-3437-4B5F-9635-0A011CA63209}"/>
+							<Position X="4" Y="5"/>
+						</Module>
+						<Module>
+							<ObjectRef Name="Menu_Slide" ID="{30A31FB4-4476-4BB0-B309-50623C4CAEBB}" WorkUnitID="{F4EDCB4A-3437-4B5F-9635-0A011CA63209}"/>
+							<Position X="5" Y="0"/>
+						</Module>
+						<Module>
+							<ObjectRef Name="Menu_Click" ID="{D69A329F-E70D-421D-8FA3-ED8E0802E579}" WorkUnitID="{F4EDCB4A-3437-4B5F-9635-0A011CA63209}"/>
+							<Position X="5" Y="1"/>
+						</Module>
+						<Module>
+							<ObjectRef Name="Menu_Backward" ID="{2DD601D5-5E58-46D3-9517-98EDF5643CA1}" WorkUnitID="{F4EDCB4A-3437-4B5F-9635-0A011CA63209}"/>
+							<Position X="6" Y="0"/>
+						</Module>
+					</ModuleList>
+					<RTPCValueList ShowAll="true">
+						<RTPCValue>
+							<GameParameterRef Name="Stinger_Sidechain_Trigger" ID="{25B300A6-4A40-417E-BB8C-D46D23D82E94}"/>
+							<Value>6.96383142227147E-313</Value>
+						</RTPCValue>
+						<RTPCValue>
+							<GameParameterRef Name="Attention_Meter" ID="{367B99E6-D7C5-48CF-8642-3878F7DE9EB4}"/>
+							<Value>0</Value>
+						</RTPCValue>
+						<RTPCValue>
+							<GameParameterRef Name="Sidechain_Trigger" ID="{8F3092FC-D486-4E70-B663-0756C6068225}"/>
+							<Value>0</Value>
+						</RTPCValue>
+					</RTPCValueList>
+					<CurrentStateList ShowAll="true">
+						<CurrentStateRef Name="None" ID="{29B378A8-ABB7-4CE4-8803-5FDD6C9D4CEF}"/>
+						<CurrentStateRef Name="None" ID="{71C007C4-8847-4DDE-8D1B-57351853ED5C}"/>
+						<CurrentStateRef Name="None" ID="{B9B8DB73-97A6-407F-B385-F8B1C92B68AE}"/>
+					</CurrentStateList>
+					<CurrentSwitchList ShowAll="true">
+						<CurrentSwitchRef Name="Carpet" ID="{6F046033-6D1C-48E4-A9F2-E93D2BDA4966}"/>
+						<CurrentSwitchRef Name="Close" ID="{64DCF726-95CE-4B9D-A7A4-039A2A75E1C0}"/>
+					</CurrentSwitchList>
+				</SoundcasterSession>
+			</ChildrenList>
+		</WorkUnit>
+	</SoundcasterSessions>
+</WwiseDocument>

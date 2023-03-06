@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4758189fbe0b5c242946244afa3bc69b, type: 3}
+  m_Name: ItemDesc_FireExtinguisher
+  m_EditorClassIdentifier: 
+  localGrabOffset:
+    x: 0
+    y: 0.65
+    z: 0
+  localRotationOffset:
+    x: 0
+    y: -90
+    z: 0
+  itemName: FireExtinguisher
+  prefab: {fileID: 3719656533102022795, guid: 87959b4ff935c8f43850f32da8138483, type: 3}
+  thumbnail: {fileID: 0}
+  emitEventOnImpact: 1
+  eventIdentifier: ItemImpact
+  impactEventSpeedThreshold: 2
+  emitAudioOnImpact: 1
+  impactAudioEvent:
+    idInternal: 0
+    valueGuidInternal: 
+    WwiseObjectReference: {fileID: 11400000, guid: b2b448cb3e31f2f42a2c28796472ca9d, type: 2}
+  recipes: []

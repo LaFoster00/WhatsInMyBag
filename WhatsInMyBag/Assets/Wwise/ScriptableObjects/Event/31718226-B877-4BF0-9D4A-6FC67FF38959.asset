@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 75b67a4a7c763424d93f2ab1fdde7100, type: 3}
+  m_Name: 31718226-B877-4BF0-9D4A-6FC67FF38959
+  m_EditorClassIdentifier: 
+  objectName: Play_Dog_Bark
+  id: 2632436053
+  guid: 31718226-B877-4BF0-9D4A-6FC67FF38959

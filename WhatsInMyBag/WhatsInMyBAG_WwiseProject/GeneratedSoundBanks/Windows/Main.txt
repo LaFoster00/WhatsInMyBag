@@ -1,0 +1,374 @@
+Event	ID	Name			Wwise Object Path	Notes
+	1118684	Play_Dog_Pant			\Default Work Unit\Dog\Play_Dog_Pant	
+	17721092	Play_Grab			\Default Work Unit\Mahlee\Play_Grab	
+	171995870	Play_Foot_Player			\Default Work Unit\Mahlee\Play_Foot_Player	
+	240289854	Stop_Technical_Error			\Default Work Unit\Objects\Stop_Technical_Error	
+	340747253	Play_Cleaning_Trolley			\Default Work Unit\Objects\Play_Cleaning_Trolley	
+	381142818	Stop_Dog_Pant			\Default Work Unit\Dog\Stop_Dog_Pant	
+	470304396	Play_Alert			\Default Work Unit\User_Interface\Play_Alert	
+	503719263	Stop_Fan			\Default Work Unit\Objects\Stop_Fan	
+	631281908	Play_Technical_Error			\Default Work Unit\Objects\Play_Technical_Error	
+	760777789	Menu_Click			\Default Work Unit\Menu\Menu_Click	
+	977107306	Play_Coffee_Guy_Intro_Stinger			\Music\Play_Coffee_Guy_Intro_Stinger	
+	1001222608	Play_Intro_Sequence			\Music\Play_Intro_Sequence	
+	1004456698	Stop_Coffee_Machine_Intro_Stinger			\Music\Stop_Coffee_Machine_Intro_Stinger	
+	1116522243	Play_Verka_Gibberish			\Default Work Unit\Verka\Play_Verka_Gibberish	
+	1210500043	Play_Cashboard_Box			\Default Work Unit\Objects\Play_Cashboard_Box	
+	1210694816	Play_Menu_Soundtrack			\Music\Play_Menu_Soundtrack	
+	1231987938	Play_Gameplay_Music			\Music\Play_Gameplay_Music	
+	1242066846	Play_Bottle_Drop			\Default Work Unit\Objects\Play_Bottle_Drop	
+	1261588676	Stop_IT_Lady_Gibberish			\Default Work Unit\IT_Lady\Stop_IT_Lady_Gibberish	
+	1335484676	Stop_Security_Gibberish			\Default Work Unit\Security\Stop_Security_Gibberish	
+	1415252624	Stop_Ingame_Intro_Sequence			\Music\Stop_Ingame_Intro_Sequence	
+	1479977685	Play_Outro_Sequence			\Music\Play_Outro_Sequence	
+	1627982687	Stop_Body_Bag			\Default Work Unit\Objects\Stop_Body_Bag	
+	1683706515	Stop_Dog_Bark			\Default Work Unit\Dog\Stop_Dog_Bark	
+	1869827378	Stop_Intro_Sequence			\Music\Stop_Intro_Sequence	
+	1944588127	Stop_Outro_Sequence			\Music\Stop_Outro_Sequence	
+	1977644338	Play_Throw			\Default Work Unit\Mahlee\Play_Throw	
+	2007351433	Play_Drop			\Default Work Unit\Mahlee\Play_Drop	
+	2130072534	Play_IT_Girl_Intro_Stinger			\Music\Play_IT_Girl_Intro_Stinger	
+	2278267443	Play_Garbage_Intro_Stinger			\Music\Play_Garbage_Intro_Stinger	
+	2292458263	Play_Door_Close			\Default Work Unit\Objects\Play_Door_Close	
+	2322891237	Play_Body_Bag			\Default Work Unit\Objects\Play_Body_Bag	
+	2332251280	Play_Coffee_Guy_Gibberish			\Default Work Unit\Coffee_Guy\Play_Coffee_Guy_Gibberish	
+	2371255630	Stop_Coffee_Machine			\Default Work Unit\Objects\Stop_Coffee_Machine	
+	2390828279	Stop_Verka_Intro_Stinger			\Music\Stop_Verka_Intro_Stinger	
+	2402117579	Stop_Speaker			\Default Work Unit\Objects\Stop_Speaker	
+	2587229223	Stop_Cleaning_Trolley			\Default Work Unit\Objects\Stop_Cleaning_Trolley	
+	2632436053	Play_Dog_Bark			\Default Work Unit\Dog\Play_Dog_Bark	
+	2757069037	Play_Fan			\Default Work Unit\Objects\Play_Fan	
+	2767870562	Play_Attention_Meter			\Default Work Unit\User_Interface\Play_Attention_Meter	
+	2791703278	Play_Printer			\Default Work Unit\Objects\Play_Printer	
+	2795715930	Menu_Slide			\Default Work Unit\Menu\Menu_Slide	
+	2824533513	Stop_Verka_Gibberish			\Default Work Unit\Verka\Stop_Verka_Gibberish	
+	2929277165	Play_Speaker			\Default Work Unit\Objects\Play_Speaker	
+	2937357081	Stop_Garbage_Intro_Stinger			\Music\Stop_Garbage_Intro_Stinger	
+	2962822744	Play_Checkpoint			\Default Work Unit\User_Interface\Play_Checkpoint	
+	3123505338	Stop_Menu_Soundtrack			\Music\Stop_Menu_Soundtrack	
+	3209021742	Stop_Security_Intro_Stinger			\Music\Stop_Security_Intro_Stinger	
+	3234438362	Play_Security_Gibberish			\Default Work Unit\Security\Play_Security_Gibberish	
+	3264218470	Play_IT_Lady_Gibberish			\Default Work Unit\IT_Lady\Play_IT_Lady_Gibberish	
+	3311391268	Play_Coffee_Machine			\Default Work Unit\Objects\Play_Coffee_Machine	
+	3380661500	Stop_Coffee_Guy_Intro_Stinger			\Music\Stop_Coffee_Guy_Intro_Stinger	
+	3477185672	Stop_Attention_Meter			\Default Work Unit\User_Interface\Stop_Attention_Meter	
+	3515362862	Play_Ingame_Intro_Sequence			\Music\Play_Ingame_Intro_Sequence	
+	3536547992	Stop_Gameplay_Music			\Music\Stop_Gameplay_Music	
+	3578611119	Play_Chair_Slide			\Default Work Unit\Objects\Play_Chair_Slide	
+	3697470820	Menu_Backward			\Default Work Unit\Menu\Menu_Backward	
+	3712229644	Play_Office_Chair			\Default Work Unit\Objects\Play_Office_Chair	
+	3746250128	Play_Security_Intro_Stinger			\Music\Play_Security_Intro_Stinger	
+	3883431988	Play_Coffee_Machine_Intro_Stinger			\Music\Play_Coffee_Machine_Intro_Stinger	
+	4076508694	Stop_Coffee_Guy_Gibberish			\Default Work Unit\Coffee_Guy\Stop_Coffee_Guy_Gibberish	
+	4083195999	Play_Plastic_Bucket			\Default Work Unit\Objects\Play_Plastic_Bucket	
+	4110499416	Play_Sheets_Fly			\Default Work Unit\Objects\Play_Sheets_Fly	
+	4115179096	Stop_IT_Girl_Intro_Stinger			\Music\Stop_IT_Girl_Intro_Stinger	
+	4128357766	Stop_Sheets_Fly			\Default Work Unit\Objects\Stop_Sheets_Fly	
+	4154413325	Play_Verka_Intro_Stinger			\Music\Play_Verka_Intro_Stinger	
+
+Switch Group	ID	Name			Wwise Object Path	Notes
+	3865314626	Material			\Default Work Unit\Material	
+
+Switch	ID	Name	Switch Group			Notes
+	841620460	Concrete	Material			
+	2058049674	Wood	Material			
+	2412606308	Carpet	Material			
+	2637588553	Tile	Material			
+	4087983317	Liquid	Material			
+
+State Group	ID	Name			Wwise Object Path	Notes
+	225972798	Checkpoints			\Default Work Unit\Checkpoints	
+	2403922838	Normal_or_Busted			\Default Work Unit\Normal_or_Busted	
+	4224239945	Game_or_Menu			\Default Work Unit\Game_or_Menu	
+
+State	ID	Name	State Group			Notes
+	748895195	None	Checkpoints			
+	1174696546	Checkpoint_4	Checkpoints			
+	1174696547	Checkpoint_5	Checkpoints			
+	1174696548	Checkpoint_2	Checkpoints			
+	1174696549	Checkpoint_3	Checkpoints			
+	1174696551	Checkpoint_1	Checkpoints			
+	748895195	None	Normal_or_Busted			
+	1160234136	Normal	Normal_or_Busted			
+	2021849752	Busted	Normal_or_Busted			
+	702482391	Game	Game_or_Menu			
+	748895195	None	Game_or_Menu			
+	2607556080	Menu	Game_or_Menu			
+
+Custom State	ID	Name	State Group	Owner		Notes
+	44535014	Menu	Game_or_Menu	\Actor-Mixer Hierarchy\Default Work Unit\Game_or_Menu_Switch\Security_Gibberish		
+	53318891	Menu	Game_or_Menu	\Actor-Mixer Hierarchy\Default Work Unit\Game_or_Menu_Switch\Coffee_Guy_Gibberish		
+	76318917	Busted	Normal_or_Busted	\Actor-Mixer Hierarchy\Default Work Unit\Game_or_Menu_Switch\Mahlee_Grab		
+	152751341	Busted	Normal_or_Busted	\Actor-Mixer Hierarchy\Default Work Unit\Game_or_Menu_Switch\Object_Office_Chair		
+	158399472	Busted	Normal_or_Busted	\Actor-Mixer Hierarchy\Default Work Unit\Game_or_Menu_Switch\IT_Lady_Footsteps		
+	164411803	Menu	Game_or_Menu	\Actor-Mixer Hierarchy\Default Work Unit\Game_or_Menu_Switch\Dog_Bark		
+	169451142	Menu	Game_or_Menu	\Actor-Mixer Hierarchy\Default Work Unit\Game_or_Menu_Switch\Mahlee_Grab		
+	170288931	Busted	Normal_or_Busted	\Actor-Mixer Hierarchy\Default Work Unit\Game_or_Menu_Switch\Mahlee_Throw		
+	200853954	Menu	Game_or_Menu	\Actor-Mixer Hierarchy\Default Work Unit\Game_or_Menu_Switch\Object_Speaker		
+	227682223	Busted	Normal_or_Busted	\Actor-Mixer Hierarchy\Default Work Unit\Game_or_Menu_Switch\Object_Cleaning_Trolley		
+	251119283	Busted	Normal_or_Busted	\Actor-Mixer Hierarchy\Default Work Unit\Game_or_Menu_Switch\Object_Fan		
+	263439679	Busted	Normal_or_Busted	\Actor-Mixer Hierarchy\Default Work Unit\Game_or_Menu_Switch\Security_Footsteps		
+	278532775	Menu	Game_or_Menu	\Actor-Mixer Hierarchy\Default Work Unit\Game_or_Menu_Switch\Object_Technical_Error		
+	283052715	Menu	Game_or_Menu	\Actor-Mixer Hierarchy\Default Work Unit\Game_or_Menu_Switch\Verka_Gibberish		
+	310825536	Menu	Game_or_Menu	\Actor-Mixer Hierarchy\Default Work Unit\Game_or_Menu_Switch\IT_Lady_Footsteps		
+	368916982	Busted	Normal_or_Busted	\Actor-Mixer Hierarchy\Default Work Unit\Game_or_Menu_Switch\Verka_Gibberish		
+	403060581	Menu	Game_or_Menu	\Actor-Mixer Hierarchy\Default Work Unit\Game_or_Menu_Switch\Object_Coffee_Machine		
+	415688361	Menu	Game_or_Menu	\Interactive Music Hierarchy\Default Work Unit\Game_or_Menu_Switch\Game_Music_Switch\Gameplay_Music		
+	430960741	Menu	Game_or_Menu	\Actor-Mixer Hierarchy\Default Work Unit\Game_or_Menu_Switch\Object_Cleaning_Trolley		
+	434122843	Menu	Game_or_Menu	\Actor-Mixer Hierarchy\Default Work Unit\Game_or_Menu_Switch\Mahlee_Drop		
+	434532589	Menu	Game_or_Menu	\Actor-Mixer Hierarchy\Default Work Unit\Game_or_Menu_Switch\Object_Cardboard_Box		
+	457404791	Menu	Game_or_Menu	\Actor-Mixer Hierarchy\Default Work Unit\Game_or_Menu_Switch\Mahlee_Throw		
+	473912375	Menu	Game_or_Menu	\Actor-Mixer Hierarchy\Default Work Unit\Game_or_Menu_Switch\Object_Office_Chair		
+	474372933	Busted	Normal_or_Busted	\Actor-Mixer Hierarchy\Default Work Unit\Game_or_Menu_Switch\Object_Speaker		
+	518313612	Menu	Game_or_Menu	\Actor-Mixer Hierarchy\Default Work Unit\Game_or_Menu_Switch\Object_Chair_Slide		
+	533119244	Busted	Normal_or_Busted	\Actor-Mixer Hierarchy\Default Work Unit\Game_or_Menu_Switch\Object_Plastic_Bucket		
+	545371737	Menu	Game_or_Menu	\Actor-Mixer Hierarchy\Default Work Unit\Game_or_Menu_Switch\Dog_Footsteps		
+	560172306	Menu	Game_or_Menu	\Actor-Mixer Hierarchy\Default Work Unit\Game_or_Menu_Switch\Security_Footsteps		
+	569332847	Busted	Normal_or_Busted	\Actor-Mixer Hierarchy\Default Work Unit\Game_or_Menu_Switch\Dog_Bark		
+	581963852	Menu	Game_or_Menu	\Actor-Mixer Hierarchy\Default Work Unit\Game_or_Menu_Switch\Object_Printer		
+	590794504	Menu	Game_or_Menu	\Actor-Mixer Hierarchy\Default Work Unit\Game_or_Menu_Switch\Object_Body_Bag		
+	602608277	Menu	Game_or_Menu	\Actor-Mixer Hierarchy\Default Work Unit\Game_or_Menu_Switch\Dog_Pant		
+	608265198	Busted	Normal_or_Busted	\Actor-Mixer Hierarchy\Default Work Unit\Game_or_Menu_Switch\Security_Gibberish		
+	628619680	Busted	Normal_or_Busted	\Actor-Mixer Hierarchy\Default Work Unit\Game_or_Menu_Switch\Object_Printer		
+	633497278	Busted	Normal_or_Busted	\Actor-Mixer Hierarchy\Default Work Unit\Game_or_Menu_Switch\Object_Coffee_Machine		
+	638108336	Busted	Normal_or_Busted	\Actor-Mixer Hierarchy\Default Work Unit\Game_or_Menu_Switch\Dog_Pant		
+	640650742	Busted	Normal_or_Busted	\Actor-Mixer Hierarchy\Default Work Unit\Game_or_Menu_Switch\Object_Technical_Error		
+	677995561	Menu	Game_or_Menu	\Actor-Mixer Hierarchy\Default Work Unit\Game_or_Menu_Switch\Object_Sheets_Fly		
+	691156110	Menu	Game_or_Menu	\Actor-Mixer Hierarchy\Default Work Unit\Game_or_Menu_Switch\Object_Plastic_Bucket		
+	691403211	Menu	Game_or_Menu	\Actor-Mixer Hierarchy\Default Work Unit\Game_or_Menu_Switch\Object_Door_Close		
+	696132966	Menu	Game_or_Menu	\Interactive Music Hierarchy\Default Work Unit\Game_or_Menu_Switch\Game_Music_Switch\Game_Over_Music		
+	707421838	Menu	Game_or_Menu	\Actor-Mixer Hierarchy\Default Work Unit\Game_or_Menu_Switch\Alert		
+	712476248	Menu	Game_or_Menu	\Actor-Mixer Hierarchy\Default Work Unit\Game_or_Menu_Switch\Mahlee_Footsteps		
+	734804687	Menu	Game_or_Menu	\Actor-Mixer Hierarchy\Default Work Unit\Game_or_Menu_Switch\Object_Bottle_Drop		
+	760216328	Busted	Normal_or_Busted	\Actor-Mixer Hierarchy\Default Work Unit\Game_or_Menu_Switch\Object_Bottle_Drop		
+	770329419	Busted	Normal_or_Busted	\Actor-Mixer Hierarchy\Default Work Unit\Game_or_Menu_Switch\Coffee_Guy_Footsteps		
+	774143324	Menu	Game_or_Menu	\Interactive Music Hierarchy\Default Work Unit\Game_or_Menu_Switch\Game_Music_Switch		
+	777209542	Busted	Normal_or_Busted	\Actor-Mixer Hierarchy\Default Work Unit\Game_or_Menu_Switch\Mahlee_Drop		
+	830027259	Busted	Normal_or_Busted	\Actor-Mixer Hierarchy\Default Work Unit\Game_or_Menu_Switch\Object_Cardboard_Box		
+	842166497	Busted	Normal_or_Busted	\Actor-Mixer Hierarchy\Default Work Unit\Game_or_Menu_Switch\Object_Body_Bag		
+	845352172	Busted	Normal_or_Busted	\Actor-Mixer Hierarchy\Default Work Unit\Game_or_Menu_Switch\Object_Sheets_Fly		
+	855418067	Busted	Normal_or_Busted	\Actor-Mixer Hierarchy\Default Work Unit\Game_or_Menu_Switch\Dog_Footsteps		
+	874616973	Menu	Game_or_Menu	\Actor-Mixer Hierarchy\Default Work Unit\Game_or_Menu_Switch\Checkpoint		
+	883099251	Busted	Normal_or_Busted	\Actor-Mixer Hierarchy\Default Work Unit\Game_or_Menu_Switch\Alert		
+	943477805	Menu	Game_or_Menu	\Actor-Mixer Hierarchy\Default Work Unit\Game_or_Menu_Switch\Coffee_Guy_Footsteps		
+	948842248	Busted	Normal_or_Busted	\Actor-Mixer Hierarchy\Default Work Unit\Game_or_Menu_Switch\Checkpoint		
+	954932689	Busted	Normal_or_Busted	\Actor-Mixer Hierarchy\Default Work Unit\Game_or_Menu_Switch\Mahlee_Footsteps		
+	970576137	Busted	Normal_or_Busted	\Actor-Mixer Hierarchy\Default Work Unit\Game_or_Menu_Switch\Object_Chair_Slide		
+	977640774	Busted	Normal_or_Busted	\Actor-Mixer Hierarchy\Default Work Unit\Game_or_Menu_Switch\Object_Door_Close		
+	1037832123	Busted	Normal_or_Busted	\Actor-Mixer Hierarchy\Default Work Unit\Game_or_Menu_Switch\Coffee_Guy_Gibberish		
+	1039101956	Menu	Game_or_Menu	\Actor-Mixer Hierarchy\Default Work Unit\Game_or_Menu_Switch\Object_Fan		
+	1041037747	Busted	Normal_or_Busted	\Actor-Mixer Hierarchy\Default Work Unit\Game_or_Menu_Switch\UI_Attention_Meter		
+
+Game Parameter	ID	Name			Wwise Object Path	Notes
+	2257529775	Body_Bag_Drag_Speed			\Default Work Unit\Body_Bag_Drag_Speed	
+	3351388191	Attention_Meter			\Default Work Unit\Attention_Meter	
+
+Trigger	ID	Name			Wwise Object Path	Notes
+	54113143	Security_Intro_Stinger			\Default Work Unit\Security_Intro_Stinger	
+	842678266	Garbage_Intro_Stinger			\Default Work Unit\Garbage_Intro_Stinger	
+	949375347	IT_Girl_Intro_Stinger			\Default Work Unit\IT_Girl_Intro_Stinger	
+	1263771728	Verka_Intro_Stinger			\Default Work Unit\Verka_Intro_Stinger	
+	1943861927	Coffee_Machine_Intro_Stinger			\Default Work Unit\Coffee_Machine_Intro_Stinger	
+	3608007573	Coffee_Guy_Intro_Stinger			\Default Work Unit\Coffee_Guy_Intro_Stinger	
+
+Source plug-ins	ID	Name	Type		Wwise Object Path	Notes
+	678206240	Wwise Silence	Wwise Silence		\Actor-Mixer Hierarchy\Default Work Unit\Game_or_Menu_Switch\UI_Attention_Meter\Alarm_Fast\Silence\Wwise Silence	
+	921146281	Wwise Silence	Wwise Silence		\Actor-Mixer Hierarchy\Default Work Unit\Game_or_Menu_Switch\UI_Attention_Meter\Alarm_Slow\Silence2\Wwise Silence	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	4473348	WIMB S1_Loop_3	C:\Users\Lasse\Documents\Perforce\WhatsInMyBag\dev\WhatsInMyBag\WhatsInMyBAG_WwiseProject\.cache\Windows\SFX\WIMB S1_Loop_3_D79FB2B7.wem		\Interactive Music Hierarchy\Default Work Unit\Game_or_Menu_Switch\Game_Music_Switch\Gameplay_Music\Checkpoint_3\WIMB S1_Loop_3\WIMB S1_Loop_3		7523332
+	5061991	Coffee_Guy_Footsteps_Tile 5	C:\Users\Lasse\Documents\Perforce\WhatsInMyBag\dev\WhatsInMyBag\WhatsInMyBAG_WwiseProject\.cache\Windows\SFX\Coffee_Guy_Footsteps_Tile 5_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Game_or_Menu_Switch\Coffee_Guy_Footsteps\Coffee_Guy_Footsteps_Tile\Coffee_Guy_Footsteps_Tile 5		135028
+	5148811	Printer_Clogged	C:\Users\Lasse\Documents\Perforce\WhatsInMyBag\dev\WhatsInMyBag\WhatsInMyBAG_WwiseProject\.cache\Windows\SFX\Printer_Clogged_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Game_or_Menu_Switch\Object_Printer\Printer_Clogged		1207112
+	10517928	Dog_Pant 2	C:\Users\Lasse\Documents\Perforce\WhatsInMyBag\dev\WhatsInMyBag\WhatsInMyBAG_WwiseProject\.cache\Windows\SFX\Dog_Pant 2_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Game_or_Menu_Switch\Dog_Pant\Dog_Pant 2		851652
+	13630314	Security_Man_Footsteps_Carpet 3	C:\Users\Lasse\Documents\Perforce\WhatsInMyBag\dev\WhatsInMyBag\WhatsInMyBAG_WwiseProject\.cache\Windows\SFX\Security_Man_Footsteps_Carpet 3_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Game_or_Menu_Switch\Security_Footsteps\Security_Footsteps_Carpet\Security_Man_Footsteps_Carpet 3		91308
+	17145400	Coffee_Guy_Gibberish 4	C:\Users\Lasse\Documents\Perforce\WhatsInMyBag\dev\WhatsInMyBag\WhatsInMyBAG_WwiseProject\.cache\Windows\SFX\Coffee_Guy_Gibberish 4_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Game_or_Menu_Switch\Coffee_Guy_Gibberish\Coffee_Guy_Gibberish 4		486688
+	35721449	Security_Intro_Stinger	C:\Users\Lasse\Documents\Perforce\WhatsInMyBag\dev\WhatsInMyBag\WhatsInMyBAG_WwiseProject\.cache\Windows\SFX\WIMB Char_Intro_Security_D79FB2B7.wem		\Interactive Music Hierarchy\Default Work Unit\Introduction_Stinger\Security_Intro_Stinger\Security_Intro_Stinger		1441896
+	44018595	Verka_Gibberish 6	C:\Users\Lasse\Documents\Perforce\WhatsInMyBag\dev\WhatsInMyBag\WhatsInMyBAG_WwiseProject\.cache\Windows\SFX\Verka_Gibberish 6_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Game_or_Menu_Switch\Verka_Gibberish\Verka_Gibberish 6		626636
+	44968750	Coffee_Guy_Gibberish 5	C:\Users\Lasse\Documents\Perforce\WhatsInMyBag\dev\WhatsInMyBag\WhatsInMyBAG_WwiseProject\.cache\Windows\SFX\Coffee_Guy_Gibberish 5_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Game_or_Menu_Switch\Coffee_Guy_Gibberish\Coffee_Guy_Gibberish 5		562720
+	51496499	IT_Girl_Gibberish 3	C:\Users\Lasse\Documents\Perforce\WhatsInMyBag\dev\WhatsInMyBag\WhatsInMyBAG_WwiseProject\.cache\Windows\SFX\IT_Girl_Gibberish 3_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Game_or_Menu_Switch\IT_Lady_Gibberish\IT_Girl_Gibberish 3		479084
+	61746703	Coffee_Guy_Gibberish 12	C:\Users\Lasse\Documents\Perforce\WhatsInMyBag\dev\WhatsInMyBag\WhatsInMyBAG_WwiseProject\.cache\Windows\SFX\Coffee_Guy_Gibberish 12_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Game_or_Menu_Switch\Coffee_Guy_Gibberish\Coffee_Guy_Gibberish 12		63628
+	62690278	WIMB S1_Trans_3	C:\Users\Lasse\Documents\Perforce\WhatsInMyBag\dev\WhatsInMyBag\WhatsInMyBAG_WwiseProject\.cache\Windows\SFX\WIMB S1_Trans_3_D79FB2B7.wem		\Interactive Music Hierarchy\Default Work Unit\Gameplay_Music_Transitions\WIMB S1_Trans_3\WIMB S1_Trans_3		940476
+	63240444	Technical_Error	C:\Users\Lasse\Documents\Perforce\WhatsInMyBag\dev\WhatsInMyBag\WhatsInMyBAG_WwiseProject\.cache\Windows\SFX\Technical_Error_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Game_or_Menu_Switch\Object_Technical_Error\Technical_Error		3299964
+	63280974	Door_Close 1	C:\Users\Lasse\Documents\Perforce\WhatsInMyBag\dev\WhatsInMyBag\WhatsInMyBAG_WwiseProject\.cache\Windows\SFX\Door_Close 1_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Game_or_Menu_Switch\Object_Door_Close\Door_Close 1		223416
+	70273466	WIMB S1_Loop_2	C:\Users\Lasse\Documents\Perforce\WhatsInMyBag\dev\WhatsInMyBag\WhatsInMyBAG_WwiseProject\.cache\Windows\SFX\WIMB S1_Loop_2_D79FB2B7.wem		\Interactive Music Hierarchy\Default Work Unit\Game_or_Menu_Switch\Game_Music_Switch\Gameplay_Music\Checkpoint_2\WIMB S1_Loop_2\WIMB S1_Loop_2		7523332
+	100086723	Footsteps_Concrete 4	C:\Users\Lasse\Documents\Perforce\WhatsInMyBag\dev\WhatsInMyBag\WhatsInMyBAG_WwiseProject\.cache\Windows\SFX\Footsteps_Concrete 4_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Game_or_Menu_Switch\Mahlee_Footsteps\Footsteps_Concrete\Footsteps_Concrete 4		63344
+	108311789	Coffee_Guy_Footsteps_Tile 1	C:\Users\Lasse\Documents\Perforce\WhatsInMyBag\dev\WhatsInMyBag\WhatsInMyBAG_WwiseProject\.cache\Windows\SFX\Coffee_Guy_Footsteps_Tile 1_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Game_or_Menu_Switch\Coffee_Guy_Footsteps\Coffee_Guy_Footsteps_Tile\Coffee_Guy_Footsteps_Tile 1		144532
+	114454336	Verka_Gibberish 1	C:\Users\Lasse\Documents\Perforce\WhatsInMyBag\dev\WhatsInMyBag\WhatsInMyBAG_WwiseProject\.cache\Windows\SFX\Verka_Gibberish 1_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Game_or_Menu_Switch\Verka_Gibberish\Verka_Gibberish 1		114116
+	116919661	Coffee_Guy_Gibberish 7	C:\Users\Lasse\Documents\Perforce\WhatsInMyBag\dev\WhatsInMyBag\WhatsInMyBAG_WwiseProject\.cache\Windows\SFX\Coffee_Guy_Gibberish 7_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Game_or_Menu_Switch\Coffee_Guy_Gibberish\Coffee_Guy_Gibberish 7		547516
+	118658656	Footsteps_Tile 2	C:\Users\Lasse\Documents\Perforce\WhatsInMyBag\dev\WhatsInMyBag\WhatsInMyBAG_WwiseProject\.cache\Windows\SFX\Footsteps_Tile 2_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Game_or_Menu_Switch\Mahlee_Footsteps\Footsteps_Tile\Footsteps_Tile 2		108144
+	132867545	Coffee_Guy_Gibberish 14	C:\Users\Lasse\Documents\Perforce\WhatsInMyBag\dev\WhatsInMyBag\WhatsInMyBAG_WwiseProject\.cache\Windows\SFX\Coffee_Guy_Gibberish 14_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Game_or_Menu_Switch\Coffee_Guy_Gibberish\Coffee_Guy_Gibberish 14		1087360
+	150380431	Door_Close 3	C:\Users\Lasse\Documents\Perforce\WhatsInMyBag\dev\WhatsInMyBag\WhatsInMyBAG_WwiseProject\.cache\Windows\SFX\Door_Close 3_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Game_or_Menu_Switch\Object_Door_Close\Door_Close 3		223416
+	152590169	Coffee_Guy_Footsteps_Carpet 5	C:\Users\Lasse\Documents\Perforce\WhatsInMyBag\dev\WhatsInMyBag\WhatsInMyBAG_WwiseProject\.cache\Windows\SFX\Coffee_Guy_Footsteps_Carpet 5_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Game_or_Menu_Switch\Coffee_Guy_Footsteps\Coffee_Guy_Footsteps_Carpet\Coffee_Guy_Footsteps_Carpet 5		100456
+	162818468	IT_Girl_Gibberish 4	C:\Users\Lasse\Documents\Perforce\WhatsInMyBag\dev\WhatsInMyBag\WhatsInMyBAG_WwiseProject\.cache\Windows\SFX\IT_Girl_Gibberish 4_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Game_or_Menu_Switch\IT_Lady_Gibberish\IT_Girl_Gibberish 4		228168
+	163542289	IT_Girl_Gibberish 6	C:\Users\Lasse\Documents\Perforce\WhatsInMyBag\dev\WhatsInMyBag\WhatsInMyBAG_WwiseProject\.cache\Windows\SFX\IT_Girl_Gibberish 6_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Game_or_Menu_Switch\IT_Lady_Gibberish\IT_Girl_Gibberish 6		357428
+	180802704	IT_Girl_Gibberish 8	C:\Users\Lasse\Documents\Perforce\WhatsInMyBag\dev\WhatsInMyBag\WhatsInMyBAG_WwiseProject\.cache\Windows\SFX\IT_Girl_Gibberish 8_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Game_or_Menu_Switch\IT_Lady_Gibberish\IT_Girl_Gibberish 8		311808
+	183662975	Footsteps_Tile 4	C:\Users\Lasse\Documents\Perforce\WhatsInMyBag\dev\WhatsInMyBag\WhatsInMyBAG_WwiseProject\.cache\Windows\SFX\Footsteps_Tile 4_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Game_or_Menu_Switch\Mahlee_Footsteps\Footsteps_Tile\Footsteps_Tile 4		108144
+	190764248	WIMB S1_Trans_5	C:\Users\Lasse\Documents\Perforce\WhatsInMyBag\dev\WhatsInMyBag\WhatsInMyBAG_WwiseProject\.cache\Windows\SFX\WIMB S1_Trans_5_D79FB2B7.wem		\Interactive Music Hierarchy\Default Work Unit\Gameplay_Music_Transitions\WIMB S1_Trans_5\WIMB S1_Trans_5		940476
+	192605810	Security_Man_Footsteps_Wood 1	C:\Users\Lasse\Documents\Perforce\WhatsInMyBag\dev\WhatsInMyBag\WhatsInMyBAG_WwiseProject\.cache\Windows\SFX\Security_Man_Footsteps_Wood 1_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Game_or_Menu_Switch\Security_Footsteps\Security_Footsteps_Wood\Security_Man_Footsteps_Wood 1		136928
+	193484536	Alert	C:\Users\Lasse\Documents\Perforce\WhatsInMyBag\dev\WhatsInMyBag\WhatsInMyBAG_WwiseProject\.cache\Windows\SFX\Alert_Reverb_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Game_or_Menu_Switch\Alert\Alert		321312
+	201996924	Security_Gibberish 1	C:\Users\Lasse\Documents\Perforce\WhatsInMyBag\dev\WhatsInMyBag\WhatsInMyBAG_WwiseProject\.cache\Windows\SFX\Security_Gibberish 1_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Game_or_Menu_Switch\Security_Gibberish\Security_Gibberish 1		693392
+	205033126	Cardboard_Box 3	C:\Users\Lasse\Documents\Perforce\WhatsInMyBag\dev\WhatsInMyBag\WhatsInMyBAG_WwiseProject\.cache\Windows\SFX\Cardboard_Box 3_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Game_or_Menu_Switch\Object_Cardboard_Box\Cardboard_Box 3		258584
+	210656744	Plastic_Bucket 5	C:\Users\Lasse\Documents\Perforce\WhatsInMyBag\dev\WhatsInMyBag\WhatsInMyBAG_WwiseProject\.cache\Windows\SFX\Plastic_Bucket 5_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Game_or_Menu_Switch\Object_Plastic_Bucket\Plastic_Bucket 5		140728
+	215842889	IT_Lady_Footsteps_Tile 3	C:\Users\Lasse\Documents\Perforce\WhatsInMyBag\dev\WhatsInMyBag\WhatsInMyBAG_WwiseProject\.cache\Windows\SFX\IT_Lady_Footsteps_Tile 3_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Game_or_Menu_Switch\IT_Lady_Footsteps\IT_Lady_Footsteps_Tile\IT_Lady_Footsteps_Tile 3		97008
+	221366282	Coffee_Guy_Footsteps_Carpet 4	C:\Users\Lasse\Documents\Perforce\WhatsInMyBag\dev\WhatsInMyBag\WhatsInMyBAG_WwiseProject\.cache\Windows\SFX\Coffee_Guy_Footsteps_Carpet 4_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Game_or_Menu_Switch\Coffee_Guy_Footsteps\Coffee_Guy_Footsteps_Carpet\Coffee_Guy_Footsteps_Carpet 4		114832
+	230801674	Verka_Gibberish 3	C:\Users\Lasse\Documents\Perforce\WhatsInMyBag\dev\WhatsInMyBag\WhatsInMyBAG_WwiseProject\.cache\Windows\SFX\Verka_Gibberish 3_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Game_or_Menu_Switch\Verka_Gibberish\Verka_Gibberish 3		287972
+	240858981	Footstep_Carpet 4	C:\Users\Lasse\Documents\Perforce\WhatsInMyBag\dev\WhatsInMyBag\WhatsInMyBAG_WwiseProject\.cache\Windows\SFX\Leather Shoes Carpet 4_CD89B4DF.wem		\Actor-Mixer Hierarchy\Default Work Unit\Game_or_Menu_Switch\Mahlee_Footsteps\Footsteps_Carpet\Footstep_Carpet 4		182548
+	248155423	Dog_Footsteps_Wood 3	C:\Users\Lasse\Documents\Perforce\WhatsInMyBag\dev\WhatsInMyBag\WhatsInMyBAG_WwiseProject\.cache\Windows\SFX\Dog_Footsteps_Wood 3_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Game_or_Menu_Switch\Dog_Footsteps\Dog_Footsteps_Wood\Dog_Footsteps_Wood 3		51220
+	249482093	Cardboard_Box 1	C:\Users\Lasse\Documents\Perforce\WhatsInMyBag\dev\WhatsInMyBag\WhatsInMyBAG_WwiseProject\.cache\Windows\SFX\Cardboard_Box 1_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Game_or_Menu_Switch\Object_Cardboard_Box\Cardboard_Box 1		228020
+	253438750	Coffee_Guy_Footsteps_Tile 2	C:\Users\Lasse\Documents\Perforce\WhatsInMyBag\dev\WhatsInMyBag\WhatsInMyBAG_WwiseProject\.cache\Windows\SFX\Coffee_Guy_Footsteps_Tile 2_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Game_or_Menu_Switch\Coffee_Guy_Footsteps\Coffee_Guy_Footsteps_Tile\Coffee_Guy_Footsteps_Tile 2		144532
+	254490192	Security_Man_Footsteps_Carpet 2	C:\Users\Lasse\Documents\Perforce\WhatsInMyBag\dev\WhatsInMyBag\WhatsInMyBAG_WwiseProject\.cache\Windows\SFX\Security_Man_Footsteps_Carpet 2_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Game_or_Menu_Switch\Security_Footsteps\Security_Footsteps_Carpet\Security_Man_Footsteps_Carpet 2		81804
+	259598939	Coffee_Machine_Intro_Stinger	C:\Users\Lasse\Documents\Perforce\WhatsInMyBag\dev\WhatsInMyBag\WhatsInMyBAG_WwiseProject\.cache\Windows\SFX\WIMB Char_Intro_Coffeemashine_D79FB2B7.wem		\Interactive Music Hierarchy\Default Work Unit\Introduction_Stinger\Coffee_Machine_Intro_Stinger\Coffee_Machine_Intro_Stinger		987496
+	271224707	Checkpoint_Reached	C:\Users\Lasse\Documents\Perforce\WhatsInMyBag\dev\WhatsInMyBag\WhatsInMyBAG_WwiseProject\.cache\Windows\SFX\Checkpoint_Reached_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Game_or_Menu_Switch\Checkpoint\Checkpoint_Reached		288144
+	273559688	Security_Gibberish 3	C:\Users\Lasse\Documents\Perforce\WhatsInMyBag\dev\WhatsInMyBag\WhatsInMyBAG_WwiseProject\.cache\Windows\SFX\Security_Gibberish 3_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Game_or_Menu_Switch\Security_Gibberish\Security_Gibberish 3		912480
+	276077769	IT_Lady_Footsteps_Wood 3	C:\Users\Lasse\Documents\Perforce\WhatsInMyBag\dev\WhatsInMyBag\WhatsInMyBAG_WwiseProject\.cache\Windows\SFX\IT_Lady_Footsteps_Wood 3_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Game_or_Menu_Switch\IT_Lady_Footsteps\IT_Lady_Footsteps_Wood\IT_Lady_Footsteps_Wood 3		182548
+	278736829	IT_Lady_Footsteps_Tile 1	C:\Users\Lasse\Documents\Perforce\WhatsInMyBag\dev\WhatsInMyBag\WhatsInMyBAG_WwiseProject\.cache\Windows\SFX\IT_Lady_Footsteps_Tile 1_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Game_or_Menu_Switch\IT_Lady_Footsteps\IT_Lady_Footsteps_Tile\IT_Lady_Footsteps_Tile 1		117920
+	310148696	Coffee_Guy_Gibberish 6	C:\Users\Lasse\Documents\Perforce\WhatsInMyBag\dev\WhatsInMyBag\WhatsInMyBAG_WwiseProject\.cache\Windows\SFX\Coffee_Guy_Gibberish 6_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Game_or_Menu_Switch\Coffee_Guy_Gibberish\Coffee_Guy_Gibberish 6		931488
+	310804089	Chair_Slide 1	C:\Users\Lasse\Documents\Perforce\WhatsInMyBag\dev\WhatsInMyBag\WhatsInMyBAG_WwiseProject\.cache\Windows\SFX\Chair_Slide 1_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Game_or_Menu_Switch\Object_Chair_Slide\Chair_Slide 1		57092
+	313851767	Security_Man_Footsteps_Tile 4	C:\Users\Lasse\Documents\Perforce\WhatsInMyBag\dev\WhatsInMyBag\WhatsInMyBAG_WwiseProject\.cache\Windows\SFX\Security_Man_Footsteps_Tile 4_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Game_or_Menu_Switch\Security_Footsteps\Security_Footsteps_Tile\Security_Man_Footsteps_Tile 4		122936
+	321287603	IT_Lady_Footsteps_Carpet 1	C:\Users\Lasse\Documents\Perforce\WhatsInMyBag\dev\WhatsInMyBag\WhatsInMyBAG_WwiseProject\.cache\Windows\SFX\IT_Lady_Footsteps_Carpet 1_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Game_or_Menu_Switch\IT_Lady_Footsteps\IT_Lady_Footsteps_Carpet\IT_Lady_Footsteps_Carpet 1		182548
+	321956640	Alarm_Slow	C:\Users\Lasse\Documents\Perforce\WhatsInMyBag\dev\WhatsInMyBag\WhatsInMyBAG_WwiseProject\.cache\Windows\SFX\Alarm_Slow_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Game_or_Menu_Switch\UI_Attention_Meter\Alarm_Slow\Alarm_Slow		760412
+	322160176	Dog_Bark 3	C:\Users\Lasse\Documents\Perforce\WhatsInMyBag\dev\WhatsInMyBag\WhatsInMyBAG_WwiseProject\.cache\Windows\SFX\Dog_Bark 3_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Game_or_Menu_Switch\Dog_Bark\Dog_Bark 3		51388
+	323797414	IT_Lady_Footsteps_Tile 4	C:\Users\Lasse\Documents\Perforce\WhatsInMyBag\dev\WhatsInMyBag\WhatsInMyBAG_WwiseProject\.cache\Windows\SFX\IT_Lady_Footsteps_Tile 4_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Game_or_Menu_Switch\IT_Lady_Footsteps\IT_Lady_Footsteps_Tile\IT_Lady_Footsteps_Tile 4		106516
+	325191278	Security_Man_Footsteps_Wood 5	C:\Users\Lasse\Documents\Perforce\WhatsInMyBag\dev\WhatsInMyBag\WhatsInMyBAG_WwiseProject\.cache\Windows\SFX\Security_Man_Footsteps_Wood 5_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Game_or_Menu_Switch\Security_Footsteps\Security_Footsteps_Wood\Security_Man_Footsteps_Wood 5		151304
+	332857050	Dog_Footsteps_Wood 1	C:\Users\Lasse\Documents\Perforce\WhatsInMyBag\dev\WhatsInMyBag\WhatsInMyBAG_WwiseProject\.cache\Windows\SFX\Dog_Footsteps_Wood 1_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Game_or_Menu_Switch\Dog_Footsteps\Dog_Footsteps_Wood\Dog_Footsteps_Wood 1		47840
+	334353660	Footstep_Wood 1	C:\Users\Lasse\Documents\Perforce\WhatsInMyBag\dev\WhatsInMyBag\WhatsInMyBAG_WwiseProject\.cache\Windows\SFX\Footstep_Wood 1 _10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Game_or_Menu_Switch\Mahlee_Footsteps\Footsteps_Wood\Footstep_Wood 1		60892
+	343409839	Coffee_Guy_Gibberish 17	C:\Users\Lasse\Documents\Perforce\WhatsInMyBag\dev\WhatsInMyBag\WhatsInMyBAG_WwiseProject\.cache\Windows\SFX\Coffee_Guy_Gibberish 17_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Game_or_Menu_Switch\Coffee_Guy_Gibberish\Coffee_Guy_Gibberish 17		501892
+	353272732	Dog_Bark 2	C:\Users\Lasse\Documents\Perforce\WhatsInMyBag\dev\WhatsInMyBag\WhatsInMyBAG_WwiseProject\.cache\Windows\SFX\Dog_Bark 2_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Game_or_Menu_Switch\Dog_Bark\Dog_Bark 2		136928
+	357879350	Plastic_Bucket 1	C:\Users\Lasse\Documents\Perforce\WhatsInMyBag\dev\WhatsInMyBag\WhatsInMyBAG_WwiseProject\.cache\Windows\SFX\Plastic_Bucket 1_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Game_or_Menu_Switch\Object_Plastic_Bucket\Plastic_Bucket 1		121720
+	361815549	Rick Astley - Never Gonna Give You Up	C:\Users\Lasse\Documents\Perforce\WhatsInMyBag\dev\WhatsInMyBag\WhatsInMyBAG_WwiseProject\.cache\Windows\SFX\Rick Astley - Never Gonna Give You Up_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Game_or_Menu_Switch\Object_Speaker\Rick Astley - Never Gonna Give You Up		40719320
+	364956126	Footsteps_Tile 3	C:\Users\Lasse\Documents\Perforce\WhatsInMyBag\dev\WhatsInMyBag\WhatsInMyBAG_WwiseProject\.cache\Windows\SFX\Footsteps_Tile 3_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Game_or_Menu_Switch\Mahlee_Footsteps\Footsteps_Tile\Footsteps_Tile 3		92144
+	369719057	Coffee_Guy_Footsteps_Wood 1	C:\Users\Lasse\Documents\Perforce\WhatsInMyBag\dev\WhatsInMyBag\WhatsInMyBAG_WwiseProject\.cache\Windows\SFX\Coffee_Guy_Footsteps_Wood 1_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Game_or_Menu_Switch\Coffee_Guy_Footsteps\Coffee_Guy_Footsteps_Wood\Coffee_Guy_Footsteps_Wood 1		59944
+	371935779	Chair_Slide 5	C:\Users\Lasse\Documents\Perforce\WhatsInMyBag\dev\WhatsInMyBag\WhatsInMyBAG_WwiseProject\.cache\Windows\SFX\Chair_Slide 5_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Game_or_Menu_Switch\Object_Chair_Slide\Chair_Slide 5		76100
+	377620824	Menu_Soundtrack	C:\Users\Lasse\Documents\Perforce\WhatsInMyBag\dev\WhatsInMyBag\WhatsInMyBAG_WwiseProject\.cache\Windows\SFX\WIMB Menu Music_D79FB2B7.wem		\Interactive Music Hierarchy\Default Work Unit\Game_or_Menu_Switch\Menu_Soundtrack\Menu_Soundtrack\Menu_Soundtrack		12288064
+	379873499	Coffee_Guy_Footsteps_Tile 4	C:\Users\Lasse\Documents\Perforce\WhatsInMyBag\dev\WhatsInMyBag\WhatsInMyBAG_WwiseProject\.cache\Windows\SFX\Coffee_Guy_Footsteps_Tile 4_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Game_or_Menu_Switch\Coffee_Guy_Footsteps\Coffee_Guy_Footsteps_Tile\Coffee_Guy_Footsteps_Tile 4		117920
+	381683850	Coffee_Guy_Gibberish 13	C:\Users\Lasse\Documents\Perforce\WhatsInMyBag\dev\WhatsInMyBag\WhatsInMyBAG_WwiseProject\.cache\Windows\SFX\Coffee_Guy_Gibberish 13_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Game_or_Menu_Switch\Coffee_Guy_Gibberish\Coffee_Guy_Gibberish 13		167340
+	384576734	Security_Man_Footsteps_Tile 3	C:\Users\Lasse\Documents\Perforce\WhatsInMyBag\dev\WhatsInMyBag\WhatsInMyBAG_WwiseProject\.cache\Windows\SFX\Security_Man_Footsteps_Tile 3_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Game_or_Menu_Switch\Security_Footsteps\Security_Footsteps_Tile\Security_Man_Footsteps_Tile 3		114960
+	385153095	Coffee_Guy_Gibberish 1	C:\Users\Lasse\Documents\Perforce\WhatsInMyBag\dev\WhatsInMyBag\WhatsInMyBAG_WwiseProject\.cache\Windows\SFX\Coffee_Guy_Gibberish 1_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Game_or_Menu_Switch\Coffee_Guy_Gibberish\Coffee_Guy_Gibberish 1		927688
+	402848694	Plastic_Bucket 4	C:\Users\Lasse\Documents\Perforce\WhatsInMyBag\dev\WhatsInMyBag\WhatsInMyBAG_WwiseProject\.cache\Windows\SFX\Plastic_Bucket 4_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Game_or_Menu_Switch\Object_Plastic_Bucket\Plastic_Bucket 4		144532
+	420491157	Footstep_Carpet 1	C:\Users\Lasse\Documents\Perforce\WhatsInMyBag\dev\WhatsInMyBag\WhatsInMyBAG_WwiseProject\.cache\Windows\SFX\Leather Shoes Carpet 1_C12D31A5.wem		\Actor-Mixer Hierarchy\Default Work Unit\Game_or_Menu_Switch\Mahlee_Footsteps\Footsteps_Carpet\Footstep_Carpet 1		205360
+	430418833	Coffee_Guy_Gibberish 8	C:\Users\Lasse\Documents\Perforce\WhatsInMyBag\dev\WhatsInMyBag\WhatsInMyBAG_WwiseProject\.cache\Windows\SFX\Coffee_Guy_Gibberish 8_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Game_or_Menu_Switch\Coffee_Guy_Gibberish\Coffee_Guy_Gibberish 8		243376
+	438277124	Drop	C:\Users\Lasse\Documents\Perforce\WhatsInMyBag\dev\WhatsInMyBag\WhatsInMyBAG_WwiseProject\.cache\Windows\SFX\Drop_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Game_or_Menu_Switch\Mahlee_Drop\Drop		31432
+	454407443	Footstep_Squish 2	C:\Users\Lasse\Documents\Perforce\WhatsInMyBag\dev\WhatsInMyBag\WhatsInMyBAG_WwiseProject\.cache\Windows\SFX\Footstep_Squish 2_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Game_or_Menu_Switch\Mahlee_Footsteps\Footsteps_Liquid\Footstep_Squish 2		129324
+	458220555	Coffee_Guy_Footsteps_Wood 5	C:\Users\Lasse\Documents\Perforce\WhatsInMyBag\dev\WhatsInMyBag\WhatsInMyBAG_WwiseProject\.cache\Windows\SFX\Coffee_Guy_Footsteps_Wood 5_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Game_or_Menu_Switch\Coffee_Guy_Footsteps\Coffee_Guy_Footsteps_Wood\Coffee_Guy_Footsteps_Wood 5		50200
+	464782571	Dog_Footsteps_Carpet 2	C:\Users\Lasse\Documents\Perforce\WhatsInMyBag\dev\WhatsInMyBag\WhatsInMyBAG_WwiseProject\.cache\Windows\SFX\Dog_Footsteps_Carpet 2_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Game_or_Menu_Switch\Dog_Footsteps\Dog_Footsteps_Carpet\Dog_Footsteps_Carpet 2		47112
+	466405058	IT_Girl_Gibberish 2	C:\Users\Lasse\Documents\Perforce\WhatsInMyBag\dev\WhatsInMyBag\WhatsInMyBAG_WwiseProject\.cache\Windows\SFX\IT_Girl_Gibberish 2_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Game_or_Menu_Switch\IT_Lady_Gibberish\IT_Girl_Gibberish 2		357428
+	468507565	Coffee_Guy_Footsteps_Tile 3	C:\Users\Lasse\Documents\Perforce\WhatsInMyBag\dev\WhatsInMyBag\WhatsInMyBAG_WwiseProject\.cache\Windows\SFX\Coffee_Guy_Footsteps_Tile 3_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Game_or_Menu_Switch\Coffee_Guy_Footsteps\Coffee_Guy_Footsteps_Tile\Coffee_Guy_Footsteps_Tile 3		130632
+	471505919	Footstep_Wood 5	C:\Users\Lasse\Documents\Perforce\WhatsInMyBag\dev\WhatsInMyBag\WhatsInMyBAG_WwiseProject\.cache\Windows\SFX\Footstep_Wood 5 _10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Game_or_Menu_Switch\Mahlee_Footsteps\Footsteps_Wood\Footstep_Wood 5		60892
+	474427182	Body_Bag 2	C:\Users\Lasse\Documents\Perforce\WhatsInMyBag\dev\WhatsInMyBag\WhatsInMyBAG_WwiseProject\.cache\Windows\SFX\Body_Bag 2_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Game_or_Menu_Switch\Object_Body_Bag\Body_Bag 2		1830352
+	479720344	Dog_Pant 4	C:\Users\Lasse\Documents\Perforce\WhatsInMyBag\dev\WhatsInMyBag\WhatsInMyBAG_WwiseProject\.cache\Windows\SFX\Dog_Pant 4_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Game_or_Menu_Switch\Dog_Pant\Dog_Pant 4		608340
+	480585159	WIMB S1_Loop_4	C:\Users\Lasse\Documents\Perforce\WhatsInMyBag\dev\WhatsInMyBag\WhatsInMyBAG_WwiseProject\.cache\Windows\SFX\WIMB S1_Loop_4_D79FB2B7.wem		\Interactive Music Hierarchy\Default Work Unit\Game_or_Menu_Switch\Game_Music_Switch\Gameplay_Music\Checkpoint_4\WIMB S1_Loop_4\WIMB S1_Loop_4		7523332
+	480765513	Printer_Alarm	C:\Users\Lasse\Documents\Perforce\WhatsInMyBag\dev\WhatsInMyBag\WhatsInMyBAG_WwiseProject\.cache\Windows\SFX\Printer_Alarm_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Game_or_Menu_Switch\Object_Printer\Printer_Alarm		547516
+	482644318	IT_Girl_Gibberish 1	C:\Users\Lasse\Documents\Perforce\WhatsInMyBag\dev\WhatsInMyBag\WhatsInMyBAG_WwiseProject\.cache\Windows\SFX\IT_Girl_Gibberish 1_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Game_or_Menu_Switch\IT_Lady_Gibberish\IT_Girl_Gibberish 1		342096
+	482932965	Alarm_Fast	C:\Users\Lasse\Documents\Perforce\WhatsInMyBag\dev\WhatsInMyBag\WhatsInMyBAG_WwiseProject\.cache\Windows\SFX\Alarm_Fast_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Game_or_Menu_Switch\UI_Attention_Meter\Alarm_Fast\Alarm_Fast		425860
+	492687315	WIMB Game Over Stinger	C:\Users\Lasse\Documents\Perforce\WhatsInMyBag\dev\WhatsInMyBag\WhatsInMyBAG_WwiseProject\.cache\Windows\SFX\WIMB Game Over Stinger_D79FB2B7.wem		\Interactive Music Hierarchy\Default Work Unit\Game_or_Menu_Switch\Game_Music_Switch\Game_Over_Music\WIMB Game Over Stinger		1410680
+	502001125	IT_Lady_Footsteps_Tile 5	C:\Users\Lasse\Documents\Perforce\WhatsInMyBag\dev\WhatsInMyBag\WhatsInMyBAG_WwiseProject\.cache\Windows\SFX\IT_Lady_Footsteps_Tile 5_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Game_or_Menu_Switch\IT_Lady_Footsteps\IT_Lady_Footsteps_Tile\IT_Lady_Footsteps_Tile 5		106516
+	517456099	Security_Man_Footsteps_Wood 3	C:\Users\Lasse\Documents\Perforce\WhatsInMyBag\dev\WhatsInMyBag\WhatsInMyBAG_WwiseProject\.cache\Windows\SFX\Security_Man_Footsteps_Wood 3_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Game_or_Menu_Switch\Security_Footsteps\Security_Footsteps_Wood\Security_Man_Footsteps_Wood 3		157004
+	517737583	Garbage_Intro_Stinger	C:\Users\Lasse\Documents\Perforce\WhatsInMyBag\dev\WhatsInMyBag\WhatsInMyBAG_WwiseProject\.cache\Windows\SFX\WIMB Char_Intro_Garbage_D79FB2B7.wem		\Interactive Music Hierarchy\Default Work Unit\Introduction_Stinger\Garbage_Intro_Stinger\Garbage_Intro_Stinger		987496
+	525710064	Office_Chair_Roll 5	C:\Users\Lasse\Documents\Perforce\WhatsInMyBag\dev\WhatsInMyBag\WhatsInMyBAG_WwiseProject\.cache\Windows\SFX\Office_Chair_Roll 5_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Game_or_Menu_Switch\Object_Office_Chair\Office_Chair_Roll 5		277984
+	531310999	Sheets_Fly	C:\Users\Lasse\Documents\Perforce\WhatsInMyBag\dev\WhatsInMyBag\WhatsInMyBAG_WwiseProject\.cache\Windows\SFX\Sheets_Fly_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Game_or_Menu_Switch\Object_Sheets_Fly\Sheets_Fly		5695048
+	533148506	Coffee_Guy_Gibberish 11	C:\Users\Lasse\Documents\Perforce\WhatsInMyBag\dev\WhatsInMyBag\WhatsInMyBAG_WwiseProject\.cache\Windows\SFX\Coffee_Guy_Gibberish 11_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Game_or_Menu_Switch\Coffee_Guy_Gibberish\Coffee_Guy_Gibberish 11		273792
+	535308979	Bottle_Liquid 1	C:\Users\Lasse\Documents\Perforce\WhatsInMyBag\dev\WhatsInMyBag\WhatsInMyBAG_WwiseProject\.cache\Windows\SFX\Bottle_Liquid 1 _10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Game_or_Menu_Switch\Object_Bottle_Drop\Bottle_Liquid 1		562720
+	548283256	IT_Lady_Footsteps_Carpet 3	C:\Users\Lasse\Documents\Perforce\WhatsInMyBag\dev\WhatsInMyBag\WhatsInMyBAG_WwiseProject\.cache\Windows\SFX\IT_Lady_Footsteps_Carpet 3_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Game_or_Menu_Switch\IT_Lady_Footsteps\IT_Lady_Footsteps_Carpet\IT_Lady_Footsteps_Carpet 3		182548
+	565714987	Security_Gibberish 8	C:\Users\Lasse\Documents\Perforce\WhatsInMyBag\dev\WhatsInMyBag\WhatsInMyBAG_WwiseProject\.cache\Windows\SFX\Security_Gibberish 8_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Game_or_Menu_Switch\Security_Gibberish\Security_Gibberish 8		563276
+	565747256	Menu_Click	C:\Users\Lasse\Documents\Perforce\WhatsInMyBag\dev\WhatsInMyBag\WhatsInMyBAG_WwiseProject\.cache\Windows\SFX\Menu_Click 1_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Menu_Click		21872
+	569417595	IT_Girl_Intro_Stinger	C:\Users\Lasse\Documents\Perforce\WhatsInMyBag\dev\WhatsInMyBag\WhatsInMyBAG_WwiseProject\.cache\Windows\SFX\WIMB Char_Intro_IT_Girl_D79FB2B7.wem		\Interactive Music Hierarchy\Default Work Unit\Introduction_Stinger\IT_Girl_Intro_Stinger\IT_Girl_Intro_Stinger		1234836
+	587112001	Coffee_Guy_Footsteps_Wood 4	C:\Users\Lasse\Documents\Perforce\WhatsInMyBag\dev\WhatsInMyBag\WhatsInMyBAG_WwiseProject\.cache\Windows\SFX\Coffee_Guy_Footsteps_Wood 4_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Game_or_Menu_Switch\Coffee_Guy_Footsteps\Coffee_Guy_Footsteps_Wood\Coffee_Guy_Footsteps_Wood 4		49012
+	593608806	Outro_Sequence	C:\Users\Lasse\Documents\Perforce\WhatsInMyBag\dev\WhatsInMyBag\WhatsInMyBAG_WwiseProject\.cache\Windows\SFX\Outro_Sequence - Sounddesign_D79FB2B7.wem		\Interactive Music Hierarchy\Default Work Unit\Outro_Sequence\Outro_Sequence		3880864
+	607034323	Security_Man_Footsteps_Tile 2	C:\Users\Lasse\Documents\Perforce\WhatsInMyBag\dev\WhatsInMyBag\WhatsInMyBAG_WwiseProject\.cache\Windows\SFX\Security_Man_Footsteps_Tile 2_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Game_or_Menu_Switch\Security_Footsteps\Security_Footsteps_Tile\Security_Man_Footsteps_Tile 2		118212
+	607401229	Security_Gibberish 4	C:\Users\Lasse\Documents\Perforce\WhatsInMyBag\dev\WhatsInMyBag\WhatsInMyBAG_WwiseProject\.cache\Windows\SFX\Security_Gibberish 4_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Game_or_Menu_Switch\Security_Gibberish\Security_Gibberish 4		1097188
+	608073119	Bottle_Liquid 2	C:\Users\Lasse\Documents\Perforce\WhatsInMyBag\dev\WhatsInMyBag\WhatsInMyBAG_WwiseProject\.cache\Windows\SFX\Bottle_Liquid 3 _10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Game_or_Menu_Switch\Object_Bottle_Drop\Bottle_Liquid 2		501892
+	612552133	IT_Girl_Gibberish 7	C:\Users\Lasse\Documents\Perforce\WhatsInMyBag\dev\WhatsInMyBag\WhatsInMyBAG_WwiseProject\.cache\Windows\SFX\IT_Girl_Gibberish 7_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Game_or_Menu_Switch\IT_Lady_Gibberish\IT_Girl_Gibberish 7		441064
+	622877632	Dog_Footsteps_Carpet 3	C:\Users\Lasse\Documents\Perforce\WhatsInMyBag\dev\WhatsInMyBag\WhatsInMyBAG_WwiseProject\.cache\Windows\SFX\Dog_Footsteps_Carpet 3_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Game_or_Menu_Switch\Dog_Footsteps\Dog_Footsteps_Carpet\Dog_Footsteps_Carpet 3		49964
+	625689546	Dog_Footsteps_Wood 4	C:\Users\Lasse\Documents\Perforce\WhatsInMyBag\dev\WhatsInMyBag\WhatsInMyBAG_WwiseProject\.cache\Windows\SFX\Dog_Footsteps_Wood 4_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Game_or_Menu_Switch\Dog_Footsteps\Dog_Footsteps_Wood\Dog_Footsteps_Wood 4		51408
+	633483429	Dog_Footsteps_Carpet 1	C:\Users\Lasse\Documents\Perforce\WhatsInMyBag\dev\WhatsInMyBag\WhatsInMyBAG_WwiseProject\.cache\Windows\SFX\Dog_Footsteps_Carpet 1_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Game_or_Menu_Switch\Dog_Footsteps\Dog_Footsteps_Carpet\Dog_Footsteps_Carpet 1		63268
+	637913362	Dog_Footsteps_Tile 3	C:\Users\Lasse\Documents\Perforce\WhatsInMyBag\dev\WhatsInMyBag\WhatsInMyBAG_WwiseProject\.cache\Windows\SFX\Dog_Footsteps_Tile 3_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Game_or_Menu_Switch\Dog_Footsteps\Dog_Footsteps_Tile\Dog_Footsteps_Tile 3		99860
+	637978185	Coffee_Guy_Gibberish 9	C:\Users\Lasse\Documents\Perforce\WhatsInMyBag\dev\WhatsInMyBag\WhatsInMyBAG_WwiseProject\.cache\Windows\SFX\Coffee_Guy_Gibberish 9_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Game_or_Menu_Switch\Coffee_Guy_Gibberish\Coffee_Guy_Gibberish 9		745204
+	641354822	Coffee_Guy_Gibberish 16	C:\Users\Lasse\Documents\Perforce\WhatsInMyBag\dev\WhatsInMyBag\WhatsInMyBAG_WwiseProject\.cache\Windows\SFX\Coffee_Guy_Gibberish 16_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Game_or_Menu_Switch\Coffee_Guy_Gibberish\Coffee_Guy_Gibberish 16		219840
+	644562286	Plastic_Bucket 2	C:\Users\Lasse\Documents\Perforce\WhatsInMyBag\dev\WhatsInMyBag\WhatsInMyBAG_WwiseProject\.cache\Windows\SFX\Plastic_Bucket 2_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Game_or_Menu_Switch\Object_Plastic_Bucket\Plastic_Bucket 2		182548
+	646238080	Plastic_Bucket 3	C:\Users\Lasse\Documents\Perforce\WhatsInMyBag\dev\WhatsInMyBag\WhatsInMyBAG_WwiseProject\.cache\Windows\SFX\Plastic_Bucket 3_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Game_or_Menu_Switch\Object_Plastic_Bucket\Plastic_Bucket 3		141204
+	647929511	Footsteps_Concrete 2	C:\Users\Lasse\Documents\Perforce\WhatsInMyBag\dev\WhatsInMyBag\WhatsInMyBAG_WwiseProject\.cache\Windows\SFX\Footsteps_Concrete 2_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Game_or_Menu_Switch\Mahlee_Footsteps\Footsteps_Concrete\Footsteps_Concrete 2		56744
+	662042122	Dog_Pant 3	C:\Users\Lasse\Documents\Perforce\WhatsInMyBag\dev\WhatsInMyBag\WhatsInMyBAG_WwiseProject\.cache\Windows\SFX\Dog_Pant 3_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Game_or_Menu_Switch\Dog_Pant\Dog_Pant 3		1581584
+	662662931	WIMB_Ingame_Introsequence v1_7	C:\Users\Lasse\Documents\Perforce\WhatsInMyBag\dev\WhatsInMyBag\WhatsInMyBAG_WwiseProject\.cache\Windows\SFX\WIMB_Ingame_Introsequence v1.7_D79FB2B7.wem		\Interactive Music Hierarchy\Default Work Unit\Ingame_Intro_Sequence\WIMB_Ingame_Introsequence v1_7		2734264
+	670126748	WIMB S1_Loop_1	C:\Users\Lasse\Documents\Perforce\WhatsInMyBag\dev\WhatsInMyBag\WhatsInMyBAG_WwiseProject\.cache\Windows\SFX\WIMB S1_Loop_1_D79FB2B7.wem		\Interactive Music Hierarchy\Default Work Unit\Game_or_Menu_Switch\Game_Music_Switch\Gameplay_Music\Checkpoint_1\WIMB S1_Loop_1\WIMB S1_Loop_1		7993536
+	670457947	Footsteps_Concrete 5	C:\Users\Lasse\Documents\Perforce\WhatsInMyBag\dev\WhatsInMyBag\WhatsInMyBAG_WwiseProject\.cache\Windows\SFX\Footsteps_Concrete 5_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Game_or_Menu_Switch\Mahlee_Footsteps\Footsteps_Concrete\Footsteps_Concrete 5		62344
+	671761861	Verka_Gibberish 5	C:\Users\Lasse\Documents\Perforce\WhatsInMyBag\dev\WhatsInMyBag\WhatsInMyBAG_WwiseProject\.cache\Windows\SFX\Verka_Gibberish 5_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Game_or_Menu_Switch\Verka_Gibberish\Verka_Gibberish 5		684376
+	677269711	Footsteps_Concrete 3	C:\Users\Lasse\Documents\Perforce\WhatsInMyBag\dev\WhatsInMyBag\WhatsInMyBAG_WwiseProject\.cache\Windows\SFX\Footsteps_Concrete 3_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Game_or_Menu_Switch\Mahlee_Footsteps\Footsteps_Concrete\Footsteps_Concrete 3		58644
+	680767255	Cleaning_Trolley	C:\Users\Lasse\Documents\Perforce\WhatsInMyBag\dev\WhatsInMyBag\WhatsInMyBAG_WwiseProject\.cache\Windows\SFX\Cleaning_Trolley_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Game_or_Menu_Switch\Object_Cleaning_Trolley\Cleaning_Trolley		4136340
+	688447515	Coffee_Guy_Footsteps_Wood 2	C:\Users\Lasse\Documents\Perforce\WhatsInMyBag\dev\WhatsInMyBag\WhatsInMyBAG_WwiseProject\.cache\Windows\SFX\Coffee_Guy_Footsteps_Wood 2_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Game_or_Menu_Switch\Coffee_Guy_Footsteps\Coffee_Guy_Footsteps_Wood\Coffee_Guy_Footsteps_Wood 2		49488
+	689975551	Coffee_Guy_Footsteps_Carpet 3	C:\Users\Lasse\Documents\Perforce\WhatsInMyBag\dev\WhatsInMyBag\WhatsInMyBAG_WwiseProject\.cache\Windows\SFX\Coffee_Guy_Footsteps_Carpet 3_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Game_or_Menu_Switch\Coffee_Guy_Footsteps\Coffee_Guy_Footsteps_Carpet\Coffee_Guy_Footsteps_Carpet 3		114356
+	702530557	WIMB S1_Trans_1	C:\Users\Lasse\Documents\Perforce\WhatsInMyBag\dev\WhatsInMyBag\WhatsInMyBAG_WwiseProject\.cache\Windows\SFX\WIMB S1_Trans_1_D79FB2B7.wem		\Interactive Music Hierarchy\Default Work Unit\Gameplay_Music_Transitions\WIMB S1_Trans_1\WIMB S1_Trans_1		940476
+	703367642	Coffee_Guy_Footsteps_Wood 3	C:\Users\Lasse\Documents\Perforce\WhatsInMyBag\dev\WhatsInMyBag\WhatsInMyBAG_WwiseProject\.cache\Windows\SFX\Coffee_Guy_Footsteps_Wood 3_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Game_or_Menu_Switch\Coffee_Guy_Footsteps\Coffee_Guy_Footsteps_Wood\Coffee_Guy_Footsteps_Wood 3		43312
+	704649773	Footstep_Carpet 5	C:\Users\Lasse\Documents\Perforce\WhatsInMyBag\dev\WhatsInMyBag\WhatsInMyBAG_WwiseProject\.cache\Windows\SFX\Leather Shoes Carpet 5_ABF5CCAD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Game_or_Menu_Switch\Mahlee_Footsteps\Footsteps_Carpet\Footstep_Carpet 5		193952
+	708282430	Door_Close 2	C:\Users\Lasse\Documents\Perforce\WhatsInMyBag\dev\WhatsInMyBag\WhatsInMyBAG_WwiseProject\.cache\Windows\SFX\Door_Close 2_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Game_or_Menu_Switch\Object_Door_Close\Door_Close 2		223416
+	714604786	Cardboard_Box 4	C:\Users\Lasse\Documents\Perforce\WhatsInMyBag\dev\WhatsInMyBag\WhatsInMyBAG_WwiseProject\.cache\Windows\SFX\Cardboard_Box 4_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Game_or_Menu_Switch\Object_Cardboard_Box\Cardboard_Box 4		268792
+	732131283	Security_Gibberish 5	C:\Users\Lasse\Documents\Perforce\WhatsInMyBag\dev\WhatsInMyBag\WhatsInMyBAG_WwiseProject\.cache\Windows\SFX\Security_Gibberish 5_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Game_or_Menu_Switch\Security_Gibberish\Security_Gibberish 5		1196588
+	745118647	Chair_Slide 4	C:\Users\Lasse\Documents\Perforce\WhatsInMyBag\dev\WhatsInMyBag\WhatsInMyBAG_WwiseProject\.cache\Windows\SFX\Chair_Slide 4_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Game_or_Menu_Switch\Object_Chair_Slide\Chair_Slide 4		61328
+	752842726	Footstep_Squish 3	C:\Users\Lasse\Documents\Perforce\WhatsInMyBag\dev\WhatsInMyBag\WhatsInMyBAG_WwiseProject\.cache\Windows\SFX\Footstep_Squish 3_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Game_or_Menu_Switch\Mahlee_Footsteps\Footsteps_Liquid\Footstep_Squish 3		61104
+	768873247	IT_Girl_Gibberish 5	C:\Users\Lasse\Documents\Perforce\WhatsInMyBag\dev\WhatsInMyBag\WhatsInMyBAG_WwiseProject\.cache\Windows\SFX\IT_Girl_Gibberish 5_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Game_or_Menu_Switch\IT_Lady_Gibberish\IT_Girl_Gibberish 5		505696
+	772945584	Dog_Footsteps_Tile 4	C:\Users\Lasse\Documents\Perforce\WhatsInMyBag\dev\WhatsInMyBag\WhatsInMyBAG_WwiseProject\.cache\Windows\SFX\Dog_Footsteps_Tile 4_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Game_or_Menu_Switch\Dog_Footsteps\Dog_Footsteps_Tile\Dog_Footsteps_Tile 4		105564
+	774535858	IT_Girl_Gibberish 9	C:\Users\Lasse\Documents\Perforce\WhatsInMyBag\dev\WhatsInMyBag\WhatsInMyBAG_WwiseProject\.cache\Windows\SFX\IT_Girl_Gibberish 9_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Game_or_Menu_Switch\IT_Lady_Gibberish\IT_Girl_Gibberish 9		501892
+	777493352	Footstep_Wood 2	C:\Users\Lasse\Documents\Perforce\WhatsInMyBag\dev\WhatsInMyBag\WhatsInMyBAG_WwiseProject\.cache\Windows\SFX\Footstep_Wood 2 _10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Game_or_Menu_Switch\Mahlee_Footsteps\Footsteps_Wood\Footstep_Wood 2		60892
+	778329193	Verka_Gibberish 2	C:\Users\Lasse\Documents\Perforce\WhatsInMyBag\dev\WhatsInMyBag\WhatsInMyBAG_WwiseProject\.cache\Windows\SFX\Verka_Gibberish 2_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Game_or_Menu_Switch\Verka_Gibberish\Verka_Gibberish 2		273792
+	779189701	Coffee_Machine	C:\Users\Lasse\Documents\Perforce\WhatsInMyBag\dev\WhatsInMyBag\WhatsInMyBAG_WwiseProject\.cache\Windows\SFX\Coffee_Machine_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Game_or_Menu_Switch\Object_Coffee_Machine\Coffee_Machine		6082828
+	800272121	Dog_Footsteps_Tile 1	C:\Users\Lasse\Documents\Perforce\WhatsInMyBag\dev\WhatsInMyBag\WhatsInMyBAG_WwiseProject\.cache\Windows\SFX\Dog_Footsteps_Tile 1_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Game_or_Menu_Switch\Dog_Footsteps\Dog_Footsteps_Tile\Dog_Footsteps_Tile 1		108416
+	834911581	Security_Man_Footsteps_Carpet 5	C:\Users\Lasse\Documents\Perforce\WhatsInMyBag\dev\WhatsInMyBag\WhatsInMyBAG_WwiseProject\.cache\Windows\SFX\Security_Man_Footsteps_Carpet 5_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Game_or_Menu_Switch\Security_Footsteps\Security_Footsteps_Carpet\Security_Man_Footsteps_Carpet 5		91308
+	838363263	Dog_Bark 4	C:\Users\Lasse\Documents\Perforce\WhatsInMyBag\dev\WhatsInMyBag\WhatsInMyBAG_WwiseProject\.cache\Windows\SFX\Dog_Bark 4_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Game_or_Menu_Switch\Dog_Bark\Dog_Bark 4		68496
+	840015375	IT_Lady_Footsteps_Tile 2	C:\Users\Lasse\Documents\Perforce\WhatsInMyBag\dev\WhatsInMyBag\WhatsInMyBAG_WwiseProject\.cache\Windows\SFX\IT_Lady_Footsteps_Tile 2_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Game_or_Menu_Switch\IT_Lady_Footsteps\IT_Lady_Footsteps_Tile\IT_Lady_Footsteps_Tile 2		106516
+	856818365	Dog_Footsteps_Carpet 4	C:\Users\Lasse\Documents\Perforce\WhatsInMyBag\dev\WhatsInMyBag\WhatsInMyBAG_WwiseProject\.cache\Windows\SFX\Dog_Footsteps_Carpet 4_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Game_or_Menu_Switch\Dog_Footsteps\Dog_Footsteps_Carpet\Dog_Footsteps_Carpet 4		54240
+	857295990	IT_Lady_Footsteps_Wood 1	C:\Users\Lasse\Documents\Perforce\WhatsInMyBag\dev\WhatsInMyBag\WhatsInMyBAG_WwiseProject\.cache\Windows\SFX\IT_Lady_Footsteps_Wood 1_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Game_or_Menu_Switch\IT_Lady_Footsteps\IT_Lady_Footsteps_Wood\IT_Lady_Footsteps_Wood 1		182548
+	861480684	Fan	C:\Users\Lasse\Documents\Perforce\WhatsInMyBag\dev\WhatsInMyBag\WhatsInMyBAG_WwiseProject\.cache\Windows\SFX\Fan_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Game_or_Menu_Switch\Object_Fan\Fan		6870892
+	865019586	Security_Man_Footsteps_Tile 1	C:\Users\Lasse\Documents\Perforce\WhatsInMyBag\dev\WhatsInMyBag\WhatsInMyBAG_WwiseProject\.cache\Windows\SFX\Security_Man_Footsteps_Tile 1_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Game_or_Menu_Switch\Security_Footsteps\Security_Footsteps_Tile\Security_Man_Footsteps_Tile 1		124184
+	866847590	Cardboard_Box 2	C:\Users\Lasse\Documents\Perforce\WhatsInMyBag\dev\WhatsInMyBag\WhatsInMyBAG_WwiseProject\.cache\Windows\SFX\Cardboard_Box 2_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Game_or_Menu_Switch\Object_Cardboard_Box\Cardboard_Box 2		235240
+	867001744	Footstep_Wood 3	C:\Users\Lasse\Documents\Perforce\WhatsInMyBag\dev\WhatsInMyBag\WhatsInMyBAG_WwiseProject\.cache\Windows\SFX\Footstep_Wood 3 _10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Game_or_Menu_Switch\Mahlee_Footsteps\Footsteps_Wood\Footstep_Wood 3		60892
+	868620429	Footsteps_Tile 5	C:\Users\Lasse\Documents\Perforce\WhatsInMyBag\dev\WhatsInMyBag\WhatsInMyBAG_WwiseProject\.cache\Windows\SFX\Footsteps_Tile 5_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Game_or_Menu_Switch\Mahlee_Footsteps\Footsteps_Tile\Footsteps_Tile 5		96144
+	870248013	Cardboard_Box 5	C:\Users\Lasse\Documents\Perforce\WhatsInMyBag\dev\WhatsInMyBag\WhatsInMyBAG_WwiseProject\.cache\Windows\SFX\Cardboard_Box 5_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Game_or_Menu_Switch\Object_Cardboard_Box\Cardboard_Box 5		220564
+	889946412	Chair_Slide 3	C:\Users\Lasse\Documents\Perforce\WhatsInMyBag\dev\WhatsInMyBag\WhatsInMyBAG_WwiseProject\.cache\Windows\SFX\Chair_Slide 3_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Game_or_Menu_Switch\Object_Chair_Slide\Chair_Slide 3		76100
+	890069007	Menu_Slide	C:\Users\Lasse\Documents\Perforce\WhatsInMyBag\dev\WhatsInMyBag\WhatsInMyBAG_WwiseProject\.cache\Windows\SFX\Menu_Click_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Menu_Slide		13888
+	894564684	Dog_Pant 1	C:\Users\Lasse\Documents\Perforce\WhatsInMyBag\dev\WhatsInMyBag\WhatsInMyBAG_WwiseProject\.cache\Windows\SFX\Dog_Pant 1_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Game_or_Menu_Switch\Dog_Pant\Dog_Pant 1		1579280
+	898615691	Security_Gibberish 2	C:\Users\Lasse\Documents\Perforce\WhatsInMyBag\dev\WhatsInMyBag\WhatsInMyBAG_WwiseProject\.cache\Windows\SFX\Security_Gibberish 2_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Game_or_Menu_Switch\Security_Gibberish\Security_Gibberish 2		566104
+	906118068	IT_Lady_Footsteps_Wood 4	C:\Users\Lasse\Documents\Perforce\WhatsInMyBag\dev\WhatsInMyBag\WhatsInMyBAG_WwiseProject\.cache\Windows\SFX\IT_Lady_Footsteps_Wood 4_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Game_or_Menu_Switch\IT_Lady_Footsteps\IT_Lady_Footsteps_Wood\IT_Lady_Footsteps_Wood 4		182548
+	907057816	Footstep_Wood 4	C:\Users\Lasse\Documents\Perforce\WhatsInMyBag\dev\WhatsInMyBag\WhatsInMyBAG_WwiseProject\.cache\Windows\SFX\Footstep_Wood 4 _10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Game_or_Menu_Switch\Mahlee_Footsteps\Footsteps_Wood\Footstep_Wood 4		60892
+	912162395	Grab	C:\Users\Lasse\Documents\Perforce\WhatsInMyBag\dev\WhatsInMyBag\WhatsInMyBAG_WwiseProject\.cache\Windows\SFX\Grab_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Game_or_Menu_Switch\Mahlee_Grab\Grab		66176
+	913575042	Coffee_Boy_Intro_Stinger	C:\Users\Lasse\Documents\Perforce\WhatsInMyBag\dev\WhatsInMyBag\WhatsInMyBAG_WwiseProject\.cache\Windows\SFX\WIMB Char_Intro_Coffeeguy_D79FB2B7.wem		\Interactive Music Hierarchy\Default Work Unit\Introduction_Stinger\Coffee_Boy_Intro_Stinger\Coffee_Boy_Intro_Stinger		1441896
+	920315838	WIMB S1_Trans_2	C:\Users\Lasse\Documents\Perforce\WhatsInMyBag\dev\WhatsInMyBag\WhatsInMyBAG_WwiseProject\.cache\Windows\SFX\WIMB S1_Trans_2_D79FB2B7.wem		\Interactive Music Hierarchy\Default Work Unit\Gameplay_Music_Transitions\WIMB S1_Trans_2\WIMB S1_Trans_2		940476
+	928815354	Coffee_Guy_Gibberish 2	C:\Users\Lasse\Documents\Perforce\WhatsInMyBag\dev\WhatsInMyBag\WhatsInMyBAG_WwiseProject\.cache\Windows\SFX\Coffee_Guy_Gibberish 2_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Game_or_Menu_Switch\Coffee_Guy_Gibberish\Coffee_Guy_Gibberish 2		304204
+	931271699	IT_Lady_Footsteps_Carpet 4	C:\Users\Lasse\Documents\Perforce\WhatsInMyBag\dev\WhatsInMyBag\WhatsInMyBAG_WwiseProject\.cache\Windows\SFX\IT_Lady_Footsteps_Carpet 4_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Game_or_Menu_Switch\IT_Lady_Footsteps\IT_Lady_Footsteps_Carpet\IT_Lady_Footsteps_Carpet 4		182548
+	933686040	Intro_Sequence	C:\Users\Lasse\Documents\Perforce\WhatsInMyBag\dev\WhatsInMyBag\WhatsInMyBAG_WwiseProject\.cache\Windows\SFX\Intro_Sequence - Sounddesign_D79FB2B7.wem		\Interactive Music Hierarchy\Default Work Unit\Intro_Sequence\Intro_Sequence		7938064
+	944380476	Dog_Footsteps_Tile 2	C:\Users\Lasse\Documents\Perforce\WhatsInMyBag\dev\WhatsInMyBag\WhatsInMyBAG_WwiseProject\.cache\Windows\SFX\Dog_Footsteps_Tile 2_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Game_or_Menu_Switch\Dog_Footsteps\Dog_Footsteps_Tile\Dog_Footsteps_Tile 2		112216
+	954084944	Menu_Backward	C:\Users\Lasse\Documents\Perforce\WhatsInMyBag\dev\WhatsInMyBag\WhatsInMyBAG_WwiseProject\.cache\Windows\SFX\Menu_Backward_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Menu_Backward		48048
+	960023292	Office_Chair_Roll 3	C:\Users\Lasse\Documents\Perforce\WhatsInMyBag\dev\WhatsInMyBag\WhatsInMyBAG_WwiseProject\.cache\Windows\SFX\Office_Chair_Roll 3_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Game_or_Menu_Switch\Object_Office_Chair\Office_Chair_Roll 3		333372
+	960420525	IT_Lady_Footsteps_Carpet 5	C:\Users\Lasse\Documents\Perforce\WhatsInMyBag\dev\WhatsInMyBag\WhatsInMyBAG_WwiseProject\.cache\Windows\SFX\IT_Lady_Footsteps_Carpet 5_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Game_or_Menu_Switch\IT_Lady_Footsteps\IT_Lady_Footsteps_Carpet\IT_Lady_Footsteps_Carpet 5		182548
+	962245836	Security_Gibberish 6	C:\Users\Lasse\Documents\Perforce\WhatsInMyBag\dev\WhatsInMyBag\WhatsInMyBAG_WwiseProject\.cache\Windows\SFX\Security_Gibberish 6_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Game_or_Menu_Switch\Security_Gibberish\Security_Gibberish 6		1146980
+	967025071	IT_Lady_Footsteps_Wood 2	C:\Users\Lasse\Documents\Perforce\WhatsInMyBag\dev\WhatsInMyBag\WhatsInMyBAG_WwiseProject\.cache\Windows\SFX\IT_Lady_Footsteps_Wood 2_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Game_or_Menu_Switch\IT_Lady_Footsteps\IT_Lady_Footsteps_Wood\IT_Lady_Footsteps_Wood 2		182548
+	968343455	Security_Man_Footsteps_Carpet 4	C:\Users\Lasse\Documents\Perforce\WhatsInMyBag\dev\WhatsInMyBag\WhatsInMyBAG_WwiseProject\.cache\Windows\SFX\Security_Man_Footsteps_Carpet 4_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Game_or_Menu_Switch\Security_Footsteps\Security_Footsteps_Carpet\Security_Man_Footsteps_Carpet 4		83704
+	971951826	Body_Bag 1	C:\Users\Lasse\Documents\Perforce\WhatsInMyBag\dev\WhatsInMyBag\WhatsInMyBAG_WwiseProject\.cache\Windows\SFX\Body_Bag 1_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Game_or_Menu_Switch\Object_Body_Bag\Body_Bag 1		1387228
+	980686083	Coffee_Guy_Gibberish 15	C:\Users\Lasse\Documents\Perforce\WhatsInMyBag\dev\WhatsInMyBag\WhatsInMyBAG_WwiseProject\.cache\Windows\SFX\Coffee_Guy_Gibberish 15_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Game_or_Menu_Switch\Coffee_Guy_Gibberish\Coffee_Guy_Gibberish 15		638756
+	983605874	Dog_Footsteps_Wood 2	C:\Users\Lasse\Documents\Perforce\WhatsInMyBag\dev\WhatsInMyBag\WhatsInMyBAG_WwiseProject\.cache\Windows\SFX\Dog_Footsteps_Wood 2_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Game_or_Menu_Switch\Dog_Footsteps\Dog_Footsteps_Wood\Dog_Footsteps_Wood 2		45036
+	983664724	IT_Lady_Footsteps_Wood 5	C:\Users\Lasse\Documents\Perforce\WhatsInMyBag\dev\WhatsInMyBag\WhatsInMyBAG_WwiseProject\.cache\Windows\SFX\IT_Lady_Footsteps_Wood 5_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Game_or_Menu_Switch\IT_Lady_Footsteps\IT_Lady_Footsteps_Wood\IT_Lady_Footsteps_Wood 5		182548
+	985047731	Office_Chair_Roll 1	C:\Users\Lasse\Documents\Perforce\WhatsInMyBag\dev\WhatsInMyBag\WhatsInMyBAG_WwiseProject\.cache\Windows\SFX\Office_Chair_Roll 1_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Game_or_Menu_Switch\Object_Office_Chair\Office_Chair_Roll 1		486252
+	985640098	Security_Man_Footsteps_Tile 5	C:\Users\Lasse\Documents\Perforce\WhatsInMyBag\dev\WhatsInMyBag\WhatsInMyBAG_WwiseProject\.cache\Windows\SFX\Security_Man_Footsteps_Tile 5_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Game_or_Menu_Switch\Security_Footsteps\Security_Footsteps_Tile\Security_Man_Footsteps_Tile 5		128252
+	988094340	Office_Chair_Roll 4	C:\Users\Lasse\Documents\Perforce\WhatsInMyBag\dev\WhatsInMyBag\WhatsInMyBAG_WwiseProject\.cache\Windows\SFX\Office_Chair_Roll 4_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Game_or_Menu_Switch\Object_Office_Chair\Office_Chair_Roll 4		454076
+	988947744	WIMB S1_Loop_5	C:\Users\Lasse\Documents\Perforce\WhatsInMyBag\dev\WhatsInMyBag\WhatsInMyBAG_WwiseProject\.cache\Windows\SFX\WIMB S1_Loop_5_D79FB2B7.wem		\Interactive Music Hierarchy\Default Work Unit\Game_or_Menu_Switch\Game_Music_Switch\Gameplay_Music\Checkpoint_5\WIMB S1_Loop_5\WIMB S1_Loop_5		7523332
+	1001649125	Throw	C:\Users\Lasse\Documents\Perforce\WhatsInMyBag\dev\WhatsInMyBag\WhatsInMyBAG_WwiseProject\.cache\Windows\SFX\Throw_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Game_or_Menu_Switch\Mahlee_Throw\Throw		11346
+	1002098731	Chair_Slide 2	C:\Users\Lasse\Documents\Perforce\WhatsInMyBag\dev\WhatsInMyBag\WhatsInMyBAG_WwiseProject\.cache\Windows\SFX\Chair_Slide 2_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Game_or_Menu_Switch\Object_Chair_Slide\Chair_Slide 2		72300
+	1009633593	Security_Man_Footsteps_Wood 4	C:\Users\Lasse\Documents\Perforce\WhatsInMyBag\dev\WhatsInMyBag\WhatsInMyBAG_WwiseProject\.cache\Windows\SFX\Security_Man_Footsteps_Wood 4_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Game_or_Menu_Switch\Security_Footsteps\Security_Footsteps_Wood\Security_Man_Footsteps_Wood 4		167340
+	1009956689	Verka_Gibberish 4	C:\Users\Lasse\Documents\Perforce\WhatsInMyBag\dev\WhatsInMyBag\WhatsInMyBAG_WwiseProject\.cache\Windows\SFX\Verka_Gibberish 4_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Game_or_Menu_Switch\Verka_Gibberish\Verka_Gibberish 4		729996
+	1019051001	Dog_Bark 1	C:\Users\Lasse\Documents\Perforce\WhatsInMyBag\dev\WhatsInMyBag\WhatsInMyBAG_WwiseProject\.cache\Windows\SFX\Dog_Bark 1_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Game_or_Menu_Switch\Dog_Bark\Dog_Bark 1		76100
+	1020724927	Coffee_Guy_Gibberish 3	C:\Users\Lasse\Documents\Perforce\WhatsInMyBag\dev\WhatsInMyBag\WhatsInMyBAG_WwiseProject\.cache\Windows\SFX\Coffee_Guy_Gibberish 3_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Game_or_Menu_Switch\Coffee_Guy_Gibberish\Coffee_Guy_Gibberish 3		623548
+	1028706834	Security_Gibberish 7	C:\Users\Lasse\Documents\Perforce\WhatsInMyBag\dev\WhatsInMyBag\WhatsInMyBAG_WwiseProject\.cache\Windows\SFX\Security_Gibberish 7_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Game_or_Menu_Switch\Security_Gibberish\Security_Gibberish 7		1155048
+	1035081304	Coffee_Guy_Footsteps_Carpet 1	C:\Users\Lasse\Documents\Perforce\WhatsInMyBag\dev\WhatsInMyBag\WhatsInMyBAG_WwiseProject\.cache\Windows\SFX\Coffee_Guy_Footsteps_Carpet 1_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Game_or_Menu_Switch\Coffee_Guy_Footsteps\Coffee_Guy_Footsteps_Carpet\Coffee_Guy_Footsteps_Carpet 1		114476
+	1037188629	Footstep_Carpet 2	C:\Users\Lasse\Documents\Perforce\WhatsInMyBag\dev\WhatsInMyBag\WhatsInMyBAG_WwiseProject\.cache\Windows\SFX\Leather Shoes Carpet 2_8072932E.wem		\Actor-Mixer Hierarchy\Default Work Unit\Game_or_Menu_Switch\Mahlee_Footsteps\Footsteps_Carpet\Footstep_Carpet 2		218664
+	1037586059	Dog_Pant 5	C:\Users\Lasse\Documents\Perforce\WhatsInMyBag\dev\WhatsInMyBag\WhatsInMyBAG_WwiseProject\.cache\Windows\SFX\Dog_Pant 5_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Game_or_Menu_Switch\Dog_Pant\Dog_Pant 5		821240
+	1041119817	Footstep_Carpet 3	C:\Users\Lasse\Documents\Perforce\WhatsInMyBag\dev\WhatsInMyBag\WhatsInMyBAG_WwiseProject\.cache\Windows\SFX\Leather Shoes Carpet 3_00D4056F.wem		\Actor-Mixer Hierarchy\Default Work Unit\Game_or_Menu_Switch\Mahlee_Footsteps\Footsteps_Carpet\Footstep_Carpet 3		180648
+	1043025096	Coffee_Guy_Footsteps_Carpet 2	C:\Users\Lasse\Documents\Perforce\WhatsInMyBag\dev\WhatsInMyBag\WhatsInMyBAG_WwiseProject\.cache\Windows\SFX\Coffee_Guy_Footsteps_Carpet 2_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Game_or_Menu_Switch\Coffee_Guy_Footsteps\Coffee_Guy_Footsteps_Carpet\Coffee_Guy_Footsteps_Carpet 2		98672
+	1044543596	Security_Man_Footsteps_Wood 2	C:\Users\Lasse\Documents\Perforce\WhatsInMyBag\dev\WhatsInMyBag\WhatsInMyBAG_WwiseProject\.cache\Windows\SFX\Security_Man_Footsteps_Wood 2_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Game_or_Menu_Switch\Security_Footsteps\Security_Footsteps_Wood\Security_Man_Footsteps_Wood 2		160212
+	1053097451	Coffee_Guy_Gibberish 10	C:\Users\Lasse\Documents\Perforce\WhatsInMyBag\dev\WhatsInMyBag\WhatsInMyBAG_WwiseProject\.cache\Windows\SFX\Coffee_Guy_Gibberish 10_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Game_or_Menu_Switch\Coffee_Guy_Gibberish\Coffee_Guy_Gibberish 10		334616
+	1054092159	Office_Chair_Roll 2	C:\Users\Lasse\Documents\Perforce\WhatsInMyBag\dev\WhatsInMyBag\WhatsInMyBAG_WwiseProject\.cache\Windows\SFX\Office_Chair_Roll 2_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Game_or_Menu_Switch\Object_Office_Chair\Office_Chair_Roll 2		270704
+	1055071421	WIMB S1_Trans_4	C:\Users\Lasse\Documents\Perforce\WhatsInMyBag\dev\WhatsInMyBag\WhatsInMyBAG_WwiseProject\.cache\Windows\SFX\WIMB S1_Trans_4_D79FB2B7.wem		\Interactive Music Hierarchy\Default Work Unit\Gameplay_Music_Transitions\WIMB S1_Trans_4\WIMB S1_Trans_4		940476
+	1057878484	Footsteps_Tile 1	C:\Users\Lasse\Documents\Perforce\WhatsInMyBag\dev\WhatsInMyBag\WhatsInMyBAG_WwiseProject\.cache\Windows\SFX\Footsteps_Tile 1_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Game_or_Menu_Switch\Mahlee_Footsteps\Footsteps_Tile\Footsteps_Tile 1		110744
+	1064533266	Verka_Intro_Stinger	C:\Users\Lasse\Documents\Perforce\WhatsInMyBag\dev\WhatsInMyBag\WhatsInMyBAG_WwiseProject\.cache\Windows\SFX\WIMB Char_Intro_Verka_D79FB2B7.wem		\Interactive Music Hierarchy\Default Work Unit\Introduction_Stinger\Verka_Intro_Stinger\Verka_Intro_Stinger		1441896
+	1068435855	Security_Man_Footsteps_Carpet 1	C:\Users\Lasse\Documents\Perforce\WhatsInMyBag\dev\WhatsInMyBag\WhatsInMyBAG_WwiseProject\.cache\Windows\SFX\Security_Man_Footsteps_Carpet 1_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Game_or_Menu_Switch\Security_Footsteps\Security_Footsteps_Carpet\Security_Man_Footsteps_Carpet 1		80376
+	1071239862	Footsteps_Concrete 1	C:\Users\Lasse\Documents\Perforce\WhatsInMyBag\dev\WhatsInMyBag\WhatsInMyBAG_WwiseProject\.cache\Windows\SFX\Footsteps_Concrete 1_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Game_or_Menu_Switch\Mahlee_Footsteps\Footsteps_Concrete\Footsteps_Concrete 1		66244
+	1072968834	IT_Lady_Footsteps_Carpet 2	C:\Users\Lasse\Documents\Perforce\WhatsInMyBag\dev\WhatsInMyBag\WhatsInMyBAG_WwiseProject\.cache\Windows\SFX\IT_Lady_Footsteps_Carpet 2_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Game_or_Menu_Switch\IT_Lady_Footsteps\IT_Lady_Footsteps_Carpet\IT_Lady_Footsteps_Carpet 2		182548
+	1073548065	Footstep_Squish 1	C:\Users\Lasse\Documents\Perforce\WhatsInMyBag\dev\WhatsInMyBag\WhatsInMyBAG_WwiseProject\.cache\Windows\SFX\Footstep_Squish 1_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Game_or_Menu_Switch\Mahlee_Footsteps\Footsteps_Liquid\Footstep_Squish 1		72300
+

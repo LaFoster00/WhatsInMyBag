@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 11afc5de3ad0ab348ae050ad6304d37c, type: 3}
+  m_Name: PropDesc_CoffeeMachine
+  m_EditorClassIdentifier: 
+  localGrabOffset:
+    x: 0
+    y: 0
+    z: 1.5
+  localRotationOffset:
+    x: 0
+    y: 0
+    z: 0
+  behaviour: 0
+  weight: 2
+  interaction: {fileID: 0}
+  emitEventOnImpact: 0
+  eventIdentifier: ItemImpact
+  impactEventSpeedThreshold: 5
+  minAlertionDistance: 1
+  maxAlertionDistance: 3
+  alertionAngle: 140
+  alertionDirection: 0
+  debugViewAlertionCone: 0
+  itemInteractions:
+  - item: {fileID: 11400000, guid: bcea1414817a5044fb26c61180c27c61, type: 2}
+    interaction: {fileID: 11400000, guid: 2d7884b679ea4b64bb148925f002254d, type: 2}
+  customDataType:
+    GuidAssignmentFailed: 0
+    GUID: ef0e6d16ba241bc4f8d415f56d24816e
+    TypeNameAndAssembly: Props.Description.Data.CD_CoffeeMachine, Content.External
+    _suppressLogs: 0

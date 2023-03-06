@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8f305d17bc9d9024ea77754b03fe7d6f, type: 3}
+  m_Name: 5FAFD6A7-0277-4D55-BAD7-7696EC13D622
+  m_EditorClassIdentifier: 
+  objectName: Checkpoint_1
+  id: 1174696551
+  guid: 5FAFD6A7-0277-4D55-BAD7-7696EC13D622
+  WwiseStateGroupReference: {fileID: 11400000, guid: 5dd74dfa9b95aa44496c6f50b7dbbef6, type: 2}

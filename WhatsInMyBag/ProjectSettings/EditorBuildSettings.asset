@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Content/Scenes/MainMenu.unity
+    guid: 3a8d20b7c5696cb4bb17b5b21fb27004
+  - enabled: 1
+    path: Assets/Content/Scenes/MainLoadingScreen.unity
+    guid: f289d9fba6d96f241aa9d6aa956454f3
+  - enabled: 1
+    path: Assets/Content/Scenes/Intro.unity
+    guid: 9bd2c7d88cc160c44bc1d6be17cc72af
+  - enabled: 1
+    path: Assets/Content/Scenes/WhatsInMyBag_LevelMainV3.unity
+    guid: 356b7c781f5226a4099c36955a735975
+  - enabled: 1
+    path: Assets/Content/Scenes/Outro.unity
+    guid: 584dbedbfc07cd748ab67b8cafe1f0b9
+  m_configObjects: {}

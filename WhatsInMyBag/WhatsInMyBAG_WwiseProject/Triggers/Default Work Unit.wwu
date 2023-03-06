@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{5D3CD891-C51D-405B-ACF0-9E0B998F10B2}" SchemaVersion="103">
+	<Triggers>
+		<WorkUnit Name="Default Work Unit" ID="{5D3CD891-C51D-405B-ACF0-9E0B998F10B2}" PersistMode="Standalone">
+			<ChildrenList>
+				<Trigger Name="Coffee_Guy_Intro_Stinger" ID="{AF59DE95-B5F2-4116-9310-D8C4A0293CEA}">
+					<PropertyList>
+						<Property Name="Color" Type="int16" Value="23"/>
+						<Property Name="OverrideColor" Type="bool" Value="True"/>
+					</PropertyList>
+				</Trigger>
+				<Trigger Name="Verka_Intro_Stinger" ID="{ABDEF701-FF78-43B1-BD05-665223C8FE30}">
+					<PropertyList>
+						<Property Name="Color" Type="int16" Value="23"/>
+						<Property Name="OverrideColor" Type="bool" Value="True"/>
+					</PropertyList>
+				</Trigger>
+				<Trigger Name="Security_Intro_Stinger" ID="{703FA3BB-2992-4ECF-9118-CF08899B80F6}">
+					<PropertyList>
+						<Property Name="Color" Type="int16" Value="23"/>
+						<Property Name="OverrideColor" Type="bool" Value="True"/>
+					</PropertyList>
+				</Trigger>
+				<Trigger Name="Coffee_Machine_Intro_Stinger" ID="{A7B87013-1115-4D08-8B5C-71C2E1B1E231}">
+					<PropertyList>
+						<Property Name="Color" Type="int16" Value="23"/>
+						<Property Name="OverrideColor" Type="bool" Value="True"/>
+					</PropertyList>
+				</Trigger>
+				<Trigger Name="Garbage_Intro_Stinger" ID="{836F6B2B-FB8A-45FD-B25E-2C48D91C9B93}">
+					<PropertyList>
+						<Property Name="Color" Type="int16" Value="23"/>
+						<Property Name="OverrideColor" Type="bool" Value="True"/>
+					</PropertyList>
+				</Trigger>
+				<Trigger Name="IT_Girl_Intro_Stinger" ID="{44683AC1-1779-4019-92AB-2EA4E3B69A58}"/>
+			</ChildrenList>
+		</WorkUnit>
+	</Triggers>
+</WwiseDocument>

@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{95506D12-3ACA-45ED-ABD1-210A59E3930F}" SchemaVersion="103">
+	<SoundBanks>
+		<WorkUnit Name="Default Work Unit" ID="{95506D12-3ACA-45ED-ABD1-210A59E3930F}" PersistMode="Standalone">
+			<ChildrenList>
+				<SoundBank Name="Main" ID="{0E2F3A60-DD24-4849-9D96-8624EF60E4ED}">
+					<ObjectInclusionList>
+						<ObjectRef Name="Play_Office_Chair" ID="{2ED08955-1476-405C-9CB6-B330F98C7132}" WorkUnitID="{371F7846-970D-4EE5-89DC-32921575BCE4}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Stop_Gameplay_Music" ID="{84FBDAB0-4F16-40B0-ABC8-762F8D76E031}" WorkUnitID="{E1AA69A5-532D-4B23-BEDA-7D665B445951}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_Dog_Pant" ID="{4CE1DC45-3FE2-40E6-87F6-ABCF83013A8E}" WorkUnitID="{371F7846-970D-4EE5-89DC-32921575BCE4}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Stop_Cleaning_Trolley" ID="{DA4F1255-8EA7-4149-9CEE-8E911094FE71}" WorkUnitID="{371F7846-970D-4EE5-89DC-32921575BCE4}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_Cashboard_Box" ID="{B2141B29-E551-4165-B49E-97E56BADE5AC}" WorkUnitID="{371F7846-970D-4EE5-89DC-32921575BCE4}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_Coffee_Guy_Gibberish" ID="{C2BAE609-B3E7-41B7-9283-16693AC736F6}" WorkUnitID="{371F7846-970D-4EE5-89DC-32921575BCE4}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Stop_Dog_Pant" ID="{6E848ADE-906A-41C8-93F9-18AECC1DFB27}" WorkUnitID="{371F7846-970D-4EE5-89DC-32921575BCE4}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Object_Body_Bag" ID="{B71517D0-07C5-41DA-87F6-7CC415C2D672}" WorkUnitID="{F4EDCB4A-3437-4B5F-9635-0A011CA63209}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Stop_IT_Lady_Gibberish" ID="{9FEA524D-28C7-41DA-921F-494813A43716}" WorkUnitID="{371F7846-970D-4EE5-89DC-32921575BCE4}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_Drop" ID="{01E98566-6B54-41DB-A9C5-FDDC939ECEF1}" WorkUnitID="{371F7846-970D-4EE5-89DC-32921575BCE4}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_Grab" ID="{6132CF08-8A32-4232-B892-783BE5DCFB0A}" WorkUnitID="{371F7846-970D-4EE5-89DC-32921575BCE4}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_Alert" ID="{A8C30E3F-5CA3-4272-986A-A4055FFBB7C8}" WorkUnitID="{371F7846-970D-4EE5-89DC-32921575BCE4}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_IT_Girl_Intro_Stinger" ID="{039ADA35-DC17-429F-8A4D-97618D1A7EC2}" WorkUnitID="{E1AA69A5-532D-4B23-BEDA-7D665B445951}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Object_Fan" ID="{7F60EB4E-3969-42AD-8A0E-3B493C42265A}" WorkUnitID="{F4EDCB4A-3437-4B5F-9635-0A011CA63209}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Dog_Pant" ID="{575304FF-AF5B-4305-AF53-740000AF154C}" WorkUnitID="{F4EDCB4A-3437-4B5F-9635-0A011CA63209}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Coffee_Guy_Gibberish" ID="{D87FDD36-E78C-4397-9ED2-2CDA496C6B60}" WorkUnitID="{F4EDCB4A-3437-4B5F-9635-0A011CA63209}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Dog_Bark" ID="{72E5C687-9CE9-43FA-B5B1-BE349F0C1290}" WorkUnitID="{F4EDCB4A-3437-4B5F-9635-0A011CA63209}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_Security_Gibberish" ID="{450265E2-92B3-4439-A36F-A42A1B13CF04}" WorkUnitID="{371F7846-970D-4EE5-89DC-32921575BCE4}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_Intro_Sequence" ID="{A6319163-7F0F-4470-8D3D-29A57DD0691B}" WorkUnitID="{E1AA69A5-532D-4B23-BEDA-7D665B445951}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_Foot_Player" ID="{7F044323-8CC8-448A-B0DE-F307C25548B1}" WorkUnitID="{371F7846-970D-4EE5-89DC-32921575BCE4}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Menu_Click" ID="{4E5C497B-9C0B-44B7-8C53-83B8C8B21155}" WorkUnitID="{371F7846-970D-4EE5-89DC-32921575BCE4}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="IT_Lady_Footsteps" ID="{4C169D54-FE82-44B8-8F39-9D764451B6C9}" WorkUnitID="{F4EDCB4A-3437-4B5F-9635-0A011CA63209}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_Chair_Slide" ID="{83E8163C-2FFC-44F9-8152-F6B20D63D812}" WorkUnitID="{371F7846-970D-4EE5-89DC-32921575BCE4}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_Printer" ID="{FDA4BBF9-0310-4505-9266-EF1DBC1C2CCF}" WorkUnitID="{371F7846-970D-4EE5-89DC-32921575BCE4}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Object_Door_Close" ID="{BF8536AD-3C8F-4505-A5B0-CF5435A9814A}" WorkUnitID="{F4EDCB4A-3437-4B5F-9635-0A011CA63209}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Stop_Security_Intro_Stinger" ID="{29350D5D-F352-4505-AF58-03DC3D63FA8C}" WorkUnitID="{E1AA69A5-532D-4B23-BEDA-7D665B445951}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Stop_Coffee_Machine" ID="{1D39805D-1BB3-451F-A705-7C7ECF0C2F4E}" WorkUnitID="{371F7846-970D-4EE5-89DC-32921575BCE4}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_Verka_Intro_Stinger" ID="{B0F3F6E9-CFE2-45BE-8F73-35BE345472C2}" WorkUnitID="{E1AA69A5-532D-4B23-BEDA-7D665B445951}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_Menu_Soundtrack" ID="{D54FF96E-789D-45CE-BEA8-8DF7CB0091FF}" WorkUnitID="{E1AA69A5-532D-4B23-BEDA-7D665B445951}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_Coffee_Guy_Intro_Stinger" ID="{7BA6FB4E-11B4-45CF-8BB4-0B89CD2297D4}" WorkUnitID="{E1AA69A5-532D-4B23-BEDA-7D665B445951}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Stop_Ingame_Intro_Sequence" ID="{4249D83B-687E-45FB-A73E-D3C135CE231D}" WorkUnitID="{E1AA69A5-532D-4B23-BEDA-7D665B445951}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Stop_Intro_Sequence" ID="{09783FCF-7479-4615-83E7-8AF48A0D13B8}" WorkUnitID="{E1AA69A5-532D-4B23-BEDA-7D665B445951}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Stop_Security_Gibberish" ID="{2659236C-2350-4676-8ED8-DB7413969535}" WorkUnitID="{371F7846-970D-4EE5-89DC-32921575BCE4}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Stop_Speaker" ID="{D7E53AA5-99C4-467C-82D6-3F5516AE989C}" WorkUnitID="{371F7846-970D-4EE5-89DC-32921575BCE4}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_Attention_Meter" ID="{31A51340-38A6-468F-A029-B37308AEA7C7}" WorkUnitID="{371F7846-970D-4EE5-89DC-32921575BCE4}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Menu_Slide" ID="{C35BED84-BD15-46A0-8482-61843C36DB04}" WorkUnitID="{371F7846-970D-4EE5-89DC-32921575BCE4}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_Fan" ID="{4AB4B32D-ACF0-46AE-A5AF-986609DD99DB}" WorkUnitID="{371F7846-970D-4EE5-89DC-32921575BCE4}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_IT_Lady_Gibberish" ID="{288967B7-1F23-46B8-A2E9-2E6A7132EC51}" WorkUnitID="{371F7846-970D-4EE5-89DC-32921575BCE4}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Dog_Footsteps" ID="{E233F744-258B-46FB-A4B8-BBAF45E4CF82}" WorkUnitID="{F4EDCB4A-3437-4B5F-9635-0A011CA63209}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_Garbage_Intro_Stinger" ID="{F9140FD7-B799-470D-AE2B-647BEBEAAD19}" WorkUnitID="{E1AA69A5-532D-4B23-BEDA-7D665B445951}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Menu_Backward" ID="{4480B2CC-86B4-47C0-BBAD-1E5695470E4F}" WorkUnitID="{371F7846-970D-4EE5-89DC-32921575BCE4}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Security_Footsteps" ID="{54F179F9-3945-480A-BF18-728C13E42457}" WorkUnitID="{F4EDCB4A-3437-4B5F-9635-0A011CA63209}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Stop_Verka_Intro_Stinger" ID="{1135E5BA-586C-4832-ACEC-3AB4B49E44F4}" WorkUnitID="{E1AA69A5-532D-4B23-BEDA-7D665B445951}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Object_Cleaning_Trolley" ID="{E39A2A63-A742-4858-BE03-2A1D8149170F}" WorkUnitID="{F4EDCB4A-3437-4B5F-9635-0A011CA63209}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Stop_Verka_Gibberish" ID="{C92526AB-75AB-48A6-A3A8-57022DF5A157}" WorkUnitID="{371F7846-970D-4EE5-89DC-32921575BCE4}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_Bottle_Drop" ID="{0116421A-FAB3-48EF-9E6D-908A9BBBF228}" WorkUnitID="{371F7846-970D-4EE5-89DC-32921575BCE4}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Object_Bottle_Drop" ID="{3AF9549B-637E-491D-868A-3BCEAC0C0998}" WorkUnitID="{F4EDCB4A-3437-4B5F-9635-0A011CA63209}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Stop_Body_Bag" ID="{2360CA45-AB4B-492D-A564-B91016300BA2}" WorkUnitID="{371F7846-970D-4EE5-89DC-32921575BCE4}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Stop_Attention_Meter" ID="{D65B4F4A-E7F3-493C-948D-A53DF065BB88}" WorkUnitID="{371F7846-970D-4EE5-89DC-32921575BCE4}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Object_Speaker" ID="{D5A1D9EA-1B56-4952-BC80-AA2EC708F3C7}" WorkUnitID="{F4EDCB4A-3437-4B5F-9635-0A011CA63209}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_Technical_Error" ID="{75FBA762-083F-4983-96E0-7951874F2A2D}" WorkUnitID="{371F7846-970D-4EE5-89DC-32921575BCE4}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Stop_Technical_Error" ID="{EF7E9132-5309-498F-AAF7-AAF113E9EDF1}" WorkUnitID="{371F7846-970D-4EE5-89DC-32921575BCE4}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Stop_Dog_Bark" ID="{6754B293-6F1F-49C9-9BF2-12F55F10D15C}" WorkUnitID="{371F7846-970D-4EE5-89DC-32921575BCE4}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_Body_Bag" ID="{7CF242CC-8791-4A2E-AD2C-575503A37477}" WorkUnitID="{371F7846-970D-4EE5-89DC-32921575BCE4}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Coffee_Guy_Footsteps" ID="{57DC7890-CFE2-4A47-8B86-C20A73ECACB9}" WorkUnitID="{F4EDCB4A-3437-4B5F-9635-0A011CA63209}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Object_Printer" ID="{7D15138E-EE71-4A6C-A142-66FB80C5103F}" WorkUnitID="{F4EDCB4A-3437-4B5F-9635-0A011CA63209}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Security_Gibberish" ID="{430409A2-039F-4A96-AEAE-0D16DDF37539}" WorkUnitID="{F4EDCB4A-3437-4B5F-9635-0A011CA63209}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_Coffee_Machine" ID="{59BC9C2B-5FF8-4ADE-A87A-3B52A0AA9F04}" WorkUnitID="{371F7846-970D-4EE5-89DC-32921575BCE4}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_Gameplay_Music" ID="{715F6C6A-D913-4B39-9606-1ADE0FBDC5C6}" WorkUnitID="{E1AA69A5-532D-4B23-BEDA-7D665B445951}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_Speaker" ID="{083A559A-4DCF-4B87-B065-78B2AE773097}" WorkUnitID="{371F7846-970D-4EE5-89DC-32921575BCE4}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Stop_IT_Girl_Intro_Stinger" ID="{FE47E9CF-CF3C-4BAE-946A-7E2A1D4D9927}" WorkUnitID="{E1AA69A5-532D-4B23-BEDA-7D665B445951}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_Throw" ID="{E23D6507-649F-4BBA-A992-7EA143ECD55E}" WorkUnitID="{371F7846-970D-4EE5-89DC-32921575BCE4}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_Cleaning_Trolley" ID="{826CBAFD-5F0C-4BC1-8D6E-387EC16C8288}" WorkUnitID="{371F7846-970D-4EE5-89DC-32921575BCE4}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Stop_Garbage_Intro_Stinger" ID="{05B6462A-4B93-4BCB-87F1-4877950DC092}" WorkUnitID="{E1AA69A5-532D-4B23-BEDA-7D665B445951}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_Sheets_Fly" ID="{091168FD-4343-4BDB-98A9-BF0C31068D39}" WorkUnitID="{371F7846-970D-4EE5-89DC-32921575BCE4}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_Dog_Bark" ID="{31718226-B877-4BF0-9D4A-6FC67FF38959}" WorkUnitID="{371F7846-970D-4EE5-89DC-32921575BCE4}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Object_Office_Chair" ID="{159DA5D5-1B28-4C06-A588-38CFED0F1365}" WorkUnitID="{F4EDCB4A-3437-4B5F-9635-0A011CA63209}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Stop_Fan" ID="{DA02C1DC-6248-4C14-A921-EF260F6BCAB6}" WorkUnitID="{371F7846-970D-4EE5-89DC-32921575BCE4}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_Plastic_Bucket" ID="{DCAF1422-3A71-4C1E-BD9C-D953D31AECB8}" WorkUnitID="{371F7846-970D-4EE5-89DC-32921575BCE4}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_Security_Intro_Stinger" ID="{D5AD51D0-F769-4C22-AA2E-63E247CBAA96}" WorkUnitID="{E1AA69A5-532D-4B23-BEDA-7D665B445951}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_Ingame_Intro_Sequence" ID="{4F47C48A-1372-4C47-A77E-3A4AEC451198}" WorkUnitID="{E1AA69A5-532D-4B23-BEDA-7D665B445951}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Stop_Menu_Soundtrack" ID="{21884AB6-4036-4C84-B249-8B3E6A361777}" WorkUnitID="{E1AA69A5-532D-4B23-BEDA-7D665B445951}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Stop_Sheets_Fly" ID="{676641C2-5F4B-4CEB-B3B4-E92182D19131}" WorkUnitID="{371F7846-970D-4EE5-89DC-32921575BCE4}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_Coffee_Machine_Intro_Stinger" ID="{98A12B3F-0455-4D8C-9CA3-F3443D1E2BAF}" WorkUnitID="{E1AA69A5-532D-4B23-BEDA-7D665B445951}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Stop_Coffee_Machine_Intro_Stinger" ID="{87482810-3E0B-4D9A-802A-1264BC81B698}" WorkUnitID="{E1AA69A5-532D-4B23-BEDA-7D665B445951}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Stop_Outro_Sequence" ID="{6AF12A2E-A9B2-4E0F-9D6F-170ABECC8BE1}" WorkUnitID="{E1AA69A5-532D-4B23-BEDA-7D665B445951}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_Checkpoint" ID="{F60E7903-D7E1-4E27-8CBA-8C23BDC15B8F}" WorkUnitID="{371F7846-970D-4EE5-89DC-32921575BCE4}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_Outro_Sequence" ID="{AA8DC3DD-E72E-4E32-A2C0-5711EBA073BC}" WorkUnitID="{E1AA69A5-532D-4B23-BEDA-7D665B445951}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Verka_Gibberish" ID="{5B79B530-920E-4F00-BD66-3D4B2C3F1EBA}" WorkUnitID="{F4EDCB4A-3437-4B5F-9635-0A011CA63209}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_Verka_Gibberish" ID="{1F8F06EB-2759-4F02-A043-5B05EEC45E04}" WorkUnitID="{371F7846-970D-4EE5-89DC-32921575BCE4}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Stop_Coffee_Guy_Intro_Stinger" ID="{A29902DD-DE4F-4F05-9EB8-4DF8262360BA}" WorkUnitID="{E1AA69A5-532D-4B23-BEDA-7D665B445951}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_Door_Close" ID="{9CDB4965-E52C-4F0A-9D64-3F3A3B3036AF}" WorkUnitID="{371F7846-970D-4EE5-89DC-32921575BCE4}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Stop_Coffee_Guy_Gibberish" ID="{1D63F08F-1280-4F11-B9DB-3C2C48E2656F}" WorkUnitID="{371F7846-970D-4EE5-89DC-32921575BCE4}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Mahlee_Footsteps" ID="{2B99EF0A-149D-4F2A-9846-DCCB24914486}" WorkUnitID="{F4EDCB4A-3437-4B5F-9635-0A011CA63209}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Object_Plastic_Bucket" ID="{63171166-47F9-4F3A-AB77-6642E94BEE91}" WorkUnitID="{F4EDCB4A-3437-4B5F-9635-0A011CA63209}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Object_Cardboard_Box" ID="{D51BC574-005B-4FA7-9E22-2739689D1CA5}" WorkUnitID="{F4EDCB4A-3437-4B5F-9635-0A011CA63209}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Object_Sheets_Fly" ID="{5471216E-C00C-4FF9-BC07-F3B9D5AEB5CD}" WorkUnitID="{F4EDCB4A-3437-4B5F-9635-0A011CA63209}" Origin="Manual" Filter="7"/>
+					</ObjectInclusionList>
+					<ObjectExclusionList/>
+					<GameSyncExclusionList/>
+				</SoundBank>
+			</ChildrenList>
+		</WorkUnit>
+	</SoundBanks>
+</WwiseDocument>
